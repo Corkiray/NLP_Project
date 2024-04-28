@@ -1,0 +1,16076 @@
+"﻿L'"	VERB
+"ARRESTATION"	NOUN
+"D'"	ADP
+"ARSÈNE"	PROPN
+"LUPIN"	PROPN
+"
+
+
+
+"	SPACE
+"L'"	DET
+"étrange"	NOUN
+"voyage"	NOUN
+"!"	PUNCT
+"Il"	PRON
+"avait"	VERB
+"si"	ADV
+"bien"	ADV
+"commencé"	VERB
+"cependant"	ADV
+"!"	PUNCT
+"Pour"	ADP
+"ma"	DET
+"part"	NOUN
+","	PUNCT
+"
+"	SPACE
+"je"	PRON
+"n'"	ADV
+"en"	PRON
+"fis"	VERB
+"jamais"	ADV
+"qui"	PRON
+"s'"	PRON
+"annonçât"	VERB
+"sous"	ADP
+"de"	ADP
+"plus"	ADV
+"heureux"	ADJ
+"auspices"	NOUN
+"."	PUNCT
+"La"	DET
+"
+"	SPACE
+"_"	NOUN
+"Provence"	NOUN
+"_"	NOUN
+"est"	AUX
+"un"	DET
+"transatlantique"	ADJ
+"rapide"	ADJ
+","	PUNCT
+"confortable"	ADJ
+","	PUNCT
+"commandé"	VERB
+"par"	ADP
+"le"	DET
+"
+"	SPACE
+"plus"	ADV
+"affable"	ADJ
+"des"	ADP
+"hommes"	NOUN
+"."	PUNCT
+"La"	DET
+"société"	NOUN
+"la"	DET
+"plus"	ADV
+"choisie"	NOUN
+"s'"	PRON
+"y"	PRON
+"trouvait"	VERB
+"
+"	SPACE
+"réunie"	NOUN
+"."	PUNCT
+"Des"	DET
+"relations"	NOUN
+"se"	PRON
+"formaient"	VERB
+","	PUNCT
+"des"	DET
+"divertissements"	NOUN
+"
+"	SPACE
+"s'"	PRON
+"organisaient"	VERB
+"."	PUNCT
+"Nous"	PRON
+"avions"	VERB
+"cette"	DET
+"impression"	NOUN
+"exquise"	ADJ
+"d'"	ADP
+"être"	AUX
+"séparés"	VERB
+"du"	ADP
+"
+"	SPACE
+"monde"	NOUN
+","	PUNCT
+"réduits"	VERB
+"à"	ADP
+"nous"	PRON
+"-"	NOUN
+"mêmes"	ADJ
+"comme"	ADP
+"sur"	ADP
+"une"	DET
+"île"	NOUN
+"inconnue"	ADJ
+","	PUNCT
+"obligés"	VERB
+","	PUNCT
+"par"	ADP
+"
+"	SPACE
+"conséquent"	NOUN
+","	PUNCT
+"de"	ADP
+"nous"	PRON
+"rapprocher"	VERB
+"les"	DET
+"uns"	NOUN
+"des"	ADP
+"autres"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"nous"	PRON
+"nous"	PRON
+"rapprochions"	VERB
+"..."	PUNCT
+"
+
+"	SPACE
+"Avez"	AUX
+"-vous"	PRON
+"jamais"	ADV
+"songé"	VERB
+"à"	ADP
+"ce"	PRON
+"qu'"	SCONJ
+"il"	PRON
+"y"	PRON
+"a"	VERB
+"d'"	ADP
+"original"	NOUN
+"et"	CCONJ
+"d'"	ADP
+"imprévu"	VERB
+"dans"	ADP
+"ce"	DET
+"
+"	SPACE
+"groupement"	NOUN
+"d'"	ADP
+"êtres"	NOUN
+"qui"	PRON
+","	PUNCT
+"la"	DET
+"veille"	NOUN
+"encore"	ADV
+","	PUNCT
+"ne"	ADV
+"se"	PRON
+"connaissaient"	VERB
+"pas"	ADV
+","	PUNCT
+"et"	CCONJ
+"
+"	SPACE
+"qui"	PRON
+","	PUNCT
+"durant"	ADP
+"quelques"	DET
+"jours"	NOUN
+","	PUNCT
+"entre"	ADP
+"le"	DET
+"ciel"	NOUN
+"infini"	ADJ
+"et"	CCONJ
+"la"	DET
+"mer"	NUM
+"immense"	NOUN
+","	PUNCT
+"
+"	SPACE
+"vont"	VERB
+"vivre"	VERB
+"de"	ADP
+"la"	DET
+"vie"	NOUN
+"la"	DET
+"plus"	ADV
+"intime"	ADJ
+","	PUNCT
+"ensemble"	ADJ
+"vont"	VERB
+"défier"	VERB
+"les"	DET
+"colères"	NOUN
+"
+"	SPACE
+"de"	ADP
+"l'"	DET
+"Océan"	NOUN
+","	PUNCT
+"l'"	DET
+"assaut"	NOUN
+"terrifiant"	VERB
+"des"	ADP
+"vagues"	NOUN
+","	PUNCT
+"la"	DET
+"méchanceté"	NOUN
+"des"	ADP
+"tempêtes"	NOUN
+"
+"	SPACE
+"et"	CCONJ
+"le"	DET
+"calme"	PROPN
+"sournois"	NOUN
+"de"	ADP
+"l'"	DET
+"eau"	NOUN
+"endormie"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"C'"	PRON
+"est"	VERB
+","	PUNCT
+"au"	ADP
+"fond"	NOUN
+","	PUNCT
+"vécue"	ADV
+"en"	ADP
+"une"	DET
+"sorte"	NOUN
+"de"	ADP
+"raccourci"	NOUN
+"tragique"	ADJ
+","	PUNCT
+"la"	DET
+"vie"	NOUN
+"
+"	SPACE
+"elle-même"	PRON
+","	PUNCT
+"avec"	ADP
+"ses"	DET
+"orages"	NOUN
+"et"	CCONJ
+"ses"	DET
+"grandeurs"	NOUN
+","	PUNCT
+"sa"	DET
+"monotonie"	NOUN
+"et"	CCONJ
+"sa"	DET
+"
+"	SPACE
+"diversité"	NOUN
+","	PUNCT
+"et"	CCONJ
+"voilà"	VERB
+"pourquoi"	ADV
+","	PUNCT
+"peut-être"	ADV
+","	PUNCT
+"on"	PRON
+"goûte"	VERB
+"avec"	ADP
+"une"	DET
+"hâte"	NOUN
+"
+"	SPACE
+"fiévreuse"	ADJ
+"et"	CCONJ
+"une"	DET
+"volupté"	NOUN
+"d'"	ADP
+"autant"	ADV
+"plus"	ADV
+"intense"	ADJ
+"ce"	PRON
+"court"	ADJ
+"voyage"	NOUN
+"dont"	PRON
+"on"	PRON
+"
+"	SPACE
+"aperçoit"	VERB
+"la"	DET
+"fin"	NOUN
+"au"	ADP
+"moment"	NOUN
+"même"	ADV
+"où"	PRON
+"il"	PRON
+"commence"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Mais"	CCONJ
+","	PUNCT
+"depuis"	ADP
+"plusieurs"	DET
+"années"	NOUN
+","	PUNCT
+"quelque"	DET
+"chose"	NOUN
+"se"	PRON
+"passe"	VERB
+"qui"	PRON
+"ajoute"	VERB
+"
+"	SPACE
+"singulièrement"	VERB
+"aux"	ADP
+"émotions"	NOUN
+"de"	ADP
+"la"	DET
+"traversée"	NOUN
+"."	PUNCT
+"La"	DET
+"petite"	ADJ
+"île"	NOUN
+"flottante"	NOUN
+"
+"	SPACE
+"dépend"	VERB
+"encore"	ADV
+"de"	ADP
+"ce"	DET
+"monde"	NOUN
+"dont"	PRON
+"on"	PRON
+"se"	PRON
+"croyait"	VERB
+"affranchi"	VERB
+"."	PUNCT
+"Un"	DET
+"lien"	NOUN
+"
+"	SPACE
+"subsiste"	ADJ
+","	PUNCT
+"qui"	PRON
+"ne"	ADV
+"se"	PRON
+"dénoue"	VERB
+"que"	ADV
+"peu"	ADV
+"à"	ADP
+"peu"	ADV
+"en"	ADP
+"plein"	ADJ
+"Océan"	NOUN
+","	PUNCT
+"et"	CCONJ
+"peu"	ADV
+"à"	ADP
+"peu"	ADV
+","	PUNCT
+"
+"	SPACE
+"en"	ADP
+"plein"	ADJ
+"Océan"	NOUN
+","	PUNCT
+"se"	PRON
+"renoue"	VERB
+"."	PUNCT
+"Le"	DET
+"télégraphe"	NOUN
+"sans"	ADP
+"fil"	NOUN
+"!"	PUNCT
+"appel"	NOUN
+"d'"	ADP
+"un"	DET
+"autre"	ADJ
+"
+"	SPACE
+"univers"	NOUN
+"d'"	ADP
+"où"	PRON
+"l'"	PRON
+"on"	PRON
+"recevrait"	VERB
+"des"	DET
+"nouvelles"	ADJ
+"de"	ADP
+"la"	DET
+"façon"	NOUN
+"la"	DET
+"plus"	ADV
+"
+"	SPACE
+"mystérieuse"	ADJ
+"qui"	PRON
+"soit"	AUX
+"!"	PUNCT
+"L'"	DET
+"imagination"	NOUN
+"n'"	ADV
+"a"	VERB
+"plus"	ADV
+"la"	DET
+"ressource"	NOUN
+"d'"	ADP
+"évoquer"	VERB
+"
+"	SPACE
+"des"	DET
+"fils"	NOUN
+"de"	ADP
+"fer"	NOUN
+"au"	ADP
+"creux"	ADJ
+"desquels"	ADJ
+"glisse"	VERB
+"l'"	DET
+"invisible"	ADJ
+"message"	NOUN
+"."	PUNCT
+"Le"	DET
+"
+"	SPACE
+"mystère"	ADJ
+"est"	AUX
+"plus"	ADV
+"insondable"	ADJ
+"encore"	ADV
+","	PUNCT
+"plus"	ADV
+"poétique"	ADJ
+"aussi"	ADV
+","	PUNCT
+"et"	CCONJ
+"c'"	PRON
+"est"	AUX
+"aux"	ADP
+"
+"	SPACE
+"ailes"	NOUN
+"du"	ADP
+"vent"	ADV
+"qu'"	SCONJ
+"il"	PRON
+"faut"	VERB
+"recourir"	VERB
+"pour"	ADP
+"expliquer"	VERB
+"ce"	DET
+"nouveau"	ADJ
+"miracle"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Ainsi"	ADV
+","	PUNCT
+"les"	DET
+"premières"	ADJ
+"heures"	NOUN
+","	PUNCT
+"nous"	PRON
+"sentîmes"	VERB
+"-nous"	PRON
+"suivis"	VERB
+","	PUNCT
+"escortés"	NOUN
+","	PUNCT
+"
+"	SPACE
+"précédés"	NOUN
+"même"	ADV
+"par"	ADP
+"cette"	DET
+"voix"	NOUN
+"lointaine"	NOUN
+","	PUNCT
+"qui"	PRON
+","	PUNCT
+"de"	ADP
+"temps"	NOUN
+"en"	ADP
+"temps"	NOUN
+","	PUNCT
+"
+"	SPACE
+"chuchotait"	AUX
+"à"	ADP
+"l'"	DET
+"un"	PRON
+"de"	ADP
+"nous"	PRON
+"quelques"	DET
+"paroles"	NOUN
+"de"	ADP
+"là"	ADV
+"-"	NOUN
+"bas"	ADJ
+"."	PUNCT
+"Deux"	NUM
+"amis"	NOUN
+"me"	PRON
+"
+"	SPACE
+"parlèrent"	ADV
+"."	PUNCT
+"Dix"	DET
+"autres"	ADJ
+","	PUNCT
+"vingt"	NUM
+"autres"	ADJ
+"nous"	PRON
+"envoyèrent"	VERB
+"à"	ADP
+"tous"	ADJ
+","	PUNCT
+"au"	ADP
+"travers"	NOUN
+"
+"	SPACE
+"de"	ADP
+"l'"	DET
+"espace"	NOUN
+","	PUNCT
+"leurs"	DET
+"adieux"	ADJ
+"attristés"	NOUN
+"ou"	CCONJ
+"souriants"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Or"	CCONJ
+","	PUNCT
+"le"	DET
+"second"	ADJ
+"jour"	NOUN
+","	PUNCT
+"à"	ADP
+"cinq"	NUM
+"cents"	NOUN
+"milles"	ADJ
+"des"	ADP
+"côtes"	NOUN
+"françaises"	ADJ
+","	PUNCT
+"par"	ADP
+"une"	DET
+"
+"	SPACE
+"après-midi"	NOUN
+"orageuse"	ADJ
+","	PUNCT
+"le"	DET
+"télégraphe"	NOUN
+"sans"	ADP
+"fil"	NOUN
+"nous"	PRON
+"transmettait"	VERB
+"une"	DET
+"
+"	SPACE
+"dépêche"	NOUN
+"dont"	PRON
+"voici"	VERB
+"la"	DET
+"teneur"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"«"	NOUN
+"_"	ADJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"à"	ADP
+"votre"	DET
+"bord"	NOUN
+","	PUNCT
+"première"	ADJ
+"classe"	NOUN
+","	PUNCT
+"cheveux"	NUM
+"blonds"	NOUN
+","	PUNCT
+"blessure"	NOUN
+"
+"	SPACE
+"avant-bras"	VERB
+"droit"	ADJ
+","	PUNCT
+"voyage"	NOUN
+"seul"	ADJ
+","	PUNCT
+"sous"	ADP
+"le"	DET
+"nom"	NOUN
+"de"	ADP
+"R"	NOUN
+"..."	PUNCT
+"_"	ADJ
+"»"	PUNCT
+"
+
+"	SPACE
+"À"	ADP
+"ce"	DET
+"moment"	NOUN
+"précis"	ADJ
+","	PUNCT
+"un"	DET
+"coup"	NOUN
+"de"	ADP
+"tonnerre"	NOUN
+"violent"	ADJ
+"éclata"	ADJ
+"dans"	ADP
+"le"	DET
+"ciel"	NOUN
+"
+"	SPACE
+"sombre"	NOUN
+"."	PUNCT
+"Les"	DET
+"ondes"	NOUN
+"électriques"	ADJ
+"furent"	AUX
+"interrompues"	ADJ
+"."	PUNCT
+"Le"	DET
+"reste"	NOUN
+"de"	ADP
+"la"	DET
+"
+"	SPACE
+"dépêche"	NOUN
+"ne"	ADV
+"nous"	PRON
+"parvint"	VERB
+"pas"	ADV
+"."	PUNCT
+"Du"	ADP
+"nom"	NOUN
+"sous"	ADP
+"lequel"	PRON
+"se"	PRON
+"cachait"	VERB
+"Arsène"	PROPN
+"
+"	SPACE
+"Lupin"	PROPN
+","	PUNCT
+"on"	PRON
+"ne"	ADV
+"sut"	VERB
+"que"	SCONJ
+"l'"	DET
+"initiale"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"se"	PRON
+"fût"	VERB
+"agi"	NOUN
+"de"	ADP
+"toute"	DET
+"autre"	ADJ
+"nouvelle"	ADJ
+","	PUNCT
+"je"	PRON
+"ne"	ADV
+"doute"	NOUN
+"point"	ADJ
+"que"	SCONJ
+"le"	DET
+"secret"	NOUN
+"
+"	SPACE
+"en"	ADP
+"eût"	ADV
+"été"	AUX
+"scrupuleusement"	ADV
+"gardé"	VERB
+"par"	ADP
+"les"	DET
+"employés"	NOUN
+"du"	ADP
+"poste"	NOUN
+"
+"	SPACE
+"télégraphique"	ADJ
+","	PUNCT
+"ainsi"	ADV
+"que"	SCONJ
+"par"	ADP
+"le"	DET
+"commissaire"	NOUN
+"du"	ADP
+"bord"	NOUN
+"et"	CCONJ
+"par"	ADP
+"le"	DET
+"
+"	SPACE
+"commandant"	NOUN
+"."	PUNCT
+"Mais"	CCONJ
+"il"	PRON
+"est"	VERB
+"de"	ADP
+"ces"	DET
+"événements"	NOUN
+"qui"	PRON
+"semblent"	VERB
+"forcer"	VERB
+"la"	DET
+"
+"	SPACE
+"discrétion"	NOUN
+"la"	DET
+"plus"	ADV
+"rigoureuse"	NOUN
+"."	PUNCT
+"Le"	DET
+"jour"	NOUN
+"même"	ADV
+","	PUNCT
+"sans"	ADP
+"qu'"	SCONJ
+"on"	PRON
+"pût"	VERB
+"dire"	VERB
+"
+"	SPACE
+"comment"	ADV
+"la"	DET
+"chose"	NOUN
+"avait"	AUX
+"été"	AUX
+"ébruitée"	VERB
+","	PUNCT
+"nous"	PRON
+"savions"	VERB
+"tous"	ADJ
+"que"	SCONJ
+"le"	DET
+"fameux"	NOUN
+"
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"se"	PRON
+"cachait"	VERB
+"parmi"	ADP
+"nous"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	X
+"parmi"	ADP
+"nous"	PRON
+"!"	PUNCT
+"l'"	DET
+"insaisissable"	ADJ
+"cambrioleur"	NOUN
+"dont"	PRON
+"on"	PRON
+"racontait"	VERB
+"
+"	SPACE
+"les"	DET
+"prouesses"	NOUN
+"dans"	ADP
+"tous"	ADJ
+"les"	DET
+"journaux"	NOUN
+"depuis"	ADP
+"des"	DET
+"mois"	NOUN
+"!"	PUNCT
+"l'"	DET
+"énigmatique"	NOUN
+"
+"	SPACE
+"personnage"	NOUN
+"avec"	ADP
+"qui"	PRON
+"le"	DET
+"vieux"	ADJ
+"Ganimard"	PROPN
+","	PUNCT
+"notre"	DET
+"meilleur"	ADJ
+"policier"	NOUN
+","	PUNCT
+"avait"	AUX
+"
+"	SPACE
+"engagé"	VERB
+"ce"	DET
+"duel"	NOUN
+"à"	ADP
+"mort"	NOUN
+"dont"	PRON
+"les"	DET
+"péripéties"	NOUN
+"se"	PRON
+"déroulaient"	VERB
+"de"	ADP
+"façon"	NOUN
+"si"	SCONJ
+"
+"	SPACE
+"pittoresque"	NOUN
+"!"	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"le"	DET
+"fantaisiste"	NOUN
+"gentleman"	ADJ
+"qui"	PRON
+"n'"	ADV
+"opère"	VERB
+"que"	SCONJ
+"
+"	SPACE
+"dans"	ADP
+"les"	DET
+"châteaux"	NOUN
+"et"	CCONJ
+"les"	DET
+"salons"	NOUN
+","	PUNCT
+"et"	CCONJ
+"qui"	PRON
+","	PUNCT
+"une"	DET
+"nuit"	NOUN
+","	PUNCT
+"où"	PRON
+"il"	PRON
+"avait"	AUX
+"pénétré"	VERB
+"
+"	SPACE
+"chez"	ADP
+"le"	DET
+"baron"	NOUN
+"Schormann"	PROPN
+","	PUNCT
+"en"	PRON
+"était"	AUX
+"parti"	VERB
+"les"	DET
+"mains"	NOUN
+"vides"	NOUN
+"et"	CCONJ
+"avait"	AUX
+"
+"	SPACE
+"laissé"	VERB
+"sa"	DET
+"carte"	NOUN
+","	PUNCT
+"ornée"	VERB
+"de"	ADP
+"cette"	DET
+"formule"	NOUN
+":"	PUNCT
+"«"	PROPN
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"
+"	SPACE
+"gentleman"	ADJ
+"-"	PROPN
+"cambrioleur"	PROPN
+","	PUNCT
+"reviendra"	VERB
+"quand"	SCONJ
+"les"	DET
+"meubles"	NOUN
+"seront"	AUX
+"
+"	SPACE
+"authentiques"	ADJ
+"»"	PUNCT
+"."	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"l'"	DET
+"homme"	NOUN
+"aux"	ADP
+"mille"	NUM
+"déguisements"	NOUN
+":"	PUNCT
+"tour"	NOUN
+"à"	ADP
+"
+"	SPACE
+"tour"	NOUN
+"chauffeur"	ADJ
+","	PUNCT
+"ténor"	NOUN
+","	PUNCT
+"bookmaker"	PROPN
+","	PUNCT
+"fils"	NOUN
+"de"	ADP
+"famille"	NOUN
+","	PUNCT
+"adolescent"	NOUN
+","	PUNCT
+"
+"	SPACE
+"vieillard"	NOUN
+","	PUNCT
+"commis"	VERB
+"-"	NOUN
+"voyageur"	NOUN
+"marseillais"	ADJ
+","	PUNCT
+"médecin"	NOUN
+"russe"	VERB
+","	PUNCT
+"torero"	NOUN
+"
+"	SPACE
+"espagnol"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Qu'"	PRON
+"on"	PRON
+"se"	PRON
+"rende"	VERB
+"bien"	ADV
+"compte"	NOUN
+"de"	ADP
+"ceci"	PRON
+":"	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"allant"	VERB
+"et"	CCONJ
+"venant"	VERB
+"dans"	ADP
+"
+"	SPACE
+"le"	DET
+"cadre"	NOUN
+"relativement"	ADV
+"restreint"	VERB
+"d'"	ADP
+"un"	DET
+"transatlantique"	NOUN
+","	PUNCT
+"que"	SCONJ
+"dis"	ADV
+"-je"	PROPN
+"!"	PUNCT
+"dans"	ADP
+"
+"	SPACE
+"ce"	DET
+"petit"	ADJ
+"coin"	NOUN
+"des"	ADP
+"premières"	NOUN
+"où"	PRON
+"l'"	PRON
+"on"	PRON
+"se"	PRON
+"retrouvait"	VERB
+"à"	ADP
+"tout"	DET
+"instant"	NOUN
+","	PUNCT
+"dans"	ADP
+"
+"	SPACE
+"cette"	DET
+"salle"	NOUN
+"à"	ADP
+"manger"	VERB
+","	PUNCT
+"dans"	ADP
+"ce"	DET
+"salon"	NOUN
+","	PUNCT
+"dans"	ADP
+"ce"	DET
+"fumoir"	NOUN
+"!"	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"
+"	SPACE
+"c'"	PRON
+"était"	AUX
+"peut-être"	ADV
+"ce"	DET
+"monsieur"	NOUN
+"..."	PUNCT
+"ou"	CCONJ
+"celui"	PRON
+"-là"	NOUN
+"..."	PUNCT
+"mon"	DET
+"voisin"	ADJ
+"de"	ADP
+"
+"	SPACE
+"table"	NOUN
+"..."	PUNCT
+"mon"	DET
+"compagnon"	NOUN
+"de"	ADP
+"cabine"	NOUN
+"..."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"cela"	PRON
+"va"	VERB
+"durer"	VERB
+"encore"	ADV
+"cinq"	NUM
+"fois"	NOUN
+"vingt-quatre"	NUM
+"heures"	NOUN
+"!"	PUNCT
+"s'"	PRON
+"écria"	VERB
+"le"	DET
+"
+"	SPACE
+"lendemain"	NOUN
+"miss"	VERB
+"Nelly"	PROPN
+"Underdown"	PROPN
+","	PUNCT
+"mais"	CCONJ
+"c'"	PRON
+"est"	AUX
+"intolérable"	ADJ
+"!"	PUNCT
+"J'"	PRON
+"espère"	VERB
+"bien"	ADV
+"
+"	SPACE
+"qu'"	PRON
+"on"	PRON
+"va"	VERB
+"l'"	DET
+"arrêter"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"s'"	PRON
+"adressant"	VERB
+"à"	ADP
+"moi"	PRON
+":"	PUNCT
+"
+
+"	SPACE
+"--Voyons"	NOUN
+","	PUNCT
+"vous"	PRON
+","	PUNCT
+"monsieur"	NOUN
+"d'"	ADP
+"Andrézy"	PROPN
+","	PUNCT
+"qui"	PRON
+"êtes"	AUX
+"déjà"	ADV
+"au"	ADP
+"mieux"	ADV
+"avec"	ADP
+"le"	DET
+"
+"	SPACE
+"commandant"	NOUN
+","	PUNCT
+"vous"	PRON
+"ne"	ADV
+"savez"	VERB
+"rien"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"J'"	PRON
+"aurais"	VERB
+"bien"	ADV
+"voulu"	VERB
+"savoir"	VERB
+"quelque"	DET
+"chose"	NOUN
+"pour"	ADP
+"plaire"	ADJ
+"à"	ADP
+"miss"	ADV
+"Nelly"	PROPN
+"!"	PUNCT
+"
+"	SPACE
+"C'"	PRON
+"était"	AUX
+"une"	DET
+"de"	ADP
+"ces"	DET
+"magnifiques"	NOUN
+"créatures"	ADJ
+"qui"	PRON
+","	PUNCT
+"partout"	ADV
+"où"	PRON
+"elles"	PRON
+"sont"	AUX
+","	PUNCT
+"
+"	SPACE
+"occupent"	VERB
+"aussitôt"	ADV
+"la"	DET
+"place"	NOUN
+"la"	DET
+"plus"	ADV
+"en"	ADP
+"vue"	NOUN
+"."	PUNCT
+"Leur"	DET
+"beauté"	NOUN
+"autant"	ADV
+"que"	SCONJ
+"leur"	DET
+"
+"	SPACE
+"fortune"	NOUN
+"éblouit"	VERB
+"."	PUNCT
+"Elles"	PRON
+"ont"	AUX
+"une"	DET
+"cour"	NOUN
+","	PUNCT
+"des"	DET
+"fervents"	NOUN
+","	PUNCT
+"des"	DET
+"enthousiastes"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"Élevée"	ADJ
+"à"	ADP
+"Paris"	PROPN
+"par"	ADP
+"une"	DET
+"mère"	NOUN
+"française"	ADJ
+","	PUNCT
+"elle"	PRON
+"rejoignait"	VERB
+"son"	DET
+"père"	NOUN
+","	PUNCT
+"le"	DET
+"
+"	SPACE
+"richissime"	ADJ
+"Underdown"	PROPN
+","	PUNCT
+"de"	ADP
+"Chicago"	PROPN
+"."	PUNCT
+"Une"	DET
+"de"	ADP
+"ses"	DET
+"amies"	NOUN
+","	PUNCT
+"lady"	VERB
+"Jerland"	PROPN
+","	PUNCT
+"
+"	SPACE
+"l'"	PRON
+"accompagnait"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Dès"	ADP
+"la"	DET
+"première"	ADJ
+"heure"	NOUN
+","	PUNCT
+"j'"	PRON
+"avais"	VERB
+"posé"	VERB
+"ma"	DET
+"candidature"	NOUN
+"de"	ADP
+"flirt"	ADJ
+"."	PUNCT
+"Mais"	CCONJ
+","	PUNCT
+"
+"	SPACE
+"dans"	ADP
+"l'"	DET
+"intimité"	NOUN
+"rapide"	ADJ
+"du"	ADP
+"voyage"	NOUN
+","	PUNCT
+"tout"	ADV
+"de"	ADP
+"suite"	NOUN
+"son"	DET
+"charme"	NOUN
+"m'"	PRON
+"avait"	AUX
+"
+"	SPACE
+"troublé"	ADV
+","	PUNCT
+"et"	CCONJ
+"je"	PRON
+"me"	PRON
+"sentais"	ADV
+"un"	DET
+"peu"	ADV
+"trop"	ADV
+"ému"	VERB
+"pour"	ADP
+"un"	DET
+"flirt"	NOUN
+"quand"	SCONJ
+"ses"	DET
+"
+"	SPACE
+"grands"	ADJ
+"yeux"	NOUN
+"noirs"	ADJ
+"rencontraient"	VERB
+"les"	DET
+"miens"	NOUN
+"."	PUNCT
+"Cependant"	ADV
+"elle"	PRON
+"accueillait"	VERB
+"
+"	SPACE
+"mes"	DET
+"hommages"	NOUN
+"avec"	ADP
+"une"	DET
+"certaine"	NOUN
+"faveur"	NOUN
+"."	PUNCT
+"Elle"	PRON
+"daignait"	VERB
+"rire"	NOUN
+"de"	ADP
+"mes"	DET
+"bons"	ADJ
+"
+"	SPACE
+"mots"	NOUN
+"et"	CCONJ
+"s'"	PRON
+"intéresser"	VERB
+"à"	ADP
+"mes"	DET
+"anecdotes"	NOUN
+"."	PUNCT
+"Une"	DET
+"vague"	NOUN
+"sympathie"	NOUN
+"semblait"	VERB
+"
+"	SPACE
+"répondre"	VERB
+"à"	ADP
+"l'"	DET
+"empressement"	NOUN
+"que"	SCONJ
+"je"	PRON
+"lui"	VERB
+"témoignais"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Un"	DET
+"seul"	ADJ
+"rival"	NOUN
+"peut-être"	ADV
+"m'"	PRON
+"eût"	AUX
+"inquiété"	VERB
+","	PUNCT
+"un"	DET
+"assez"	ADV
+"beau"	NOUN
+"garçon"	ADJ
+","	PUNCT
+"élégant"	VERB
+","	PUNCT
+"
+"	SPACE
+"réservé"	VERB
+","	PUNCT
+"dont"	PRON
+"elle"	PRON
+"paraissait"	VERB
+"quelquefois"	ADV
+"préférer"	VERB
+"l'"	DET
+"humeur"	NOUN
+"taciturne"	ADJ
+"
+"	SPACE
+"à"	ADP
+"mes"	DET
+"façons"	NOUN
+"plus"	ADV
+"«"	PROPN
+"en"	ADP
+"dehors"	ADP
+"»"	PUNCT
+"de"	ADP
+"Parisien"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"faisait"	VERB
+"justement"	ADV
+"partie"	NOUN
+"du"	ADP
+"groupe"	NOUN
+"d'"	ADP
+"admirateurs"	NOUN
+"qui"	PRON
+"entourait"	VERB
+"miss"	ADV
+"
+"	SPACE
+"Nelly"	PROPN
+","	PUNCT
+"lorsqu'"	SCONJ
+"elle"	PRON
+"m'"	PRON
+"interrogea"	VERB
+"."	PUNCT
+"Nous"	PRON
+"étions"	VERB
+"sur"	ADP
+"le"	DET
+"pont"	NOUN
+","	PUNCT
+"agréablement"	ADV
+"
+"	SPACE
+"installés"	VERB
+"dans"	ADP
+"des"	DET
+"rocking"	NOUN
+"-"	NOUN
+"chairs"	NOUN
+"."	PUNCT
+"L'"	DET
+"orage"	NOUN
+"de"	ADP
+"la"	DET
+"veille"	NOUN
+"avait"	AUX
+"éclairci"	NOUN
+"
+"	SPACE
+"le"	DET
+"ciel"	NOUN
+"."	PUNCT
+"L'"	DET
+"heure"	NOUN
+"était"	AUX
+"délicieuse"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	NOUN
+"ne"	ADV
+"sais"	VERB
+"rien"	PRON
+"de"	ADP
+"précis"	ADJ
+","	PUNCT
+"mademoiselle"	NOUN
+","	PUNCT
+"lui"	PRON
+"répondis"	PROPN
+"-je"	PRON
+","	PUNCT
+"mais"	CCONJ
+"
+"	SPACE
+"est"	AUX
+"-il"	PRON
+"impossible"	VERB
+"de"	ADP
+"conduire"	VERB
+"nous"	PRON
+"-"	NOUN
+"mêmes"	ADJ
+"notre"	DET
+"enquête"	NOUN
+","	PUNCT
+"tout"	ADV
+"aussi"	ADV
+"
+"	SPACE
+"bien"	ADV
+"que"	SCONJ
+"le"	DET
+"ferait"	VERB
+"le"	DET
+"vieux"	ADJ
+"Ganimard"	PROPN
+","	PUNCT
+"l'"	DET
+"ennemi"	NOUN
+"personnel"	ADJ
+"d'"	ADP
+"Arsène"	PROPN
+"
+"	SPACE
+"Lupin"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oh"	ADJ
+"!"	PUNCT
+"oh"	PRON
+"!"	PUNCT
+"vous"	PRON
+"vous"	PRON
+"avancez"	VERB
+"beaucoup"	ADV
+"!"	PUNCT
+"
+
+"	SPACE
+"--En"	ADJ
+"quoi"	ADV
+"donc"	ADV
+"?"	PUNCT
+"Le"	DET
+"problème"	NOUN
+"est"	VERB
+"-il"	PRON
+"si"	ADV
+"compliqué"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"--Très"	NUM
+"compliqué"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	VERB
+"que"	SCONJ
+"vous"	PRON
+"oubliez"	VERB
+"les"	DET
+"éléments"	NOUN
+"que"	PRON
+"nous"	PRON
+"avons"	VERB
+"pour"	ADP
+"le"	DET
+"
+"	SPACE
+"résoudre"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Quels"	ADJ
+"éléments"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--1"	PRON
+"°"	PROPN
+"Lupin"	PROPN
+"se"	PRON
+"fait"	VERB
+"appeler"	VERB
+"monsieur"	NOUN
+"R"	NOUN
+"..."	PUNCT
+"
+
+"	SPACE
+"--Signalement"	AUX
+"un"	DET
+"peu"	ADV
+"vague"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--2"	NOUN
+"°"	NOUN
+"Il"	PRON
+"voyage"	NOUN
+"seul"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Si"	VERB
+"cette"	DET
+"particularité"	NOUN
+"vous"	PRON
+"suffit"	VERB
+"!"	PUNCT
+"
+
+"	SPACE
+"--3"	X
+"°"	NOUN
+"Il"	PRON
+"est"	AUX
+"blond"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"alors"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--Alors"	NOUN
+"nous"	PRON
+"n'"	ADV
+"avons"	VERB
+"plus"	ADV
+"qu'"	SCONJ
+"à"	ADP
+"consulter"	VERB
+"la"	DET
+"liste"	NOUN
+"des"	ADP
+"passagers"	NOUN
+"et"	CCONJ
+"à"	ADP
+"
+"	SPACE
+"procéder"	VERB
+"par"	ADP
+"élimination"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"J'"	PRON
+"avais"	VERB
+"cette"	DET
+"liste"	NOUN
+"dans"	ADP
+"ma"	DET
+"poche"	NOUN
+"."	PUNCT
+"Je"	PRON
+"la"	DET
+"pris"	VERB
+"et"	CCONJ
+"la"	DET
+"parcourus"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	NOUN
+"note"	NOUN
+"d'"	ADP
+"abord"	NOUN
+"qu'"	SCONJ
+"il"	PRON
+"n'"	ADV
+"y"	PRON
+"a"	VERB
+"que"	SCONJ
+"treize"	NUM
+"personnes"	NOUN
+"que"	PRON
+"leur"	DET
+"initiale"	NOUN
+"
+"	SPACE
+"désigne"	VERB
+"à"	ADP
+"notre"	DET
+"attention"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Treize"	NUM
+"seulement"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--En"	VERB
+"première"	ADJ
+"classe"	NOUN
+","	PUNCT
+"oui"	NOUN
+"."	PUNCT
+"Sur"	ADP
+"ces"	DET
+"treize"	NUM
+"messieurs"	NOUN
+"R"	NOUN
+"..."	PUNCT
+","	PUNCT
+"comme"	SCONJ
+"
+"	SPACE
+"vous"	PRON
+"pouvez"	VERB
+"vous"	PRON
+"en"	PRON
+"assurer"	VERB
+","	PUNCT
+"neuf"	VERB
+"sont"	AUX
+"accompagnés"	VERB
+"de"	ADP
+"femmes"	NOUN
+","	PUNCT
+"
+"	SPACE
+"d'"	ADP
+"enfants"	NOUN
+"ou"	CCONJ
+"de"	ADP
+"domestiques"	NOUN
+"."	PUNCT
+"Restent"	VERB
+"quatre"	NUM
+"personnages"	NOUN
+"isolés"	ADJ
+":"	PUNCT
+"le"	DET
+"
+"	SPACE
+"marquis"	NOUN
+"de"	ADP
+"Raverdan"	PROPN
+"..."	PUNCT
+"
+
+"	SPACE
+"--Secrétaire"	PROPN
+"d'"	ADP
+"ambassade"	NOUN
+","	PUNCT
+"interrompit"	VERB
+"miss"	X
+"Nelly"	PROPN
+","	PUNCT
+"je"	PRON
+"le"	DET
+"connais"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Le"	NUM
+"major"	NOUN
+"Rawson"	PROPN
+"..."	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	AUX
+"mon"	DET
+"oncle"	NOUN
+","	PUNCT
+"dit"	VERB
+"quelqu'"	DET
+"un"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--M."	X
+"Rivolta"	PROPN
+"..."	PUNCT
+"
+
+"	SPACE
+"--Présent"	ADV
+","	PUNCT
+"s'"	PRON
+"écria"	VERB
+"l'"	DET
+"un"	PRON
+"de"	ADP
+"nous"	PRON
+","	PUNCT
+"un"	DET
+"Italien"	NOUN
+"dont"	PRON
+"la"	DET
+"figure"	NOUN
+"
+"	SPACE
+"disparaissait"	VERB
+"sous"	ADP
+"une"	DET
+"barbe"	NOUN
+"du"	ADP
+"plus"	ADV
+"beau"	NOUN
+"noir"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Miss"	PROPN
+"Nelly"	PROPN
+"éclata"	NOUN
+"de"	ADP
+"rire"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Monsieur"	NUM
+"n'"	ADV
+"est"	AUX
+"pas"	ADV
+"précisément"	ADV
+"blond"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Alors"	PRON
+","	PUNCT
+"repris"	VERB
+"-je"	ADJ
+","	PUNCT
+"nous"	PRON
+"sommes"	AUX
+"obligés"	VERB
+"de"	ADP
+"conclure"	VERB
+"que"	SCONJ
+"le"	DET
+"coupable"	NOUN
+"
+"	SPACE
+"est"	AUX
+"le"	DET
+"dernier"	NOUN
+"de"	ADP
+"la"	DET
+"liste"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	ADV
+"-"	ADV
+"à"	ADV
+"-"	ADV
+"dire"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	ADV
+"-"	ADV
+"à"	ADV
+"-"	ADV
+"dire"	ADV
+","	PUNCT
+"M."	NOUN
+"Rozaine"	PROPN
+"."	PUNCT
+"Quelqu'"	VERB
+"un"	DET
+"connaît"	NOUN
+"-il"	DET
+"M."	NOUN
+"Rozaine"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"On"	PRON
+"se"	PRON
+"tut"	VERB
+"."	PUNCT
+"Mais"	CCONJ
+"miss"	VERB
+"Nelly"	PROPN
+","	PUNCT
+"interpellant"	VERB
+"le"	DET
+"jeune"	ADJ
+"homme"	NOUN
+"taciturne"	ADJ
+"dont"	PRON
+"
+"	SPACE
+"l'"	DET
+"assiduité"	NOUN
+"près"	ADV
+"d'"	ADP
+"elle"	PRON
+"me"	PRON
+"tourmentait"	VERB
+","	PUNCT
+"lui"	PRON
+"dit"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Eh"	INTJ
+"bien"	ADV
+","	PUNCT
+"monsieur"	NOUN
+"Rozaine"	PROPN
+","	PUNCT
+"vous"	PRON
+"ne"	ADV
+"répondez"	VERB
+"pas"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"On"	PRON
+"tourna"	VERB
+"les"	DET
+"yeux"	NOUN
+"vers"	ADP
+"lui"	PRON
+"."	PUNCT
+"Il"	PRON
+"était"	AUX
+"blond"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Avouons"	NOUN
+"-"	NOUN
+"le"	PROPN
+","	PUNCT
+"je"	PRON
+"sentis"	VERB
+"comme"	ADP
+"un"	DET
+"petit"	ADJ
+"choc"	NOUN
+"au"	ADP
+"fond"	NOUN
+"de"	ADP
+"moi"	PRON
+"."	PUNCT
+"Et"	CCONJ
+"le"	DET
+"
+"	SPACE
+"silence"	NOUN
+"gêné"	ADJ
+"qui"	PRON
+"pesa"	VERB
+"sur"	ADP
+"nous"	PRON
+"m'"	PRON
+"indiqua"	VERB
+"que"	SCONJ
+"les"	DET
+"autres"	ADJ
+"assistants"	NOUN
+"
+"	SPACE
+"éprouvaient"	ADV
+"aussi"	ADV
+"cette"	DET
+"sorte"	NOUN
+"de"	ADP
+"suffocation"	NOUN
+"."	PUNCT
+"C'"	PRON
+"était"	AUX
+"absurde"	VERB
+"
+"	SPACE
+"d'"	ADP
+"ailleurs"	ADV
+","	PUNCT
+"car"	CCONJ
+"enfin"	ADV
+"rien"	PRON
+"dans"	ADP
+"les"	DET
+"allures"	NOUN
+"de"	ADP
+"ce"	DET
+"monsieur"	NOUN
+"ne"	ADV
+"
+"	SPACE
+"permettait"	VERB
+"qu'"	SCONJ
+"on"	PRON
+"le"	DET
+"suspectât"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Pourquoi"	PRON
+"je"	PRON
+"ne"	ADV
+"réponds"	VERB
+"pas"	ADV
+"?"	PUNCT
+"dit"	VERB
+"-il"	PRON
+","	PUNCT
+"mais"	CCONJ
+"parce"	SCONJ
+"que"	SCONJ
+","	PUNCT
+"vu"	VERB
+"mon"	DET
+"nom"	NOUN
+","	PUNCT
+"ma"	DET
+"
+"	SPACE
+"qualité"	NOUN
+"de"	ADP
+"voyageur"	NOUN
+"isolé"	ADJ
+"et"	CCONJ
+"la"	DET
+"couleur"	NOUN
+"de"	ADP
+"mes"	DET
+"cheveux"	NOUN
+","	PUNCT
+"j'"	PRON
+"ai"	AUX
+"déjà"	ADV
+"
+"	SPACE
+"procédé"	NOUN
+"à"	ADP
+"une"	DET
+"enquête"	NOUN
+"analogue"	ADJ
+","	PUNCT
+"et"	CCONJ
+"que"	SCONJ
+"je"	PRON
+"suis"	AUX
+"arrivé"	VERB
+"au"	ADP
+"même"	ADV
+"
+"	SPACE
+"résultat"	NOUN
+"."	PUNCT
+"Je"	PRON
+"suis"	AUX
+"donc"	ADV
+"d'"	ADP
+"avis"	NOUN
+"qu'"	SCONJ
+"on"	PRON
+"m'"	PRON
+"arrête"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"avait"	VERB
+"un"	DET
+"drôle"	NOUN
+"d'"	ADP
+"air"	NOUN
+","	PUNCT
+"en"	ADP
+"prononçant"	VERB
+"ces"	DET
+"paroles"	NOUN
+"."	PUNCT
+"Ses"	DET
+"lèvres"	NOUN
+"minces"	NOUN
+"
+"	SPACE
+"comme"	ADP
+"deux"	NUM
+"traits"	NOUN
+"inflexibles"	ADJ
+"s'"	PRON
+"amincirent"	ADV
+"encore"	ADV
+"et"	CCONJ
+"pâlirent"	ADV
+"."	PUNCT
+"Des"	DET
+"
+"	SPACE
+"filets"	NOUN
+"de"	ADP
+"sang"	NOUN
+"strièrent"	VERB
+"ses"	DET
+"yeux"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Certes"	ADV
+","	PUNCT
+"il"	PRON
+"plaisantait"	VERB
+"."	PUNCT
+"Pourtant"	ADV
+"sa"	DET
+"physionomie"	NOUN
+","	PUNCT
+"son"	DET
+"attitude"	NOUN
+"nous"	PRON
+"
+"	SPACE
+"impressionnèrent"	ADV
+"."	PUNCT
+"Naïvement"	ADV
+","	PUNCT
+"miss"	ADV
+"Nelly"	PROPN
+"demanda"	ADJ
+":"	PUNCT
+"
+
+"	SPACE
+"--Mais"	NOUN
+"vous"	PRON
+"n'"	ADV
+"avez"	VERB
+"pas"	ADV
+"de"	DET
+"blessure"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"est"	AUX
+"vrai"	ADJ
+","	PUNCT
+"dit"	VERB
+"-il"	PRON
+","	PUNCT
+"la"	DET
+"blessure"	NOUN
+"manque"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"D'"	ADP
+"un"	DET
+"geste"	NOUN
+"nerveux"	ADJ
+"il"	PRON
+"releva"	VERB
+"sa"	DET
+"manchette"	NOUN
+"et"	CCONJ
+"découvrit"	VERB
+"son"	DET
+"bras"	NOUN
+"."	PUNCT
+"Mais"	CCONJ
+"
+"	SPACE
+"aussitôt"	ADV
+"une"	DET
+"idée"	NOUN
+"me"	PRON
+"frappa"	VERB
+"."	PUNCT
+"Mes"	DET
+"yeux"	NOUN
+"croisèrent"	VERB
+"ceux"	PRON
+"de"	ADP
+"miss"	NOUN
+"Nelly"	PROPN
+":"	PUNCT
+"
+"	SPACE
+"il"	PRON
+"avait"	AUX
+"montré"	VERB
+"le"	DET
+"bras"	NOUN
+"gauche"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"ma"	DET
+"foi"	NOUN
+","	PUNCT
+"j'"	PRON
+"allais"	VERB
+"en"	PRON
+"faire"	VERB
+"nettement"	ADV
+"la"	DET
+"remarque"	ADJ
+","	PUNCT
+"quand"	SCONJ
+"un"	DET
+"incident"	NOUN
+"
+"	SPACE
+"détourna"	VERB
+"notre"	DET
+"attention"	NOUN
+"."	PUNCT
+"Lady"	PROPN
+"Jerland"	PROPN
+","	PUNCT
+"l'"	DET
+"amie"	NOUN
+"de"	ADP
+"miss"	NOUN
+"Nelly"	PROPN
+","	PUNCT
+"arrivait"	VERB
+"
+"	SPACE
+"en"	ADP
+"courant"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Elle"	PRON
+"était"	AUX
+"bouleversée"	VERB
+"."	PUNCT
+"On"	PRON
+"s'"	PRON
+"empressa"	VERB
+"autour"	ADV
+"d'"	ADP
+"elle"	PRON
+","	PUNCT
+"et"	CCONJ
+"ce"	PRON
+"n'"	ADV
+"est"	AUX
+"
+"	SPACE
+"qu'"	ADV
+"après"	ADP
+"bien"	ADV
+"des"	ADP
+"efforts"	NOUN
+"qu'"	PRON
+"elle"	PRON
+"réussit"	VERB
+"à"	ADP
+"balbutier"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Mes"	NOUN
+"bijoux"	PROPN
+","	PUNCT
+"mes"	DET
+"perles"	NOUN
+"!"	PUNCT
+"..."	PUNCT
+"on"	PRON
+"a"	AUX
+"tout"	ADV
+"pris"	VERB
+"!"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"Non"	ADV
+","	PUNCT
+"on"	PRON
+"n'"	ADV
+"avait"	VERB
+"pas"	ADV
+"tout"	ADV
+"pris"	VERB
+","	PUNCT
+"comme"	SCONJ
+"nous"	PRON
+"le"	PRON
+"sûmes"	ADJ
+"par"	ADP
+"la"	DET
+"suite"	NOUN
+";"	PUNCT
+"chose"	NOUN
+"
+"	SPACE
+"bien"	ADV
+"plus"	ADV
+"curieuse"	ADJ
+":"	PUNCT
+"on"	PRON
+"avait"	AUX
+"choisi"	VERB
+"!"	PUNCT
+"
+
+"	SPACE
+"De"	ADP
+"l'"	DET
+"étoile"	NOUN
+"en"	ADP
+"diamants"	NOUN
+","	PUNCT
+"du"	ADP
+"pendentif"	NOUN
+"en"	ADP
+"cabochons"	NOUN
+"de"	ADP
+"rubis"	NOUN
+","	PUNCT
+"des"	DET
+"
+"	SPACE
+"colliers"	NOUN
+"et"	CCONJ
+"des"	ADP
+"bracelets"	NOUN
+"brisés"	VERB
+","	PUNCT
+"on"	PRON
+"avait"	AUX
+"enlevé"	VERB
+","	PUNCT
+"non"	ADV
+"point"	VERB
+"les"	DET
+"
+"	SPACE
+"pierres"	NOUN
+"les"	DET
+"plus"	ADV
+"grosses"	ADJ
+","	PUNCT
+"mais"	CCONJ
+"les"	DET
+"plus"	ADV
+"fines"	ADJ
+","	PUNCT
+"les"	DET
+"plus"	ADV
+"précieuses"	NOUN
+","	PUNCT
+"
+"	SPACE
+"celles"	NOUN
+","	PUNCT
+"aurait"	AUX
+"-on"	PRON
+"dit"	VERB
+","	PUNCT
+"qui"	PRON
+"avaient"	VERB
+"le"	DET
+"plus"	NOUN
+"de"	ADP
+"valeur"	NOUN
+"tout"	ADV
+"en"	ADP
+"tenant"	VERB
+"le"	DET
+"
+"	SPACE
+"moins"	ADV
+"de"	ADP
+"place"	NOUN
+"."	PUNCT
+"Les"	DET
+"montures"	ADJ
+"gisaient"	VERB
+"là"	ADV
+","	PUNCT
+"sur"	ADP
+"la"	DET
+"table"	NOUN
+"."	PUNCT
+"Je"	PRON
+"les"	DET
+"vis"	NOUN
+","	PUNCT
+"
+"	SPACE
+"tous"	ADJ
+"nous"	PRON
+"les"	DET
+"vîmes"	NOUN
+","	PUNCT
+"dépouillées"	VERB
+"de"	ADP
+"leurs"	DET
+"joyaux"	NOUN
+"comme"	ADP
+"des"	DET
+"fleurs"	NOUN
+"dont"	PRON
+"
+"	SPACE
+"on"	PRON
+"eût"	ADV
+"arraché"	VERB
+"les"	DET
+"beaux"	NOUN
+"pétales"	ADJ
+"étincelants"	ADJ
+"et"	CCONJ
+"colorés"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"pour"	ADP
+"exécuter"	VERB
+"ce"	DET
+"travail"	NOUN
+","	PUNCT
+"il"	PRON
+"avait"	AUX
+"fallu"	VERB
+","	PUNCT
+"pendant"	ADP
+"l'"	DET
+"heure"	NOUN
+"où"	PRON
+"lady"	VERB
+"
+"	SPACE
+"Jerland"	PROPN
+"prenait"	VERB
+"le"	DET
+"thé"	PRON
+","	PUNCT
+"il"	PRON
+"avait"	AUX
+"fallu"	VERB
+","	PUNCT
+"en"	ADP
+"plein"	ADJ
+"jour"	NOUN
+","	PUNCT
+"et"	CCONJ
+"dans"	ADP
+"un"	DET
+"
+"	SPACE
+"couloir"	VERB
+"fréquenté"	NOUN
+","	PUNCT
+"fracturer"	VERB
+"la"	DET
+"porte"	NOUN
+"de"	ADP
+"la"	DET
+"cabine"	NOUN
+","	PUNCT
+"trouver"	VERB
+"un"	DET
+"petit"	ADJ
+"
+"	SPACE
+"sac"	NOUN
+"dissimulé"	VERB
+"à"	ADP
+"dessein"	ADV
+"au"	ADP
+"fond"	NOUN
+"d'"	ADP
+"un"	DET
+"carton"	NOUN
+"à"	ADP
+"chapeau"	NOUN
+","	PUNCT
+"l'"	DET
+"ouvrir"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"choisir"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"n'"	ADV
+"y"	PRON
+"eut"	VERB
+"qu'"	ADV
+"un"	DET
+"cri"	VERB
+"parmi"	ADP
+"nous"	PRON
+"."	PUNCT
+"Il"	PRON
+"n'"	ADV
+"y"	PRON
+"eut"	VERB
+"qu'"	ADV
+"une"	DET
+"opinion"	NOUN
+"parmi"	ADP
+"tous"	ADJ
+"
+"	SPACE
+"les"	DET
+"passagers"	NOUN
+","	PUNCT
+"lorsque"	SCONJ
+"le"	DET
+"vol"	NOUN
+"fut"	AUX
+"connu"	VERB
+":"	PUNCT
+"c'"	PRON
+"est"	AUX
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"Et"	CCONJ
+"de"	ADP
+"
+"	SPACE
+"fait"	NOUN
+","	PUNCT
+"c'"	PRON
+"était"	AUX
+"bien"	ADV
+"sa"	DET
+"manière"	NOUN
+"compliquée"	ADJ
+","	PUNCT
+"mystérieuse"	ADJ
+","	PUNCT
+"inconcevable"	ADJ
+"..."	PUNCT
+"
+"	SPACE
+"et"	CCONJ
+"logique"	ADJ
+"cependant"	ADV
+","	PUNCT
+"car"	CCONJ
+"s'"	SCONJ
+"il"	PRON
+"était"	AUX
+"difficile"	ADJ
+"de"	ADP
+"recéler"	VERB
+"la"	DET
+"masse"	NOUN
+"
+"	SPACE
+"encombrante"	NOUN
+"qu'"	SCONJ
+"eût"	ADV
+"formée"	VERB
+"l'"	DET
+"ensemble"	NOUN
+"des"	ADP
+"bijoux"	NOUN
+","	PUNCT
+"combien"	ADV
+"moindre"	ADJ
+"était"	AUX
+"
+"	SPACE
+"l'"	DET
+"embarras"	NOUN
+"avec"	ADP
+"de"	DET
+"petites"	ADJ
+"choses"	NOUN
+"indépendantes"	ADJ
+"les"	DET
+"unes"	NOUN
+"des"	ADP
+"autres"	ADJ
+","	PUNCT
+"
+"	SPACE
+"perles"	ADJ
+","	PUNCT
+"émeraudes"	ADJ
+"et"	CCONJ
+"saphirs"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"au"	ADP
+"dîner"	VERB
+","	PUNCT
+"il"	PRON
+"se"	PRON
+"passa"	VERB
+"ceci"	PRON
+":"	PUNCT
+"à"	ADP
+"droite"	NOUN
+"et"	CCONJ
+"à"	ADP
+"gauche"	NOUN
+"de"	ADP
+"Rozaine"	PROPN
+","	PUNCT
+"les"	DET
+"
+"	SPACE
+"deux"	NUM
+"places"	NOUN
+"restèrent"	ADV
+"vides"	ADJ
+"."	PUNCT
+"Et"	CCONJ
+"le"	DET
+"soir"	NOUN
+"on"	PRON
+"sut"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"avait"	AUX
+"été"	AUX
+"
+"	SPACE
+"convoqué"	VERB
+"par"	ADP
+"le"	DET
+"commandant"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Son"	DET
+"arrestation"	NOUN
+","	PUNCT
+"que"	PRON
+"personne"	NOUN
+"ne"	ADV
+"mit"	VERB
+"en"	ADP
+"doute"	NOUN
+","	PUNCT
+"causa"	NOUN
+"un"	DET
+"véritable"	ADJ
+"
+"	SPACE
+"soulagement"	NOUN
+"."	PUNCT
+"On"	PRON
+"respirait"	VERB
+"enfin"	ADV
+"."	PUNCT
+"Ce"	DET
+"soir"	NOUN
+"-là"	CCONJ
+"on"	PRON
+"joua"	VERB
+"aux"	ADP
+"petits"	ADJ
+"jeux"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"On"	PRON
+"dansa"	VERB
+"."	PUNCT
+"Miss"	PROPN
+"Nelly"	PROPN
+","	PUNCT
+"surtout"	ADV
+","	PUNCT
+"montra"	VERB
+"une"	DET
+"gaieté"	NOUN
+"étourdissante"	ADJ
+"qui"	PRON
+"me"	PRON
+"
+"	SPACE
+"fit"	PRON
+"voir"	VERB
+"que"	SCONJ
+","	PUNCT
+"si"	SCONJ
+"les"	DET
+"hommages"	NOUN
+"de"	ADP
+"Rozaine"	PROPN
+"avaient"	AUX
+"pu"	VERB
+"lui"	PRON
+"agréer"	VERB
+"au"	ADP
+"
+"	SPACE
+"début"	NOUN
+","	PUNCT
+"elle"	PRON
+"ne"	ADV
+"s'"	PRON
+"en"	PRON
+"souvenait"	VERB
+"guère"	ADJ
+"."	PUNCT
+"Sa"	DET
+"grâce"	NOUN
+"acheva"	NOUN
+"de"	ADP
+"me"	PRON
+"conquérir"	VERB
+"."	PUNCT
+"
+"	SPACE
+"Vers"	ADP
+"minuit"	NOUN
+","	PUNCT
+"à"	ADP
+"la"	DET
+"clarté"	NOUN
+"sereine"	ADJ
+"de"	ADP
+"la"	DET
+"lune"	NOUN
+","	PUNCT
+"je"	PRON
+"lui"	PRON
+"affirmai"	VERB
+"mon"	DET
+"
+"	SPACE
+"dévouement"	NOUN
+"avec"	ADP
+"une"	DET
+"émotion"	NOUN
+"qui"	PRON
+"ne"	ADV
+"parut"	VERB
+"pas"	ADV
+"lui"	PRON
+"déplaire"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Mais"	CCONJ
+"le"	DET
+"lendemain"	NOUN
+","	PUNCT
+"à"	ADP
+"la"	DET
+"stupeur"	NOUN
+"générale"	ADJ
+","	PUNCT
+"on"	PRON
+"apprit"	VERB
+"que"	SCONJ
+","	PUNCT
+"les"	DET
+"charges"	NOUN
+"
+"	SPACE
+"relevées"	VERB
+"contre"	ADP
+"lui"	PRON
+"n'"	ADV
+"étant"	AUX
+"pas"	ADV
+"suffisantes"	ADJ
+","	PUNCT
+"Rozaine"	PROPN
+"était"	AUX
+"libre"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Fils"	NOUN
+"d'"	ADP
+"un"	DET
+"négociant"	NOUN
+"considérable"	ADJ
+"de"	ADP
+"Bordeaux"	PROPN
+","	PUNCT
+"il"	PRON
+"avait"	AUX
+"exhibé"	NOUN
+"des"	ADP
+"
+"	SPACE
+"papiers"	NOUN
+"parfaitement"	ADV
+"en"	ADP
+"règle"	NOUN
+"."	PUNCT
+"En"	ADP
+"outre"	ADV
+","	PUNCT
+"ses"	DET
+"bras"	NOUN
+"n'"	ADV
+"offraient"	VERB
+"pas"	ADV
+"la"	DET
+"
+"	SPACE
+"moindre"	ADJ
+"trace"	NOUN
+"de"	ADP
+"blessure"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Des"	X
+"papiers"	NOUN
+"!"	PUNCT
+"des"	DET
+"actes"	NOUN
+"de"	ADP
+"naissance"	NOUN
+"!"	PUNCT
+"s'"	PRON
+"écrièrent"	X
+"les"	DET
+"ennemis"	NOUN
+"de"	ADP
+"
+"	SPACE
+"Rozaine"	PROPN
+","	PUNCT
+"mais"	CCONJ
+"Arsène"	PROPN
+"Lupin"	X
+"vous"	PRON
+"en"	PRON
+"fournira"	VERB
+"tant"	ADV
+"que"	SCONJ
+"vous"	PRON
+"voudrez"	VERB
+"!"	PUNCT
+"
+"	SPACE
+"Quant"	ADV
+"à"	ADP
+"la"	DET
+"blessure"	NOUN
+","	PUNCT
+"c'"	PRON
+"est"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"n'"	ADV
+"en"	PRON
+"a"	AUX
+"pas"	ADV
+"reçu"	VERB
+"..."	PUNCT
+"ou"	CCONJ
+"qu'"	SCONJ
+"il"	PRON
+"en"	PRON
+"a"	AUX
+"
+"	SPACE
+"effacé"	VERB
+"la"	DET
+"trace"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"On"	PRON
+"leur"	PRON
+"objectait"	VERB
+"qu'"	ADV
+"à"	ADP
+"l'"	DET
+"heure"	NOUN
+"du"	ADP
+"vol"	NOUN
+","	PUNCT
+"Rozaine"	PROPN
+"--"	PROPN
+"c'"	PRON
+"était"	AUX
+"démontré"	VERB
+"--"	PRON
+"se"	PRON
+"
+"	SPACE
+"promenait"	VERB
+"sur"	ADP
+"le"	DET
+"pont"	NOUN
+"."	PUNCT
+"À"	ADP
+"quoi"	PRON
+"ils"	PRON
+"ripostaient"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Est"	PROPN
+"-ce"	PRON
+"qu'"	SCONJ
+"un"	DET
+"homme"	NOUN
+"de"	ADP
+"la"	DET
+"trempe"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"a"	AUX
+"besoin"	NOUN
+"d'"	ADP
+"assister"	VERB
+"
+"	SPACE
+"au"	ADP
+"vol"	NOUN
+"qu'"	PRON
+"il"	PRON
+"commet"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"puis"	CCONJ
+","	PUNCT
+"en"	ADP
+"dehors"	ADP
+"de"	ADP
+"toute"	DET
+"considération"	NOUN
+"étrangère"	ADJ
+","	PUNCT
+"il"	PRON
+"y"	PRON
+"avait"	VERB
+"un"	DET
+"
+"	SPACE
+"point"	NOUN
+"sur"	ADP
+"lequel"	PRON
+"les"	DET
+"plus"	ADV
+"sceptiques"	ADJ
+"ne"	ADV
+"pouvaient"	ADV
+"épiloguer"	VERB
+":"	PUNCT
+"Qui"	PRON
+","	PUNCT
+"sauf"	ADP
+"
+"	SPACE
+"Rozaine"	PROPN
+","	PUNCT
+"voyageait"	VERB
+"seul"	ADJ
+","	PUNCT
+"était"	AUX
+"blond"	NOUN
+","	PUNCT
+"et"	CCONJ
+"portait"	VERB
+"un"	DET
+"nom"	NOUN
+"commençant"	VERB
+"par"	ADP
+"
+"	SPACE
+"R"	NOUN
+"?"	PUNCT
+"Qui"	PRON
+"le"	DET
+"télégramme"	NOUN
+"désignait"	VERB
+"-il"	PRON
+","	PUNCT
+"si"	SCONJ
+"ce"	PRON
+"n'"	ADV
+"était"	AUX
+"Rozaine"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"quand"	SCONJ
+"Rozaine"	PROPN
+","	PUNCT
+"quelques"	DET
+"minutes"	NOUN
+"avant"	ADP
+"le"	DET
+"déjeuner"	NOUN
+","	PUNCT
+"se"	PRON
+"dirigea"	VERB
+"
+"	SPACE
+"audacieusement"	ADV
+"vers"	ADP
+"notre"	DET
+"groupe"	NOUN
+","	PUNCT
+"miss"	ADV
+"Nelly"	PROPN
+"et"	CCONJ
+"lady"	VERB
+"Jerland"	PROPN
+"se"	PRON
+"
+"	SPACE
+"levèrent"	NOUN
+"et"	CCONJ
+"s'"	PRON
+"éloignèrent"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"C'"	PRON
+"était"	AUX
+"bel"	VERB
+"et"	CCONJ
+"bien"	ADV
+"de"	ADP
+"la"	DET
+"peur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Une"	DET
+"heure"	NOUN
+"plus"	ADV
+"tard"	ADV
+","	PUNCT
+"une"	DET
+"circulaire"	ADJ
+"manuscrite"	ADJ
+"passait"	VERB
+"de"	ADP
+"main"	NOUN
+"en"	ADP
+"main"	ADJ
+"
+"	SPACE
+"parmi"	ADP
+"les"	DET
+"employés"	NOUN
+"du"	ADP
+"bord"	NOUN
+","	PUNCT
+"les"	DET
+"matelots"	NOUN
+","	PUNCT
+"les"	DET
+"voyageurs"	NOUN
+"de"	ADP
+"toutes"	ADJ
+"
+"	SPACE
+"classes"	NOUN
+":"	PUNCT
+"M."	NOUN
+"Louis"	PROPN
+"Rozaine"	PROPN
+"promettait"	VERB
+"une"	DET
+"somme"	NOUN
+"de"	ADP
+"dix"	DET
+"mille"	DET
+"francs"	NOUN
+"à"	ADP
+"
+"	SPACE
+"qui"	PRON
+"démasquerait"	VERB
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"ou"	CCONJ
+"trouverait"	VERB
+"le"	DET
+"possesseur"	NOUN
+"des"	ADP
+"pierres"	NOUN
+"
+"	SPACE
+"dérobées"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"si"	SCONJ
+"personne"	NOUN
+"ne"	ADV
+"me"	PRON
+"vient"	VERB
+"en"	ADP
+"aide"	NOUN
+"contre"	ADP
+"ce"	DET
+"bandit"	NOUN
+","	PUNCT
+"déclara"	VERB
+"Rozaine"	PROPN
+"
+"	SPACE
+"au"	ADP
+"commandant"	NOUN
+","	PUNCT
+"moi"	PRON
+","	PUNCT
+"je"	PRON
+"lui"	PRON
+"ferai"	VERB
+"son"	DET
+"affaire"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Rozaine"	NOUN
+"contre"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"ou"	CCONJ
+"plutôt"	ADV
+","	PUNCT
+"selon"	ADP
+"le"	DET
+"mot"	NOUN
+"qui"	PRON
+"courut"	VERB
+","	PUNCT
+"
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"lui-même"	PRON
+"contre"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"la"	DET
+"lutte"	NOUN
+"ne"	ADV
+"manquait"	VERB
+"pas"	ADV
+"
+"	SPACE
+"d'"	ADP
+"intérêt"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Elle"	PRON
+"se"	PRON
+"prolongea"	VERB
+"durant"	ADP
+"deux"	NUM
+"journées"	NOUN
+"."	PUNCT
+"On"	PRON
+"vit"	VERB
+"Rozaine"	NOUN
+"errer"	VERB
+"de"	ADP
+"droite"	NOUN
+"
+"	SPACE
+"et"	CCONJ
+"de"	ADP
+"gauche"	NOUN
+","	PUNCT
+"se"	PRON
+"mêler"	VERB
+"au"	ADP
+"personnel"	NOUN
+","	PUNCT
+"interroger"	VERB
+","	PUNCT
+"fureter"	VERB
+"."	PUNCT
+"On"	PRON
+"aperçut"	VERB
+"
+"	SPACE
+"son"	DET
+"ombre"	NOUN
+","	PUNCT
+"la"	DET
+"nuit"	NOUN
+","	PUNCT
+"qui"	PRON
+"rôdait"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"De"	ADP
+"son"	DET
+"côté"	NOUN
+","	PUNCT
+"le"	DET
+"commandant"	NOUN
+"déploya"	ADJ
+"l'"	DET
+"énergie"	NOUN
+"la"	DET
+"plus"	ADV
+"active"	NOUN
+"."	PUNCT
+"Du"	ADP
+"haut"	ADJ
+"
+"	SPACE
+"en"	ADP
+"bas"	NOUN
+","	PUNCT
+"en"	ADP
+"tous"	ADJ
+"les"	DET
+"coins"	NOUN
+","	PUNCT
+"la"	DET
+"_"	NOUN
+"Provence"	NOUN
+"_"	PRON
+"fut"	AUX
+"fouillée"	VERB
+"."	PUNCT
+"On"	PRON
+"
+"	SPACE
+"perquisitionna"	VERB
+"dans"	ADP
+"toutes"	ADJ
+"les"	DET
+"cabines"	NOUN
+","	PUNCT
+"sans"	ADP
+"exception"	NOUN
+","	PUNCT
+"sous"	ADP
+"le"	DET
+"
+"	SPACE
+"prétexte"	NOUN
+"fort"	ADV
+"juste"	ADV
+"que"	SCONJ
+"les"	DET
+"objets"	NOUN
+"étaient"	AUX
+"cachés"	VERB
+"dans"	ADP
+"n'"	ADV
+"importe"	VERB
+"quel"	PRON
+"
+"	SPACE
+"endroit"	NOUN
+","	PUNCT
+"sauf"	ADP
+"dans"	ADP
+"la"	DET
+"cabine"	NOUN
+"du"	ADP
+"coupable"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--On"	NOUN
+"finira"	ADV
+"bien"	ADV
+"par"	ADP
+"découvrir"	VERB
+"quelque"	DET
+"chose"	NOUN
+","	PUNCT
+"n'"	ADV
+"est"	AUX
+"-ce"	PRON
+"pas"	ADV
+"?"	PUNCT
+"me"	PRON
+"
+"	SPACE
+"demandait"	VERB
+"miss"	ADV
+"Nelly"	PROPN
+"."	PUNCT
+"Tout"	DET
+"sorcier"	NOUN
+"qu'"	SCONJ
+"il"	PRON
+"soit"	AUX
+","	PUNCT
+"il"	PRON
+"ne"	ADV
+"peut"	VERB
+"faire"	VERB
+"que"	SCONJ
+"
+"	SPACE
+"des"	DET
+"diamants"	NOUN
+"et"	CCONJ
+"des"	DET
+"perles"	NOUN
+"deviennent"	VERB
+"invisibles"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	VERB
+"si"	SCONJ
+","	PUNCT
+"lui"	PRON
+"répondais"	ADJ
+"-je"	ADJ
+","	PUNCT
+"ou"	CCONJ
+"alors"	ADV
+"il"	PRON
+"faudrait"	VERB
+"explorer"	VERB
+"la"	DET
+"coiffe"	NOUN
+"
+"	SPACE
+"de"	ADP
+"nos"	DET
+"chapeaux"	NOUN
+","	PUNCT
+"la"	DET
+"doublure"	NOUN
+"de"	ADP
+"nos"	DET
+"vestes"	NOUN
+","	PUNCT
+"et"	CCONJ
+"tout"	ADJ
+"ce"	PRON
+"que"	PRON
+"nous"	PRON
+"
+"	SPACE
+"portons"	VERB
+"sur"	ADP
+"nous"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"lui"	PRON
+"montrant"	VERB
+"mon"	DET
+"kodak"	PROPN
+","	PUNCT
+"un"	DET
+"9"	NUM
+"X"	NOUN
+"12"	NUM
+"avec"	ADP
+"lequel"	PRON
+"je"	PRON
+"ne"	ADV
+"me"	PRON
+"lassais"	ADJ
+"pas"	ADV
+"
+"	SPACE
+"de"	ADP
+"la"	DET
+"photographier"	NOUN
+"dans"	ADP
+"les"	DET
+"attitudes"	NOUN
+"les"	DET
+"plus"	ADV
+"diverses"	ADJ
+":"	PUNCT
+"
+
+"	SPACE
+"--Rien"	PRON
+"que"	SCONJ
+"dans"	ADP
+"un"	DET
+"appareil"	NOUN
+"pas"	ADV
+"plus"	ADV
+"grand"	ADJ
+"que"	SCONJ
+"celui-ci"	PRON
+","	PUNCT
+"ne"	ADV
+"pensez"	VERB
+"-vous"	ADV
+"
+"	SPACE
+"pas"	ADV
+"qu'"	SCONJ
+"il"	PRON
+"y"	PRON
+"aurait"	AUX
+"place"	NOUN
+"pour"	ADP
+"toutes"	ADJ
+"les"	DET
+"pierres"	NOUN
+"précieuses"	ADJ
+"de"	ADP
+"lady"	NOUN
+"
+"	SPACE
+"Jerland"	PROPN
+"."	PUNCT
+"On"	PRON
+"affecte"	NOUN
+"de"	ADP
+"prendre"	VERB
+"des"	DET
+"vues"	NOUN
+"et"	CCONJ
+"le"	DET
+"tour"	NOUN
+"est"	AUX
+"joué"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	VERB
+"cependant"	ADV
+"j'"	PRON
+"ai"	AUX
+"entendu"	VERB
+"dire"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"n'"	ADV
+"y"	PRON
+"a"	AUX
+"point"	VERB
+"de"	ADP
+"voleur"	NOUN
+"qui"	PRON
+"ne"	ADV
+"
+"	SPACE
+"laisse"	VERB
+"derrière"	ADP
+"lui"	PRON
+"un"	DET
+"indice"	NOUN
+"quelconque"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"y"	PRON
+"en"	PRON
+"a"	VERB
+"un"	DET
+":"	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Pourquoi"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Pourquoi"	PRON
+"?"	PUNCT
+"parce"	SCONJ
+"qu'"	SCONJ
+"il"	PRON
+"ne"	ADV
+"pense"	VERB
+"pas"	ADV
+"seulement"	ADV
+"au"	ADP
+"vol"	NOUN
+"qu'"	PRON
+"il"	PRON
+"commet"	VERB
+","	PUNCT
+"
+"	SPACE
+"mais"	CCONJ
+"à"	ADP
+"toutes"	ADJ
+"les"	DET
+"circonstances"	NOUN
+"qui"	PRON
+"pourraient"	VERB
+"le"	DET
+"dénoncer"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Au"	ADJ
+"début"	NOUN
+","	PUNCT
+"vous"	PRON
+"étiez"	VERB
+"plus"	ADV
+"confiant"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	PRON
+","	PUNCT
+"depuis"	ADV
+","	PUNCT
+"je"	PRON
+"l'"	PRON
+"ai"	AUX
+"vu"	VERB
+"à"	ADP
+"l'"	DET
+"oeuvre"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"alors"	ADV
+","	PUNCT
+"selon"	ADP
+"vous"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Selon"	PROPN
+"moi"	PRON
+","	PUNCT
+"on"	PRON
+"perd"	VERB
+"son"	DET
+"temps"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"de"	ADP
+"fait"	NOUN
+","	PUNCT
+"les"	DET
+"investigations"	NOUN
+"ne"	ADV
+"donnaient"	VERB
+"aucun"	DET
+"résultat"	NOUN
+","	PUNCT
+"ou"	CCONJ
+"du"	ADP
+"
+"	SPACE
+"moins"	ADV
+","	PUNCT
+"celui"	PRON
+"qu'"	PRON
+"elles"	PRON
+"donnèrent"	VERB
+"ne"	ADV
+"correspondait"	VERB
+"pas"	ADV
+"à"	ADP
+"l'"	DET
+"effort"	NOUN
+"
+"	SPACE
+"général"	ADJ
+":"	PUNCT
+"la"	DET
+"montre"	NOUN
+"du"	ADP
+"commandant"	NOUN
+"lui"	PRON
+"fut"	AUX
+"volée"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Furieux"	PROPN
+","	PUNCT
+"il"	PRON
+"redoubla"	VERB
+"d'"	ADP
+"ardeur"	NOUN
+"et"	CCONJ
+"surveilla"	ADJ
+"de"	ADP
+"plus"	ADV
+"près"	ADV
+"encore"	ADV
+"Rozaine"	VERB
+"
+"	SPACE
+"avec"	ADP
+"qui"	PRON
+"il"	PRON
+"avait"	AUX
+"eu"	VERB
+"plusieurs"	DET
+"entrevues"	NOUN
+"."	PUNCT
+"Le"	DET
+"lendemain"	NOUN
+","	PUNCT
+"ironie"	VERB
+"
+"	SPACE
+"charmante"	ADJ
+","	PUNCT
+"on"	PRON
+"retrouvait"	VERB
+"la"	DET
+"montre"	NOUN
+"parmi"	ADP
+"les"	DET
+"faux-cols"	NOUN
+"du"	ADP
+"commandant"	NOUN
+"
+"	SPACE
+"en"	ADP
+"second"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Tout"	ADJ
+"cela"	PRON
+"avait"	VERB
+"un"	DET
+"air"	NOUN
+"de"	ADP
+"prodige"	NOUN
+","	PUNCT
+"et"	CCONJ
+"dénonçait"	VERB
+"bien"	ADV
+"la"	DET
+"manière"	NOUN
+"
+"	SPACE
+"humoristique"	ADJ
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"cambrioleur"	NOUN
+","	PUNCT
+"soit"	CCONJ
+","	PUNCT
+"mais"	CCONJ
+"dilettante"	VERB
+"aussi"	ADV
+"."	PUNCT
+"
+"	SPACE
+"Il"	PRON
+"travaillait"	VERB
+"par"	ADP
+"goût"	NOUN
+"et"	CCONJ
+"par"	ADP
+"vocation"	NOUN
+","	PUNCT
+"certes"	ADV
+","	PUNCT
+"mais"	CCONJ
+"par"	ADP
+"amusement"	ADV
+"
+"	SPACE
+"aussi"	ADV
+"."	PUNCT
+"Il"	PRON
+"donnait"	VERB
+"l'"	DET
+"impression"	NOUN
+"du"	ADP
+"monsieur"	NOUN
+"qui"	PRON
+"se"	PRON
+"divertit"	VERB
+"à"	ADP
+"la"	DET
+"pièce"	NOUN
+"
+"	SPACE
+"qu'"	PRON
+"il"	PRON
+"fait"	VERB
+"jouer"	VERB
+","	PUNCT
+"et"	CCONJ
+"qui"	PRON
+","	PUNCT
+"dans"	ADP
+"la"	DET
+"coulisse"	NOUN
+","	PUNCT
+"rit"	VERB
+"à"	ADP
+"gorge"	NOUN
+"déployée"	ADJ
+"de"	ADP
+"
+"	SPACE
+"ses"	DET
+"traits"	NOUN
+"d'"	ADP
+"esprit"	NOUN
+"et"	CCONJ
+"des"	DET
+"situations"	NOUN
+"qu'"	PRON
+"il"	PRON
+"imagina"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Décidément"	PROPN
+","	PUNCT
+"c'"	PRON
+"était"	AUX
+"un"	DET
+"artiste"	NOUN
+"en"	ADP
+"son"	DET
+"genre"	NOUN
+","	PUNCT
+"et"	CCONJ
+"quand"	SCONJ
+"j'"	PRON
+"observais"	VERB
+"
+"	SPACE
+"Rozaine"	PROPN
+","	PUNCT
+"sombre"	NOUN
+"et"	CCONJ
+"opiniâtre"	NOUN
+","	PUNCT
+"et"	CCONJ
+"que"	SCONJ
+"je"	PRON
+"songeais"	VERB
+"au"	ADP
+"double"	ADJ
+"rôle"	NOUN
+"que"	PRON
+"
+"	SPACE
+"tenait"	VERB
+"sans"	ADP
+"doute"	NOUN
+"ce"	DET
+"curieux"	ADJ
+"personnage"	NOUN
+","	PUNCT
+"je"	PRON
+"ne"	ADV
+"pouvais"	VERB
+"en"	ADP
+"parler"	VERB
+"sans"	ADP
+"
+"	SPACE
+"une"	DET
+"certaine"	NOUN
+"admiration"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Or"	CCONJ
+","	PUNCT
+"l'"	DET
+"avant-dernière"	ADJ
+"nuit"	NOUN
+","	PUNCT
+"l'"	DET
+"officier"	NOUN
+"de"	ADP
+"quart"	NOUN
+"entendit"	ADJ
+"des"	ADP
+"
+"	SPACE
+"gémissements"	NOUN
+"à"	ADP
+"l'"	DET
+"endroit"	NOUN
+"le"	DET
+"plus"	ADV
+"obscur"	NOUN
+"du"	ADP
+"pont"	NOUN
+"."	PUNCT
+"Il"	PRON
+"s'"	PRON
+"approcha"	VERB
+"."	PUNCT
+"Un"	DET
+"
+"	SPACE
+"homme"	NOUN
+"était"	AUX
+"étendu"	VERB
+","	PUNCT
+"la"	DET
+"tête"	NOUN
+"enveloppée"	ADJ
+"dans"	ADP
+"une"	DET
+"écharpe"	NOUN
+"grise"	NOUN
+"très"	ADV
+"
+"	SPACE
+"épaisse"	NOUN
+","	PUNCT
+"les"	DET
+"poignets"	NOUN
+"ficelés"	VERB
+"à"	ADP
+"l'"	DET
+"aide"	NOUN
+"d'"	ADP
+"une"	DET
+"fine"	NOUN
+"cordelette"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"On"	PRON
+"le"	PRON
+"délivra"	VERB
+"de"	ADP
+"ses"	DET
+"liens"	NOUN
+"."	PUNCT
+"On"	PRON
+"le"	DET
+"releva"	NOUN
+","	PUNCT
+"des"	DET
+"soins"	NOUN
+"lui"	PRON
+"furent"	AUX
+"
+"	SPACE
+"prodigués"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Cet"	DET
+"homme"	NOUN
+","	PUNCT
+"c'"	PRON
+"était"	AUX
+"Rozaine"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"C'"	PRON
+"était"	AUX
+"Rozaine"	PROPN
+"assailli"	VERB
+"au"	ADP
+"cours"	NOUN
+"d'"	ADP
+"une"	DET
+"de"	ADP
+"ses"	DET
+"expéditions"	NOUN
+","	PUNCT
+"terrassé"	VERB
+"
+"	SPACE
+"et"	CCONJ
+"dépouillé"	VERB
+"."	PUNCT
+"Une"	DET
+"carte"	NOUN
+"de"	ADP
+"visite"	NOUN
+"fixée"	ADJ
+"par"	ADP
+"une"	DET
+"épingle"	NOUN
+"à"	ADP
+"son"	DET
+"vêtement"	NOUN
+"
+"	SPACE
+"portait"	VERB
+"ces"	DET
+"mots"	NOUN
+":"	PUNCT
+"«"	PROPN
+"Arsène"	PROPN
+"Lupin"	PROPN
+"accepte"	VERB
+"avec"	ADP
+"reconnaissance"	NOUN
+"les"	DET
+"dix"	NUM
+"
+"	SPACE
+"mille"	NUM
+"francs"	NOUN
+"de"	ADP
+"M."	NOUN
+"Rozaine"	PROPN
+"."	PUNCT
+"»"	PUNCT
+"
+
+"	SPACE
+"En"	ADP
+"réalité"	NOUN
+","	PUNCT
+"le"	DET
+"portefeuille"	PROPN
+"dérobé"	ADP
+"contenait"	VERB
+"vingt"	NUM
+"billets"	NOUN
+"de"	ADP
+"mille"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Naturellement"	ADV
+","	PUNCT
+"on"	PRON
+"accusa"	VERB
+"le"	DET
+"malheureux"	NOUN
+"d'"	ADP
+"avoir"	AUX
+"simulé"	VERB
+"cette"	DET
+"attaque"	NOUN
+"
+"	SPACE
+"contre"	ADP
+"lui-même"	PRON
+"."	PUNCT
+"Mais"	CCONJ
+","	PUNCT
+"outre"	ADP
+"qu'"	SCONJ
+"il"	PRON
+"lui"	PRON
+"eût"	ADV
+"été"	AUX
+"impossible"	ADJ
+"de"	ADP
+"se"	PRON
+"lier"	VERB
+"
+"	SPACE
+"de"	ADP
+"cette"	DET
+"façon"	NOUN
+","	PUNCT
+"il"	PRON
+"fut"	AUX
+"établi"	VERB
+"que"	SCONJ
+"l'"	DET
+"écriture"	NOUN
+"de"	ADP
+"la"	DET
+"carte"	NOUN
+"différait"	VERB
+"
+"	SPACE
+"absolument"	ADV
+"de"	ADP
+"l'"	DET
+"écriture"	NOUN
+"de"	ADP
+"Rozaine"	PROPN
+","	PUNCT
+"et"	CCONJ
+"ressemblait"	VERB
+"au"	ADP
+"contraire"	NOUN
+","	PUNCT
+"à"	ADP
+"
+"	SPACE
+"s'"	PRON
+"y"	PRON
+"méprendre"	VERB
+","	PUNCT
+"à"	ADP
+"celle"	PRON
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"telle"	ADJ
+"que"	SCONJ
+"la"	DET
+"reproduisait"	VERB
+"un"	DET
+"
+"	SPACE
+"ancien"	ADJ
+"journal"	NOUN
+"trouvé"	VERB
+"à"	ADP
+"bord"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Ainsi"	ADV
+"donc"	ADV
+","	PUNCT
+"Rozaine"	PROPN
+"n'"	ADV
+"était"	AUX
+"plus"	ADV
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"Rozaine"	NOUN
+"était"	AUX
+"Rozaine"	VERB
+","	PUNCT
+"
+"	SPACE
+"fils"	NOUN
+"d'"	ADP
+"un"	DET
+"négociant"	NOUN
+"de"	ADP
+"Bordeaux"	PROPN
+"!"	PUNCT
+"Et"	CCONJ
+"la"	DET
+"présence"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"
+"	SPACE
+"s'"	PRON
+"affirmait"	VERB
+"une"	DET
+"fois"	NOUN
+"de"	ADP
+"plus"	ADV
+","	PUNCT
+"et"	CCONJ
+"par"	ADP
+"quel"	DET
+"acte"	NOUN
+"redoutable"	ADJ
+"!"	PUNCT
+"
+
+"	SPACE
+"Ce"	PRON
+"fut"	AUX
+"la"	DET
+"terreur"	NOUN
+"."	PUNCT
+"On"	PRON
+"n'"	ADV
+"osa"	VERB
+"plus"	ADV
+"rester"	VERB
+"seul"	ADJ
+"dans"	ADP
+"sa"	DET
+"cabine"	NOUN
+","	PUNCT
+"et"	CCONJ
+"pas"	ADV
+"
+"	SPACE
+"davantage"	ADV
+"s'"	PRON
+"aventurer"	VERB
+"seul"	ADJ
+"aux"	ADP
+"endroits"	NOUN
+"trop"	ADV
+"écartés"	VERB
+"."	PUNCT
+"Prudemment"	ADV
+"on"	PRON
+"se"	PRON
+"
+"	SPACE
+"groupait"	VERB
+"entre"	ADP
+"gens"	NOUN
+"sûrs"	ADJ
+"les"	DET
+"uns"	NOUN
+"des"	ADP
+"autres"	ADJ
+"."	PUNCT
+"Et"	CCONJ
+"encore"	ADV
+","	PUNCT
+"une"	DET
+"défiance"	NOUN
+"
+"	SPACE
+"instinctive"	VERB
+"divisait"	VERB
+"les"	DET
+"plus"	ADV
+"intimes"	NOUN
+"."	PUNCT
+"C'"	PRON
+"est"	VERB
+"que"	SCONJ
+"la"	DET
+"menace"	NOUN
+"ne"	ADV
+"
+"	SPACE
+"provenait"	VERB
+"pas"	ADV
+"d'"	ADP
+"un"	DET
+"individu"	NOUN
+"isolé"	ADJ
+","	PUNCT
+"surveillé"	VERB
+","	PUNCT
+"et"	CCONJ
+"par"	ADP
+"là"	ADV
+"même"	ADV
+"moins"	ADV
+"
+"	SPACE
+"dangereux"	ADJ
+"."	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"maintenant"	ADV
+","	PUNCT
+"c'"	PRON
+"était"	AUX
+"..."	PUNCT
+"c'"	PRON
+"était"	AUX
+"tout"	ADV
+"le"	DET
+"
+"	SPACE
+"monde"	NOUN
+"."	PUNCT
+"Notre"	DET
+"imagination"	NOUN
+"surexcitée"	VERB
+"lui"	PRON
+"attribuait"	VERB
+"un"	DET
+"pouvoir"	NOUN
+"
+"	SPACE
+"miraculeux"	ADJ
+"et"	CCONJ
+"illimité"	NOUN
+"."	PUNCT
+"On"	PRON
+"le"	PRON
+"supposait"	NOUN
+"capable"	ADJ
+"de"	ADP
+"prendre"	VERB
+"les"	DET
+"
+"	SPACE
+"déguisements"	ADJ
+"les"	DET
+"plus"	ADV
+"inattendus"	ADJ
+","	PUNCT
+"d'"	ADP
+"être"	AUX
+"tour"	NOUN
+"à"	ADP
+"tour"	NOUN
+"le"	DET
+"respectable"	NOUN
+"
+"	SPACE
+"major"	NOUN
+"Rawson"	PROPN
+","	PUNCT
+"ou"	CCONJ
+"le"	DET
+"noble"	ADJ
+"marquis"	NOUN
+"de"	ADP
+"Raverdan"	PROPN
+","	PUNCT
+"ou"	CCONJ
+"même"	ADV
+","	PUNCT
+"car"	CCONJ
+"on"	PRON
+"ne"	ADV
+"
+"	SPACE
+"s'"	PRON
+"arrêtait"	VERB
+"plus"	ADV
+"à"	ADP
+"l'"	DET
+"initiale"	NOUN
+"accusatrice"	NOUN
+","	PUNCT
+"ou"	CCONJ
+"même"	ADV
+"telle"	ADJ
+"ou"	CCONJ
+"telle"	ADJ
+"
+"	SPACE
+"personne"	NOUN
+"connue"	VERB
+"de"	ADP
+"tous"	ADJ
+","	PUNCT
+"ayant"	AUX
+"femme"	NOUN
+","	PUNCT
+"enfants"	NOUN
+","	PUNCT
+"domestiques"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Les"	DET
+"premières"	ADJ
+"dépêches"	NOUN
+"sans"	ADP
+"fil"	NOUN
+"n'"	ADV
+"apportèrent"	VERB
+"aucune"	DET
+"nouvelle"	PROPN
+"."	PUNCT
+"Du"	ADP
+"
+"	SPACE
+"moins"	ADV
+"le"	DET
+"commandant"	NOUN
+"ne"	ADV
+"nous"	PRON
+"en"	PRON
+"fit"	VERB
+"point"	NOUN
+"part"	ADJ
+","	PUNCT
+"et"	CCONJ
+"un"	DET
+"tel"	ADJ
+"silence"	NOUN
+"
+"	SPACE
+"n'"	ADV
+"était"	AUX
+"pas"	ADV
+"pour"	ADP
+"nous"	PRON
+"rassurer"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Aussi"	ADV
+","	PUNCT
+"le"	DET
+"dernier"	ADJ
+"jour"	NOUN
+"parut"	ADJ
+"-il"	PRON
+"interminable"	ADJ
+"."	PUNCT
+"On"	PRON
+"vivait"	VERB
+"dans"	ADP
+"l'"	DET
+"attente"	NOUN
+"
+"	SPACE
+"anxieuse"	ADJ
+"d'"	ADP
+"un"	DET
+"malheur"	NOUN
+"."	PUNCT
+"Cette"	DET
+"fois"	NOUN
+","	PUNCT
+"ce"	PRON
+"ne"	ADV
+"serait"	VERB
+"plus"	ADV
+"un"	DET
+"vol"	NOUN
+","	PUNCT
+"ce"	PRON
+"ne"	ADV
+"
+"	SPACE
+"serait"	AUX
+"plus"	ADV
+"une"	DET
+"simple"	ADJ
+"agression"	NOUN
+","	PUNCT
+"ce"	PRON
+"serait"	AUX
+"le"	DET
+"crime"	NOUN
+","	PUNCT
+"le"	DET
+"meurtre"	NOUN
+"."	PUNCT
+"On"	PRON
+"
+"	SPACE
+"n'"	ADV
+"admettait"	VERB
+"pas"	ADV
+"qu'"	SCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"s'"	PRON
+"en"	ADP
+"tînt"	ADV
+"à"	ADP
+"ces"	DET
+"deux"	NUM
+"larcins"	NOUN
+"
+"	SPACE
+"insignifiants"	NOUN
+"."	PUNCT
+"Maître"	NOUN
+"absolu"	ADJ
+"du"	ADP
+"navire"	NOUN
+","	PUNCT
+"les"	DET
+"autorités"	NOUN
+"réduites"	VERB
+"à"	ADP
+"
+"	SPACE
+"l'"	DET
+"impuissance"	NOUN
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"avait"	VERB
+"qu'"	SCONJ
+"à"	ADP
+"vouloir"	VERB
+","	PUNCT
+"tout"	ADV
+"lui"	PRON
+"était"	AUX
+"permis"	VERB
+","	PUNCT
+"il"	PRON
+"
+"	SPACE
+"disposait"	VERB
+"des"	DET
+"biens"	NOUN
+"et"	CCONJ
+"des"	ADP
+"existences"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Heures"	NOUN
+"délicieuses"	VERB
+"pour"	ADP
+"moi"	PRON
+","	PUNCT
+"je"	PRON
+"l'"	PRON
+"avoue"	NOUN
+","	PUNCT
+"car"	CCONJ
+"elles"	PRON
+"me"	PRON
+"valurent"	VERB
+"la"	DET
+"
+"	SPACE
+"confiance"	NOUN
+"de"	ADP
+"miss"	NOUN
+"Nelly"	PROPN
+"."	PUNCT
+"Impressionnée"	VERB
+"par"	ADP
+"tant"	ADV
+"d'"	ADP
+"événements"	NOUN
+","	PUNCT
+"de"	ADP
+"
+"	SPACE
+"nature"	NOUN
+"déjà"	ADV
+"inquiète"	ADJ
+","	PUNCT
+"elle"	PRON
+"chercha"	ADJ
+"spontanément"	ADV
+"à"	ADP
+"mes"	DET
+"côtés"	NOUN
+"une"	DET
+"
+"	SPACE
+"protection"	NOUN
+","	PUNCT
+"une"	DET
+"sécurité"	NOUN
+"que"	PRON
+"j'"	PRON
+"étais"	AUX
+"heureux"	ADJ
+"de"	ADP
+"lui"	PRON
+"offrir"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Au"	ADP
+"fond"	NOUN
+","	PUNCT
+"je"	PRON
+"bénissais"	VERB
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"N'"	ADV
+"était"	AUX
+"-ce"	PRON
+"pas"	ADV
+"lui"	PRON
+"qui"	PRON
+"nous"	PRON
+"
+"	SPACE
+"rapprochait"	VERB
+"?"	PUNCT
+"N'"	ADV
+"était"	AUX
+"-ce"	PRON
+"pas"	ADV
+"grâce"	NOUN
+"à"	ADP
+"lui"	PRON
+"que"	PRON
+"j'"	PRON
+"avais"	VERB
+"le"	DET
+"droit"	NOUN
+"de"	ADP
+"
+"	SPACE
+"m'"	PRON
+"abandonner"	VERB
+"aux"	ADP
+"plus"	ADV
+"beaux"	NOUN
+"rêves"	ADJ
+"?"	PUNCT
+"Rêves"	NOUN
+"d'"	ADP
+"amour"	NOUN
+"et"	CCONJ
+"rêves"	ADJ
+"moins"	ADV
+"
+"	SPACE
+"chimériques"	VERB
+","	PUNCT
+"pourquoi"	ADV
+"ne"	ADV
+"pas"	ADV
+"le"	PRON
+"confesser"	VERB
+"?"	PUNCT
+"Les"	DET
+"Andrézy"	PROPN
+"sont"	AUX
+"de"	DET
+"bonne"	ADJ
+"
+"	SPACE
+"souche"	NOUN
+"poitevine"	ADJ
+","	PUNCT
+"mais"	CCONJ
+"leur"	DET
+"blason"	NOUN
+"est"	AUX
+"quelque"	ADV
+"peu"	ADV
+"dédoré"	ADJ
+","	PUNCT
+"et"	CCONJ
+"il"	PRON
+"ne"	ADV
+"me"	PRON
+"
+"	SPACE
+"paraît"	VERB
+"pas"	ADV
+"indigne"	ADJ
+"d'"	ADP
+"un"	DET
+"gentilhomme"	NOUN
+"de"	ADP
+"songer"	VERB
+"à"	ADP
+"rendre"	VERB
+"à"	ADP
+"son"	DET
+"nom"	NOUN
+"le"	DET
+"
+"	SPACE
+"lustre"	NOUN
+"perdu"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"ces"	DET
+"rêves"	NOUN
+","	PUNCT
+"je"	PRON
+"le"	PRON
+"sentais"	ADV
+","	PUNCT
+"n'"	ADV
+"offusquaient"	ADV
+"point"	VERB
+"Nelly"	PROPN
+"."	PUNCT
+"Ses"	DET
+"yeux"	NOUN
+"
+"	SPACE
+"souriants"	NOUN
+"m'"	PRON
+"autorisaient"	ADJ
+"à"	ADP
+"les"	PRON
+"faire"	VERB
+"."	PUNCT
+"La"	DET
+"douceur"	NOUN
+"de"	ADP
+"sa"	DET
+"voix"	NOUN
+"me"	PRON
+"disait"	VERB
+"
+"	SPACE
+"d'"	ADP
+"espérer"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"jusqu'"	ADP
+"au"	ADP
+"dernier"	ADJ
+"moment"	NOUN
+","	PUNCT
+"accoudés"	NOUN
+"aux"	ADP
+"bastingages"	NOUN
+","	PUNCT
+"nous"	PRON
+"restâmes"	VERB
+"
+"	SPACE
+"l'"	DET
+"un"	PRON
+"près"	ADV
+"de"	ADP
+"l'"	DET
+"autre"	PRON
+","	PUNCT
+"tandis"	ADV
+"que"	SCONJ
+"la"	DET
+"ligne"	NOUN
+"des"	ADP
+"côtes"	NOUN
+"américaines"	ADJ
+"
+"	SPACE
+"voguait"	VERB
+"au"	ADP
+"-"	PROPN
+"devant"	ADP
+"de"	ADP
+"nous"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"On"	PRON
+"avait"	AUX
+"interrompu"	VERB
+"les"	DET
+"perquisitions"	NOUN
+"."	PUNCT
+"On"	PRON
+"attendait"	VERB
+"."	PUNCT
+"Depuis"	ADP
+"les"	DET
+"
+"	SPACE
+"premières"	ADJ
+"jusqu'"	ADP
+"à"	ADP
+"l'"	DET
+"entrepont"	VERB
+"où"	PRON
+"grouillaient"	VERB
+"les"	DET
+"émigrants"	NOUN
+","	PUNCT
+"on"	PRON
+"
+"	SPACE
+"attendait"	VERB
+"la"	DET
+"minute"	NOUN
+"suprême"	ADJ
+"où"	PRON
+"s'"	PRON
+"expliquerait"	VERB
+"enfin"	ADV
+"l'"	DET
+"insoluble"	ADJ
+"
+"	SPACE
+"énigme"	NOUN
+"."	PUNCT
+"Qui"	PRON
+"était"	AUX
+"Arsène"	PROPN
+"Lupin"	PROPN
+"?"	PUNCT
+"Sous"	ADP
+"quel"	DET
+"nom"	NOUN
+","	PUNCT
+"sous"	ADP
+"quel"	DET
+"masque"	NOUN
+"se"	PRON
+"
+"	SPACE
+"cachait"	VERB
+"le"	DET
+"fameux"	NOUN
+"Arsène"	PROPN
+"Lupin"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"cette"	DET
+"minute"	NOUN
+"suprême"	ADJ
+"arriva"	VERB
+"."	PUNCT
+"Dussé"	PROPN
+"-je"	PRON
+"vivre"	VERB
+"cent"	NUM
+"ans"	NOUN
+","	PUNCT
+"je"	PRON
+"n'"	ADV
+"en"	PRON
+"
+"	SPACE
+"oublierai"	ADJ
+"pas"	ADV
+"le"	DET
+"plus"	ADV
+"infime"	ADJ
+"détail"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Comme"	NOUN
+"vous"	PRON
+"êtes"	AUX
+"pâle"	ADV
+","	PUNCT
+"miss"	ADV
+"Nelly"	PROPN
+","	PUNCT
+"dis"	ADV
+"-je"	PROPN
+"à"	ADP
+"ma"	DET
+"compagne"	NOUN
+"qui"	PRON
+"
+"	SPACE
+"s'"	PRON
+"appuyait"	VERB
+"à"	ADP
+"mon"	DET
+"bras"	NOUN
+","	PUNCT
+"toute"	DET
+"défaillante"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"vous"	PRON
+"!"	PUNCT
+"me"	PRON
+"répondit"	VERB
+"-elle"	PRON
+","	PUNCT
+"ah"	VERB
+"!"	PUNCT
+"vous"	PRON
+"êtes"	AUX
+"si"	SCONJ
+"changé"	VERB
+"!"	PUNCT
+"
+
+"	SPACE
+"--Songez"	NOUN
+"donc"	ADV
+"!"	PUNCT
+"cette"	DET
+"minute"	NOUN
+"est"	AUX
+"passionnante"	ADJ
+","	PUNCT
+"et"	CCONJ
+"je"	PRON
+"suis"	AUX
+"si"	SCONJ
+"heureux"	ADJ
+"
+"	SPACE
+"de"	ADP
+"la"	DET
+"vivre"	NOUN
+"auprès"	ADV
+"de"	ADP
+"vous"	PRON
+","	PUNCT
+"miss"	ADV
+"Nelly"	PROPN
+"."	PUNCT
+"Il"	PRON
+"me"	PRON
+"semble"	VERB
+"que"	SCONJ
+"votre"	DET
+"
+"	SPACE
+"souvenir"	NOUN
+"s'"	PRON
+"attardera"	VERB
+"quelquefois"	ADV
+"..."	PUNCT
+"
+
+"	SPACE
+"Elle"	PRON
+"n'"	ADV
+"écoutait"	VERB
+"pas"	ADV
+","	PUNCT
+"haletante"	NOUN
+"et"	CCONJ
+"fiévreuse"	ADJ
+"."	PUNCT
+"La"	DET
+"passerelle"	ADJ
+"s'"	PRON
+"abattit"	VERB
+"."	PUNCT
+"
+"	SPACE
+"Mais"	CCONJ
+"avant"	ADP
+"que"	SCONJ
+"nous"	PRON
+"eûmes"	VERB
+"la"	DET
+"liberté"	NOUN
+"de"	ADP
+"la"	DET
+"franchir"	NOUN
+","	PUNCT
+"des"	DET
+"gens"	NOUN
+"
+"	SPACE
+"montèrent"	VERB
+"à"	ADP
+"bord"	NOUN
+","	PUNCT
+"des"	DET
+"douaniers"	NOUN
+","	PUNCT
+"des"	DET
+"hommes"	NOUN
+"en"	ADP
+"uniforme"	NOUN
+","	PUNCT
+"des"	DET
+"facteurs"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Miss"	PROPN
+"Nelly"	PROPN
+"balbutia"	PROPN
+":"	PUNCT
+"
+
+"	SPACE
+"--On"	PRON
+"s'"	PRON
+"apercevrait"	VERB
+"qu'"	SCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"s'"	PRON
+"est"	AUX
+"échappé"	VERB
+"pendant"	ADP
+"la"	DET
+"traversée"	NOUN
+"
+"	SPACE
+"que"	SCONJ
+"je"	PRON
+"n'"	ADV
+"en"	PRON
+"serais"	PRON
+"pas"	ADV
+"surprise"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"a"	AUX
+"peut-être"	ADV
+"préféré"	VERB
+"la"	DET
+"mort"	NOUN
+"au"	ADP
+"déshonneur"	NOUN
+","	PUNCT
+"et"	CCONJ
+"plonger"	VERB
+"dans"	ADP
+"
+"	SPACE
+"l'"	DET
+"Atlantique"	PROPN
+"plutôt"	ADV
+"que"	SCONJ
+"d'"	ADP
+"être"	AUX
+"arrêté"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Ne"	X
+"riez"	VERB
+"pas"	ADV
+","	PUNCT
+"fit"	PROPN
+"-elle"	PRON
+","	PUNCT
+"agacée"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Soudain"	X
+"je"	PRON
+"tressaillis"	VERB
+","	PUNCT
+"et"	CCONJ
+"comme"	ADP
+"elle"	PRON
+"me"	PRON
+"questionnait"	VERB
+","	PUNCT
+"je"	PRON
+"lui"	PRON
+"dis"	ADV
+":"	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"voyez"	VERB
+"ce"	DET
+"vieux"	ADJ
+"petit"	ADJ
+"homme"	NOUN
+"debout"	ADJ
+"à"	ADP
+"l'"	DET
+"extrémité"	NOUN
+"de"	ADP
+"la"	DET
+"
+"	SPACE
+"passerelle"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Avec"	NUM
+"un"	DET
+"parapluie"	NOUN
+"et"	CCONJ
+"une"	DET
+"redingote"	NOUN
+"vert"	PROPN
+"-"	PROPN
+"olive"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	AUX
+"Ganimard"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ganimard"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+","	PUNCT
+"le"	DET
+"célèbre"	ADJ
+"policier"	NOUN
+","	PUNCT
+"celui"	PRON
+"qui"	PRON
+"a"	AUX
+"juré"	VERB
+"qu'"	SCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"serait"	AUX
+"
+"	SPACE
+"arrêté"	VERB
+"de"	ADP
+"sa"	DET
+"propre"	ADJ
+"main"	NOUN
+"."	PUNCT
+"Ah"	NOUN
+"!"	PUNCT
+"je"	PRON
+"comprends"	VERB
+"que"	SCONJ
+"l'"	PRON
+"on"	PRON
+"n'"	ADV
+"ait"	AUX
+"pas"	ADV
+"eu"	VERB
+"de"	ADP
+"
+"	SPACE
+"renseignements"	NOUN
+"de"	ADP
+"ce"	DET
+"côté"	NOUN
+"de"	ADP
+"l'"	DET
+"Océan"	NOUN
+"."	PUNCT
+"Ganimard"	PROPN
+"était"	AUX
+"là"	ADV
+"!"	PUNCT
+"et"	CCONJ
+"il"	PRON
+"aime"	VERB
+"
+"	SPACE
+"bien"	ADV
+"que"	SCONJ
+"personne"	NOUN
+"ne"	ADV
+"s'"	PRON
+"occupe"	VERB
+"de"	ADP
+"ses"	DET
+"petites"	ADJ
+"affaires"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Alors"	ADV
+"Arsène"	PROPN
+"Lupin"	PROPN
+"est"	AUX
+"sûr"	ADJ
+"d'"	ADP
+"être"	AUX
+"pris"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"--Qui"	NOUN
+"sait"	VERB
+"?"	PUNCT
+"Ganimard"	PROPN
+"ne"	ADV
+"l'"	PRON
+"a"	AUX
+"jamais"	ADV
+"vu"	VERB
+","	PUNCT
+"paraît"	VERB
+"-il"	PRON
+","	PUNCT
+"que"	SCONJ
+"grimé"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"déguisé"	VERB
+"."	PUNCT
+"À"	ADP
+"moins"	ADV
+"qu'"	SCONJ
+"il"	PRON
+"ne"	ADV
+"connaisse"	VERB
+"son"	DET
+"nom"	NOUN
+"d'"	ADP
+"emprunt"	NOUN
+"..."	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"dit"	VERB
+"-elle"	PRON
+","	PUNCT
+"avec"	ADP
+"cette"	DET
+"curiosité"	NOUN
+"un"	DET
+"peu"	ADV
+"cruelle"	ADJ
+"de"	ADP
+"la"	DET
+"femme"	NOUN
+","	PUNCT
+"si"	SCONJ
+"
+"	SPACE
+"je"	PRON
+"pouvais"	VERB
+"assister"	VERB
+"à"	ADP
+"l'"	DET
+"arrestation"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Patientons"	NOUN
+"."	PUNCT
+"Certainement"	ADV
+"Arsène"	PROPN
+"Lupin"	PROPN
+"a"	AUX
+"déjà"	ADV
+"remarqué"	VERB
+"la"	DET
+"présence"	NOUN
+"
+"	SPACE
+"de"	ADP
+"son"	DET
+"ennemi"	NOUN
+"."	PUNCT
+"Il"	PRON
+"préférera"	VERB
+"sortir"	VERB
+"parmi"	ADP
+"les"	DET
+"derniers"	ADJ
+","	PUNCT
+"quand"	SCONJ
+"l'"	DET
+"oeil"	NOUN
+"du"	ADP
+"
+"	SPACE
+"vieux"	ADJ
+"sera"	AUX
+"fatigué"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"débarquement"	ADV
+"commença"	PROPN
+"."	PUNCT
+"Appuyé"	PROPN
+"sur"	ADP
+"son"	DET
+"parapluie"	NOUN
+","	PUNCT
+"l'"	DET
+"air"	NOUN
+"indifférent"	NOUN
+","	PUNCT
+"
+"	SPACE
+"Ganimard"	PROPN
+"ne"	ADV
+"semblait"	VERB
+"pas"	ADV
+"prêter"	VERB
+"attention"	NOUN
+"à"	ADP
+"la"	DET
+"foule"	NOUN
+"qui"	PRON
+"se"	PRON
+"pressait"	VERB
+"
+"	SPACE
+"entre"	ADP
+"les"	DET
+"deux"	NUM
+"balustrades"	NOUN
+"."	PUNCT
+"Je"	PRON
+"notai"	VERB
+"qu'"	SCONJ
+"un"	DET
+"officier"	NOUN
+"du"	ADP
+"bord"	NOUN
+","	PUNCT
+"posté"	VERB
+"
+"	SPACE
+"derrière"	ADP
+"lui"	PRON
+","	PUNCT
+"le"	DET
+"renseignait"	VERB
+"de"	ADP
+"temps"	NOUN
+"à"	ADP
+"autre"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"marquis"	NOUN
+"de"	ADP
+"Raverdan"	PROPN
+","	PUNCT
+"le"	DET
+"major"	NOUN
+"Rawson"	PROPN
+","	PUNCT
+"l'"	DET
+"Italien"	PROPN
+"Rivolta"	PROPN
+","	PUNCT
+"
+"	SPACE
+"défilèrent"	VERB
+","	PUNCT
+"et"	CCONJ
+"d'"	DET
+"autres"	ADJ
+","	PUNCT
+"et"	CCONJ
+"beaucoup"	ADV
+"d'"	DET
+"autres"	ADJ
+"..."	PUNCT
+"Et"	CCONJ
+"j'"	PRON
+"aperçus"	VERB
+"
+"	SPACE
+"Rozaine"	PROPN
+"qui"	PRON
+"s'"	PRON
+"approchait"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Pauvre"	X
+"Rozaine"	PROPN
+"!"	PUNCT
+"il"	PRON
+"ne"	ADV
+"paraissait"	VERB
+"pas"	ADV
+"remis"	VERB
+"de"	ADP
+"ses"	DET
+"mésaventures"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	AUX
+"peut-être"	ADV
+"lui"	PRON
+"tout"	PRON
+"de"	ADP
+"même"	ADV
+","	PUNCT
+"me"	PRON
+"dit"	VERB
+"miss"	ADV
+"Nelly"	PROPN
+"..."	PUNCT
+"Qu'"	PRON
+"en"	PRON
+"
+"	SPACE
+"pensez"	VERB
+"-vous"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Je"	X
+"pense"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"serait"	AUX
+"fort"	ADV
+"intéressant"	ADJ
+"d'"	ADP
+"avoir"	VERB
+"sur"	ADP
+"une"	DET
+"même"	ADV
+"
+"	SPACE
+"photographie"	NOUN
+"Ganimard"	PROPN
+"et"	CCONJ
+"Rozaine"	PROPN
+"."	PUNCT
+"Prenez"	VERB
+"donc"	ADV
+"mon"	DET
+"appareil"	NOUN
+","	PUNCT
+"je"	PRON
+"suis"	AUX
+"si"	ADV
+"
+"	SPACE
+"chargé"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Je"	PRON
+"le"	DET
+"lui"	PRON
+"donnai"	NOUN
+","	PUNCT
+"mais"	CCONJ
+"trop"	ADV
+"tard"	ADV
+"pour"	ADP
+"qu'"	SCONJ
+"elle"	PRON
+"s'"	PRON
+"en"	ADP
+"servît"	NOUN
+"."	PUNCT
+"Rozaine"	PROPN
+"
+"	SPACE
+"passait"	VERB
+"."	PUNCT
+"L'"	DET
+"officier"	NOUN
+"se"	PRON
+"pencha"	VERB
+"à"	ADP
+"l'"	DET
+"oreille"	NOUN
+"de"	ADP
+"Ganimard"	PROPN
+","	PUNCT
+"celui-ci"	PRON
+"haussa"	PRON
+"
+"	SPACE
+"légèrement"	ADV
+"les"	DET
+"épaules"	NOUN
+","	PUNCT
+"et"	CCONJ
+"Rozaine"	PROPN
+"passa"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Mais"	CCONJ
+"alors"	ADV
+","	PUNCT
+"mon"	DET
+"Dieu"	PROPN
+","	PUNCT
+"qui"	PRON
+"était"	AUX
+"Arsène"	PROPN
+"Lupin"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+","	PUNCT
+"fit"	VERB
+"-elle"	PRON
+"à"	ADP
+"haute"	NOUN
+"voix"	ADJ
+","	PUNCT
+"qui"	PRON
+"est"	AUX
+"-ce"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"n'"	ADV
+"y"	PRON
+"avait"	VERB
+"plus"	ADV
+"qu'"	SCONJ
+"une"	DET
+"vingtaine"	NOUN
+"de"	ADP
+"personnes"	NOUN
+"."	PUNCT
+"Elle"	PRON
+"les"	PRON
+"observait"	VERB
+"
+"	SPACE
+"tour"	NOUN
+"à"	ADP
+"tour"	NOUN
+","	PUNCT
+"avec"	ADP
+"la"	DET
+"crainte"	NOUN
+"confuse"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"ne"	ADV
+"fût"	VERB
+"pas"	ADV
+","	PUNCT
+"_"	ADJ
+"lui"	ADJ
+"_"	NOUN
+","	PUNCT
+"au"	ADP
+"
+"	SPACE
+"nombre"	NOUN
+"de"	ADP
+"ces"	DET
+"vingt"	NUM
+"personnes"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Je"	PRON
+"lui"	VERB
+"dis"	ADV
+":"	PUNCT
+"
+
+"	SPACE
+"--Nous"	PRON
+"ne"	ADV
+"pouvons"	VERB
+"attendre"	VERB
+"plus"	ADV
+"longtemps"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Elle"	PRON
+"s'"	PRON
+"avança"	VERB
+"."	PUNCT
+"Je"	PRON
+"la"	PRON
+"suivis"	ADV
+"."	PUNCT
+"Mais"	CCONJ
+"nous"	PRON
+"n'"	ADV
+"avions"	AUX
+"pas"	ADV
+"fait"	NOUN
+"dix"	NUM
+"pas"	ADV
+"que"	SCONJ
+"
+"	SPACE
+"Ganimard"	PROPN
+"nous"	PRON
+"barra"	VERB
+"le"	DET
+"passage"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Eh"	INTJ
+"bien"	ADV
+","	PUNCT
+"quoi"	PRON
+"?"	PUNCT
+"m'"	PRON
+"écriai"	VERB
+"-je"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Un"	ADV
+"instant"	NOUN
+","	PUNCT
+"monsieur"	NOUN
+","	PUNCT
+"qui"	PRON
+"vous"	PRON
+"presse"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"--J'"	NUM
+"accompagne"	NOUN
+"mademoiselle"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Un"	ADV
+"instant"	NOUN
+","	PUNCT
+"répéta"	VERB
+"-t"	PRON
+"-il"	PRON
+"d'"	ADP
+"une"	DET
+"voix"	NOUN
+"plus"	ADV
+"impérieuse"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"me"	PRON
+"dévisagea"	VERB
+"profondément"	ADV
+","	PUNCT
+"puis"	CCONJ
+"il"	PRON
+"me"	PRON
+"dit"	VERB
+","	PUNCT
+"les"	DET
+"yeux"	NOUN
+"dans"	ADP
+"les"	DET
+"yeux"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Arsène"	NOUN
+"Lupin"	PROPN
+","	PUNCT
+"n'"	ADV
+"est"	AUX
+"-ce"	PRON
+"pas"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"Je"	PRON
+"me"	PRON
+"mis"	VERB
+"à"	ADP
+"rire"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Non"	ADJ
+","	PUNCT
+"Bernard"	PROPN
+"d'"	ADP
+"Andrézy"	PROPN
+","	PUNCT
+"tout"	ADV
+"simplement"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Bernard"	PROPN
+"d'"	ADP
+"Andrézy"	PROPN
+"est"	AUX
+"mort"	NOUN
+"il"	PRON
+"y"	PRON
+"a"	VERB
+"trois"	NUM
+"ans"	NOUN
+"en"	ADP
+"Macédoine"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Si"	VERB
+"Bernard"	PROPN
+"d'"	ADP
+"Andrézy"	PROPN
+"était"	AUX
+"mort"	VERB
+","	PUNCT
+"je"	PRON
+"ne"	ADV
+"serais"	AUX
+"plus"	ADV
+"de"	ADP
+"ce"	DET
+"monde"	NOUN
+"."	PUNCT
+"Et"	CCONJ
+"
+"	SPACE
+"ce"	PRON
+"n'"	ADV
+"est"	AUX
+"pas"	ADV
+"le"	DET
+"cas"	NOUN
+"."	PUNCT
+"Voici"	VERB
+"mes"	DET
+"papiers"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ce"	PRON
+"sont"	AUX
+"les"	DET
+"siens"	NOUN
+"."	PUNCT
+"Comment"	ADV
+"les"	DET
+"avez"	AUX
+"-vous"	PRON
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"ce"	PRON
+"que"	PRON
+"j'"	PRON
+"aurai"	VERB
+"le"	DET
+"
+"	SPACE
+"plaisir"	NOUN
+"de"	ADP
+"vous"	PRON
+"expliquer"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	NOUN
+"vous"	PRON
+"êtes"	AUX
+"fou"	VERB
+"!"	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"s'"	PRON
+"est"	AUX
+"embarqué"	VERB
+"sous"	ADP
+"le"	DET
+"nom"	NOUN
+"de"	ADP
+"R."	ADV
+"
+
+"	SPACE
+"--Oui"	ADJ
+","	PUNCT
+"encore"	ADV
+"un"	DET
+"truc"	NOUN
+"de"	ADP
+"vous"	PRON
+","	PUNCT
+"une"	DET
+"fausse"	NOUN
+"piste"	ADJ
+"sur"	ADP
+"laquelle"	PRON
+"vous"	PRON
+"les"	PRON
+"
+"	SPACE
+"avez"	AUX
+"lancés"	VERB
+","	PUNCT
+"là"	ADV
+"-"	PROPN
+"bas"	ADJ
+"."	PUNCT
+"Ah"	NOUN
+"!"	PUNCT
+"vous"	PRON
+"êtes"	AUX
+"d'"	ADP
+"une"	DET
+"jolie"	NOUN
+"force"	NOUN
+","	PUNCT
+"mon"	DET
+"gaillard"	PROPN
+"."	PUNCT
+"
+"	SPACE
+"Mais"	CCONJ
+"cette"	DET
+"fois"	NOUN
+","	PUNCT
+"la"	DET
+"chance"	NOUN
+"a"	AUX
+"tourné"	VERB
+"."	PUNCT
+"Voyons"	NOUN
+","	PUNCT
+"Lupin"	PROPN
+","	PUNCT
+"montrez"	VERB
+"-vous"	PRON
+"beau"	NOUN
+"
+"	SPACE
+"joueur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"J'"	PRON
+"hésitai"	VERB
+"une"	DET
+"seconde"	ADJ
+"."	PUNCT
+"D'"	ADP
+"un"	DET
+"coup"	NOUN
+"sec"	ADJ
+","	PUNCT
+"il"	PRON
+"me"	PRON
+"frappa"	VERB
+"sur"	ADP
+"l'"	DET
+"avant-bras"	NOUN
+"
+"	SPACE
+"droit"	NOUN
+"."	PUNCT
+"Je"	PRON
+"poussai"	VERB
+"un"	DET
+"cri"	NOUN
+"de"	ADP
+"douleur"	NOUN
+"."	PUNCT
+"Il"	PRON
+"avait"	AUX
+"frappé"	VERB
+"sur"	ADP
+"la"	DET
+"blessure"	NOUN
+"
+"	SPACE
+"encore"	ADV
+"mal"	ADV
+"fermée"	ADJ
+"que"	SCONJ
+"signalait"	VERB
+"le"	DET
+"télégramme"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Allons"	X
+","	PUNCT
+"il"	PRON
+"fallait"	VERB
+"se"	PRON
+"résigner"	VERB
+"."	PUNCT
+"Je"	PRON
+"me"	PRON
+"tournai"	VERB
+"vers"	ADP
+"miss"	ADV
+"Nelly"	PROPN
+"."	PUNCT
+"Elle"	PRON
+"
+"	SPACE
+"écoutait"	VERB
+","	PUNCT
+"livide"	NOUN
+","	PUNCT
+"chancelante"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Son"	DET
+"regard"	NOUN
+"rencontra"	VERB
+"le"	DET
+"mien"	NOUN
+","	PUNCT
+"puis"	CCONJ
+"s'"	PRON
+"abaissa"	VERB
+"sur"	ADP
+"le"	DET
+"kodak"	NOUN
+"que"	PRON
+"je"	PRON
+"lui"	PRON
+"
+"	SPACE
+"avais"	ADJ
+"remis"	VERB
+"."	PUNCT
+"Elle"	PRON
+"fit"	VERB
+"un"	DET
+"geste"	NOUN
+"brusque"	ADJ
+","	PUNCT
+"et"	CCONJ
+"j'"	PRON
+"eus"	VERB
+"l'"	DET
+"impression"	NOUN
+","	PUNCT
+"j'"	PRON
+"eus"	VERB
+"
+"	SPACE
+"la"	DET
+"certitude"	NOUN
+"qu'"	PRON
+"elle"	PRON
+"comprenait"	VERB
+"tout"	ADV
+"à"	ADP
+"coup"	NOUN
+"."	PUNCT
+"Oui"	ADV
+","	PUNCT
+"c'"	PRON
+"était"	AUX
+"là"	ADV
+","	PUNCT
+"entre"	ADP
+"
+"	SPACE
+"les"	DET
+"parois"	ADJ
+"étroites"	NOUN
+"de"	ADP
+"chagrin"	NOUN
+"noir"	ADJ
+","	PUNCT
+"au"	ADP
+"creux"	PRON
+"du"	ADP
+"petit"	ADJ
+"objet"	NOUN
+"que"	SCONJ
+"
+"	SPACE
+"j'"	PRON
+"avais"	PRON
+"eu"	VERB
+"la"	DET
+"précaution"	NOUN
+"de"	ADP
+"déposer"	VERB
+"entre"	ADP
+"ses"	DET
+"mains"	NOUN
+"avant"	ADP
+"que"	SCONJ
+"Ganimard"	PROPN
+"
+"	SPACE
+"ne"	ADV
+"m'"	PRON
+"arrêtât"	NOUN
+","	PUNCT
+"c'"	PRON
+"était"	AUX
+"bien"	ADV
+"là"	ADV
+"que"	SCONJ
+"se"	PRON
+"trouvaient"	VERB
+"les"	DET
+"vingt"	NUM
+"mille"	NUM
+"francs"	NOUN
+"
+"	SPACE
+"de"	ADP
+"Rozaine"	PROPN
+","	PUNCT
+"les"	DET
+"perles"	NOUN
+"et"	CCONJ
+"les"	DET
+"diamants"	NOUN
+"de"	ADP
+"lady"	NOUN
+"Jerland"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"Ah"	PROPN
+"!"	PUNCT
+"je"	PRON
+"le"	DET
+"jure"	NOUN
+","	PUNCT
+"à"	ADP
+"ce"	DET
+"moment"	NOUN
+"solennel"	ADJ
+","	PUNCT
+"alors"	ADV
+"que"	SCONJ
+"Ganimard"	PROPN
+"et"	CCONJ
+"deux"	PRON
+"de"	ADP
+"
+"	SPACE
+"ses"	DET
+"acolytes"	NOUN
+"m'"	PRON
+"entouraient"	ADV
+","	PUNCT
+"tout"	ADV
+"me"	PRON
+"fut"	AUX
+"indifférent"	ADV
+","	PUNCT
+"mon"	DET
+"arrestation"	NOUN
+","	PUNCT
+"
+"	SPACE
+"l'"	DET
+"hostilité"	NOUN
+"des"	ADP
+"gens"	NOUN
+","	PUNCT
+"tout"	ADV
+","	PUNCT
+"hors"	ADP
+"ceci"	PRON
+":"	PUNCT
+"la"	DET
+"résolution"	NOUN
+"qu'"	PRON
+"allait"	VERB
+"prendre"	VERB
+"
+"	SPACE
+"miss"	ADV
+"Nelly"	PROPN
+"au"	ADP
+"sujet"	NOUN
+"de"	ADP
+"ce"	PRON
+"que"	PRON
+"je"	PRON
+"lui"	PRON
+"avais"	ADJ
+"confié"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Que"	SCONJ
+"l'"	PRON
+"on"	PRON
+"eût"	VERB
+"contre"	ADP
+"moi"	PRON
+"cette"	DET
+"preuve"	NOUN
+"matérielle"	ADJ
+"et"	CCONJ
+"décisive"	ADJ
+","	PUNCT
+"je"	PRON
+"ne"	ADV
+"
+"	SPACE
+"songeais"	VERB
+"même"	ADV
+"pas"	ADV
+"à"	ADP
+"le"	PRON
+"redouter"	VERB
+","	PUNCT
+"mais"	CCONJ
+"cette"	DET
+"preuve"	NOUN
+","	PUNCT
+"miss"	ADV
+"Nelly"	PROPN
+"se"	PRON
+"
+"	SPACE
+"déciderait"	VERB
+"-elle"	PRON
+"à"	ADP
+"la"	PRON
+"fournir"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"Serais"	ADV
+"-je"	PRON
+"trahi"	ADJ
+"par"	ADP
+"elle"	PRON
+"?"	PUNCT
+"perdu"	NOUN
+"par"	ADP
+"elle"	PRON
+"?"	PUNCT
+"Agirait"	VERB
+"-elle"	PRON
+"en"	ADP
+"ennemie"	NOUN
+"qui"	PRON
+"
+"	SPACE
+"ne"	ADV
+"pardonne"	VERB
+"pas"	ADV
+","	PUNCT
+"ou"	CCONJ
+"bien"	ADV
+"en"	ADP
+"femme"	NOUN
+"qui"	PRON
+"se"	PRON
+"souvient"	VERB
+"et"	CCONJ
+"dont"	PRON
+"le"	DET
+"mépris"	NOUN
+"
+"	SPACE
+"s'"	PRON
+"adoucit"	VERB
+"d'"	ADP
+"un"	DET
+"peu"	ADV
+"d'"	ADP
+"indulgence"	NOUN
+","	PUNCT
+"d'"	ADP
+"un"	DET
+"peu"	ADV
+"de"	ADP
+"sympathie"	NOUN
+"involontaire"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"Elle"	PRON
+"passa"	VERB
+"devant"	ADP
+"moi"	PRON
+","	PUNCT
+"je"	PRON
+"la"	DET
+"saluai"	NOUN
+"très"	ADV
+"bas"	ADJ
+","	PUNCT
+"sans"	ADP
+"un"	DET
+"mot"	NOUN
+"."	PUNCT
+"Mêlée"	VERB
+"aux"	ADP
+"
+"	SPACE
+"autres"	ADJ
+"voyageurs"	NOUN
+","	PUNCT
+"elle"	PRON
+"se"	PRON
+"dirigea"	VERB
+"vers"	ADP
+"la"	DET
+"passerelle"	NOUN
+","	PUNCT
+"mon"	DET
+"kodak"	PROPN
+"à"	ADP
+"la"	DET
+"
+"	SPACE
+"main"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Sans"	ADP
+"doute"	NOUN
+","	PUNCT
+"pensai"	PROPN
+"-je"	PROPN
+","	PUNCT
+"elle"	PRON
+"n'"	ADV
+"ose"	VERB
+"pas"	ADV
+","	PUNCT
+"en"	ADP
+"public"	NOUN
+"."	PUNCT
+"C'"	PRON
+"est"	AUX
+"dans"	ADP
+"une"	DET
+"
+"	SPACE
+"heure"	NOUN
+","	PUNCT
+"dans"	ADP
+"un"	DET
+"instant"	NOUN
+","	PUNCT
+"qu'"	SCONJ
+"elle"	PRON
+"le"	DET
+"donnera"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Mais"	CCONJ
+","	PUNCT
+"arrivée"	NOUN
+"au"	ADP
+"milieu"	NOUN
+"de"	ADP
+"la"	DET
+"passerelle"	NOUN
+","	PUNCT
+"par"	ADP
+"un"	DET
+"mouvement"	NOUN
+"de"	ADP
+"
+"	SPACE
+"maladresse"	ADJ
+"simulée"	VERB
+","	PUNCT
+"elle"	PRON
+"le"	DET
+"laissa"	NOUN
+"tomber"	VERB
+"dans"	ADP
+"l'"	DET
+"eau"	NOUN
+","	PUNCT
+"entre"	ADP
+"le"	DET
+"mur"	NOUN
+"du"	ADP
+"
+"	SPACE
+"quai"	PROPN
+"et"	CCONJ
+"le"	DET
+"flanc"	NOUN
+"du"	ADP
+"navire"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Puis"	CCONJ
+","	PUNCT
+"je"	PRON
+"la"	DET
+"vis"	NOUN
+"s'"	PRON
+"éloigner"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Sa"	DET
+"jolie"	NOUN
+"silhouette"	NOUN
+"se"	PRON
+"perdit"	VERB
+"dans"	ADP
+"la"	DET
+"foule"	NOUN
+","	PUNCT
+"m'"	PRON
+"apparut"	NOUN
+"de"	ADP
+"nouveau"	ADJ
+"et"	CCONJ
+"
+"	SPACE
+"disparut"	ADJ
+"."	PUNCT
+"C'"	PRON
+"était"	AUX
+"fini"	VERB
+","	PUNCT
+"fini"	VERB
+"pour"	ADP
+"jamais"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Un"	DET
+"instant"	NOUN
+","	PUNCT
+"je"	PRON
+"restai"	VERB
+"immobile"	ADJ
+","	PUNCT
+"triste"	ADJ
+"à"	ADP
+"la"	DET
+"fois"	NOUN
+"et"	CCONJ
+"pénétré"	VERB
+"d'"	ADP
+"un"	DET
+"doux"	NOUN
+"
+"	SPACE
+"attendrissement"	ADV
+","	PUNCT
+"puis"	CCONJ
+"je"	PRON
+"soupirai"	ADJ
+","	PUNCT
+"au"	ADP
+"grand"	ADJ
+"étonnement"	NOUN
+"de"	ADP
+"Ganimard"	PROPN
+":"	PUNCT
+"
+
+"	SPACE
+"--Dommage"	NOUN
+","	PUNCT
+"tout"	ADV
+"de"	ADP
+"même"	ADV
+","	PUNCT
+"de"	ADP
+"ne"	ADV
+"pas"	ADV
+"être"	AUX
+"un"	DET
+"honnête"	NOUN
+"homme"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"C'"	PRON
+"est"	AUX
+"ainsi"	ADV
+"qu'"	SCONJ
+"un"	DET
+"soir"	NOUN
+"d'"	ADP
+"hiver"	VERB
+","	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"me"	PRON
+"raconta"	VERB
+"l'"	DET
+"histoire"	NOUN
+"de"	ADP
+"
+"	SPACE
+"son"	DET
+"arrestation"	NOUN
+"."	PUNCT
+"Le"	DET
+"hasard"	NOUN
+"d'"	ADP
+"incidents"	NOUN
+"dont"	PRON
+"j'"	PRON
+"écrirai"	VERB
+"quelque"	DET
+"jour"	NOUN
+"le"	DET
+"
+"	SPACE
+"récit"	NOUN
+"avait"	AUX
+"noué"	VERB
+"entre"	ADP
+"nous"	PRON
+"des"	DET
+"liens"	NOUN
+"..."	PUNCT
+"dirai"	ADJ
+"-je"	PROPN
+"d'"	ADP
+"amitié"	NOUN
+"?"	PUNCT
+"Oui"	ADV
+","	PUNCT
+"
+"	SPACE
+"j'"	PRON
+"ose"	VERB
+"croire"	VERB
+"qu'"	SCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"m'"	PRON
+"honore"	VERB
+"de"	ADP
+"quelque"	DET
+"amitié"	NOUN
+","	PUNCT
+"et"	CCONJ
+"que"	SCONJ
+"c'"	PRON
+"est"	AUX
+"
+"	SPACE
+"par"	ADP
+"amitié"	NOUN
+"qu'"	SCONJ
+"il"	PRON
+"arrive"	VERB
+"parfois"	ADV
+"chez"	ADP
+"moi"	PRON
+"à"	ADP
+"l'"	DET
+"improviste"	NOUN
+","	PUNCT
+"apportant"	ADJ
+","	PUNCT
+"
+"	SPACE
+"dans"	ADP
+"le"	DET
+"silence"	NOUN
+"de"	ADP
+"mon"	DET
+"cabinet"	NOUN
+"de"	ADP
+"travail"	NOUN
+","	PUNCT
+"sa"	DET
+"gaieté"	NOUN
+"juvénile"	ADJ
+","	PUNCT
+"le"	DET
+"
+"	SPACE
+"rayonnement"	VERB
+"de"	ADP
+"sa"	DET
+"vie"	NOUN
+"ardente"	ADJ
+","	PUNCT
+"sa"	DET
+"belle"	ADJ
+"humeur"	NOUN
+"d'"	ADP
+"homme"	NOUN
+"pour"	ADP
+"qui"	PRON
+"la"	PRON
+"
+"	SPACE
+"destinée"	VERB
+"n'"	ADV
+"a"	VERB
+"que"	SCONJ
+"faveurs"	NOUN
+"et"	CCONJ
+"sourires"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Son"	DET
+"portrait"	NOUN
+"?"	PUNCT
+"Comment"	ADV
+"pourrais"	ADV
+"-je"	PRON
+"le"	PRON
+"faire"	VERB
+"?"	PUNCT
+"Vingt"	NUM
+"fois"	NOUN
+"j'"	PRON
+"ai"	AUX
+"vu"	VERB
+"Arsène"	PROPN
+"
+"	SPACE
+"Lupin"	PROPN
+","	PUNCT
+"et"	CCONJ
+"vingt"	NUM
+"fois"	NOUN
+"c'"	PRON
+"est"	AUX
+"un"	DET
+"être"	NOUN
+"différent"	ADV
+"qui"	PRON
+"m'"	PRON
+"est"	AUX
+"apparu"	VERB
+"..."	PUNCT
+"ou"	CCONJ
+"
+"	SPACE
+"plutôt"	ADV
+"le"	DET
+"même"	ADV
+"être"	AUX
+"dont"	PRON
+"vingt"	NUM
+"miroirs"	NOUN
+"m'"	PRON
+"auraient"	AUX
+"renvoyé"	VERB
+"autant"	ADV
+"
+"	SPACE
+"d'"	ADP
+"images"	NOUN
+"déformées"	VERB
+","	PUNCT
+"chacune"	PRON
+"ayant"	VERB
+"ses"	DET
+"yeux"	NOUN
+"particuliers"	NOUN
+","	PUNCT
+"sa"	DET
+"forme"	NOUN
+"
+"	SPACE
+"spéciale"	ADJ
+"de"	ADP
+"figure"	NOUN
+","	PUNCT
+"son"	DET
+"geste"	NOUN
+"propre"	ADJ
+","	PUNCT
+"sa"	DET
+"silhouette"	NOUN
+"et"	CCONJ
+"son"	DET
+"caractère"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Moi"	PROPN
+"-"	ADV
+"même"	ADV
+","	PUNCT
+"me"	PRON
+"dit"	VERB
+"-il"	PRON
+","	PUNCT
+"je"	PRON
+"ne"	ADV
+"sais"	VERB
+"plus"	ADV
+"bien"	ADV
+"qui"	PRON
+"je"	PRON
+"suis"	AUX
+"."	PUNCT
+"Dans"	ADP
+"une"	DET
+"
+"	SPACE
+"glace"	NOUN
+"je"	PRON
+"ne"	ADV
+"me"	PRON
+"reconnais"	VERB
+"plus"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Boutade"	PROPN
+","	PUNCT
+"certes"	ADV
+","	PUNCT
+"et"	CCONJ
+"paradoxe"	VERB
+","	PUNCT
+"mais"	CCONJ
+"vérité"	VERB
+"à"	ADP
+"l'"	DET
+"égard"	NOUN
+"de"	ADP
+"ceux"	PRON
+"qui"	PRON
+"le"	PRON
+"
+"	SPACE
+"rencontrent"	NOUN
+"et"	CCONJ
+"qui"	PRON
+"ignorent"	VERB
+"ses"	DET
+"ressources"	NOUN
+"infinies"	ADJ
+","	PUNCT
+"sa"	DET
+"patience"	NOUN
+","	PUNCT
+"son"	DET
+"
+"	SPACE
+"art"	NOUN
+"du"	ADP
+"maquillage"	NOUN
+","	PUNCT
+"sa"	DET
+"prodigieuse"	NOUN
+"faculté"	NOUN
+"de"	ADP
+"transformer"	VERB
+"jusqu'"	ADP
+"aux"	ADP
+"
+"	SPACE
+"proportions"	NOUN
+"de"	ADP
+"son"	DET
+"visage"	NOUN
+","	PUNCT
+"et"	CCONJ
+"d'"	ADP
+"altérer"	VERB
+"le"	DET
+"rapport"	NOUN
+"même"	ADV
+"de"	ADP
+"ses"	DET
+"traits"	NOUN
+"
+"	SPACE
+"entre"	ADP
+"eux"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Pourquoi"	PRON
+","	PUNCT
+"dit"	VERB
+"-il"	PRON
+"encore"	ADV
+","	PUNCT
+"aurais"	ADJ
+"-je"	PRON
+"une"	DET
+"apparence"	NOUN
+"définie"	NOUN
+"?"	PUNCT
+"Pourquoi"	ADV
+"
+"	SPACE
+"ne"	ADV
+"pas"	ADV
+"éviter"	VERB
+"ce"	DET
+"danger"	NOUN
+"d'"	ADP
+"une"	DET
+"personnalité"	NOUN
+"toujours"	ADV
+"identique"	ADJ
+"?"	PUNCT
+"Mes"	ADV
+"
+"	SPACE
+"actes"	NOUN
+"me"	PRON
+"désignent"	VERB
+"suffisamment"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Et"	CCONJ
+"il"	PRON
+"précise"	VERB
+"avec"	ADP
+"une"	DET
+"pointe"	NOUN
+"d'"	ADP
+"orgueil"	PROPN
+":"	PUNCT
+"
+
+"	SPACE
+"--Tant"	VERB
+"mieux"	ADV
+"si"	SCONJ
+"l'"	PRON
+"on"	PRON
+"ne"	ADV
+"peut"	VERB
+"jamais"	ADV
+"dire"	VERB
+"en"	ADP
+"toute"	DET
+"certitude"	NOUN
+":"	PUNCT
+"Voici"	NOUN
+"
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"L'"	DET
+"essentiel"	NOUN
+"est"	VERB
+"qu'"	SCONJ
+"on"	PRON
+"dise"	ADJ
+"sans"	ADP
+"crainte"	NOUN
+"d'"	ADP
+"erreur"	NOUN
+":"	PUNCT
+"Arsène"	PROPN
+"
+"	SPACE
+"Lupin"	X
+"a"	AUX
+"fait"	VERB
+"cela"	PRON
+"."	PUNCT
+"
+
+
+
+"	SPACE
+"Ce"	PRON
+"sont"	AUX
+"quelques-uns"	PRON
+"de"	ADP
+"ces"	DET
+"actes"	NOUN
+","	PUNCT
+"quelques"	DET
+"-"	NOUN
+"unes"	NOUN
+"de"	ADP
+"ces"	DET
+"aventures"	NOUN
+"que"	PRON
+"
+"	SPACE
+"j'"	PRON
+"essaie"	VERB
+"de"	ADP
+"reconstituer"	VERB
+","	PUNCT
+"d'"	ADP
+"après"	ADP
+"les"	DET
+"confidences"	NOUN
+"dont"	PRON
+"il"	PRON
+"eut"	VERB
+"la"	DET
+"bonne"	ADJ
+"
+"	SPACE
+"grâce"	NOUN
+"de"	ADP
+"me"	PRON
+"favoriser"	VERB
+","	PUNCT
+"certains"	DET
+"soirs"	NOUN
+"d'"	ADP
+"hiver"	VERB
+","	PUNCT
+"dans"	ADP
+"le"	DET
+"silence"	NOUN
+"de"	ADP
+"mon"	DET
+"
+"	SPACE
+"cabinet"	NOUN
+"de"	ADP
+"travail"	NOUN
+"..."	PUNCT
+"
+
+
+
+"	SPACE
+"------"	PRON
+"
+
+
+
+"	SPACE
+"ARSÈNE"	PROPN
+"LUPIN"	ADJ
+"EN"	ADP
+"PRISON"	NOUN
+"
+
+
+
+"	SPACE
+"Il"	PRON
+"n'"	ADV
+"est"	AUX
+"point"	VERB
+"de"	ADP
+"touriste"	NOUN
+"digne"	ADJ
+"de"	ADP
+"ce"	DET
+"nom"	NOUN
+"qui"	PRON
+"ne"	ADV
+"connaisse"	VERB
+"les"	DET
+"bords"	NOUN
+"
+"	SPACE
+"de"	ADP
+"la"	DET
+"Seine"	PROPN
+","	PUNCT
+"et"	CCONJ
+"qui"	PRON
+"n'"	ADV
+"ait"	AUX
+"remarqué"	VERB
+","	PUNCT
+"en"	ADP
+"allant"	VERB
+"des"	DET
+"ruines"	NOUN
+"de"	ADP
+"Jumièges"	PROPN
+"
+"	SPACE
+"aux"	ADP
+"ruines"	NOUN
+"de"	ADP
+"Saint-Wandrille"	PROPN
+","	PUNCT
+"l'"	DET
+"étrange"	NOUN
+"petit"	ADJ
+"château"	NOUN
+"féodal"	VERB
+"du"	ADP
+"
+"	SPACE
+"Malaquis"	PROPN
+","	PUNCT
+"si"	SCONJ
+"fièrement"	VERB
+"campé"	VERB
+"sur"	ADP
+"sa"	DET
+"roche"	NOUN
+","	PUNCT
+"en"	ADP
+"pleine"	NOUN
+"rivière"	ADJ
+"."	PUNCT
+"L'"	DET
+"arche"	NOUN
+"
+"	SPACE
+"d'"	ADP
+"un"	DET
+"pont"	NOUN
+"le"	DET
+"relie"	NOUN
+"à"	ADP
+"la"	DET
+"route"	NOUN
+"."	PUNCT
+"La"	DET
+"base"	NOUN
+"de"	ADP
+"ses"	DET
+"tourelles"	NOUN
+"sombres"	ADJ
+"se"	PRON
+"
+"	SPACE
+"confond"	NOUN
+"avec"	ADP
+"le"	DET
+"granit"	NOUN
+"qui"	PRON
+"le"	PRON
+"supporte"	NOUN
+","	PUNCT
+"bloc"	NOUN
+"énorme"	ADJ
+"détaché"	VERB
+"d'"	ADP
+"on"	PRON
+"ne"	ADV
+"
+"	SPACE
+"sait"	VERB
+"quelle"	DET
+"montagne"	ADJ
+"et"	CCONJ
+"jeté"	VERB
+"là"	ADV
+"par"	ADP
+"quelque"	ADV
+"formidable"	ADJ
+"convulsion"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Tout"	ADV
+"autour"	ADV
+","	PUNCT
+"l'"	DET
+"eau"	NOUN
+"calme"	PROPN
+"du"	ADP
+"grand"	ADJ
+"fleuve"	NOUN
+"joue"	VERB
+"parmi"	ADP
+"les"	DET
+"roseaux"	NOUN
+","	PUNCT
+"et"	CCONJ
+"
+"	SPACE
+"des"	ADP
+"bergeronnettes"	NOUN
+"tremblent"	ADV
+"sur"	ADP
+"la"	DET
+"crête"	NOUN
+"humide"	ADJ
+"des"	ADP
+"cailloux"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"L'"	DET
+"histoire"	NOUN
+"du"	ADP
+"Malaquis"	PROPN
+"est"	AUX
+"rude"	ADJ
+"comme"	ADP
+"son"	DET
+"nom"	NOUN
+","	PUNCT
+"revêche"	VERB
+"comme"	ADP
+"sa"	DET
+"
+"	SPACE
+"silhouette"	NOUN
+"."	PUNCT
+"Ce"	PRON
+"ne"	ADV
+"fut"	AUX
+"que"	SCONJ
+"combats"	NOUN
+","	PUNCT
+"sièges"	NOUN
+","	PUNCT
+"assauts"	VERB
+","	PUNCT
+"rapines"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"massacres"	ADJ
+"."	PUNCT
+"Aux"	ADP
+"veillées"	VERB
+"du"	ADP
+"pays"	NOUN
+"de"	ADP
+"Caux"	PROPN
+","	PUNCT
+"on"	PRON
+"évoque"	VERB
+"en"	ADP
+"frissonnant"	VERB
+"les"	DET
+"
+"	SPACE
+"crimes"	NOUN
+"qui"	PRON
+"s'"	PRON
+"y"	PRON
+"commirent"	NOUN
+"."	PUNCT
+"On"	PRON
+"raconte"	VERB
+"de"	ADP
+"mystérieuses"	NOUN
+"légendes"	ADJ
+"."	PUNCT
+"On"	PRON
+"
+"	SPACE
+"parle"	NOUN
+"du"	ADP
+"fameux"	NOUN
+"souterrain"	ADJ
+"qui"	PRON
+"conduisait"	VERB
+"jadis"	ADJ
+"à"	ADP
+"l'"	DET
+"abbaye"	PRON
+"de"	ADP
+"Jumièges"	PROPN
+"
+"	SPACE
+"et"	CCONJ
+"au"	ADP
+"manoir"	NOUN
+"d'"	ADP
+"Agnès"	PROPN
+"Sorel"	PROPN
+","	PUNCT
+"la"	DET
+"belle"	ADJ
+"amie"	NOUN
+"de"	ADP
+"Charles"	PROPN
+"VII"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"Dans"	ADP
+"cet"	DET
+"ancien"	ADJ
+"repaire"	NOUN
+"de"	ADP
+"héros"	NOUN
+"et"	CCONJ
+"de"	ADP
+"brigands"	NOUN
+","	PUNCT
+"habite"	VERB
+"le"	DET
+"baron"	NOUN
+"
+"	SPACE
+"Nathan"	PROPN
+"Cahorn"	PROPN
+","	PUNCT
+"le"	DET
+"baron"	NOUN
+"Satan"	PROPN
+","	PUNCT
+"comme"	SCONJ
+"on"	PRON
+"l'"	PRON
+"appelait"	VERB
+"jadis"	NOUN
+"à"	ADP
+"la"	DET
+"Bourse"	NOUN
+"
+"	SPACE
+"où"	PRON
+"il"	PRON
+"s'"	PRON
+"est"	AUX
+"enrichi"	VERB
+"un"	DET
+"peu"	ADV
+"trop"	ADV
+"brusquement"	ADV
+"."	PUNCT
+"Les"	DET
+"seigneurs"	NOUN
+"du"	ADP
+"
+"	SPACE
+"Malaquis"	PROPN
+","	PUNCT
+"ruinés"	VERB
+","	PUNCT
+"ont"	AUX
+"dû"	VERB
+"lui"	PRON
+"vendre"	VERB
+","	PUNCT
+"pour"	ADP
+"un"	DET
+"morceau"	NOUN
+"de"	ADP
+"pain"	NOUN
+","	PUNCT
+"la"	DET
+"
+"	SPACE
+"demeure"	NOUN
+"de"	ADP
+"leurs"	DET
+"ancêtres"	NOUN
+"."	PUNCT
+"Il"	PRON
+"y"	PRON
+"a"	AUX
+"installé"	VERB
+"ses"	DET
+"admirables"	ADJ
+"collections"	NOUN
+"
+"	SPACE
+"de"	ADP
+"meubles"	NOUN
+"et"	CCONJ
+"de"	ADP
+"tableaux"	NOUN
+","	PUNCT
+"de"	ADP
+"faïences"	NOUN
+"et"	CCONJ
+"de"	ADP
+"bois"	NOUN
+"sculptés"	NOUN
+"."	PUNCT
+"Il"	PRON
+"y"	PRON
+"vit"	VERB
+"
+"	SPACE
+"seul"	ADJ
+","	PUNCT
+"avec"	ADP
+"trois"	NUM
+"vieux"	ADJ
+"domestiques"	ADJ
+"."	PUNCT
+"Nul"	PROPN
+"n'"	ADV
+"y"	PRON
+"pénètre"	VERB
+"jamais"	ADV
+"."	PUNCT
+"Nul"	PROPN
+"n'"	ADV
+"a"	AUX
+"
+"	SPACE
+"jamais"	ADV
+"contemplé"	ADJ
+"dans"	ADP
+"le"	DET
+"décor"	NOUN
+"de"	ADP
+"ces"	DET
+"salles"	ADJ
+"antiques"	ADJ
+"les"	DET
+"trois"	NUM
+"Rubens"	NOUN
+"
+"	SPACE
+"qu'"	PRON
+"il"	PRON
+"possède"	VERB
+","	PUNCT
+"ses"	DET
+"deux"	NUM
+"Watteau"	PROPN
+","	PUNCT
+"sa"	DET
+"chaire"	NOUN
+"de"	ADP
+"Jean"	PROPN
+"Goujon"	PROPN
+","	PUNCT
+"et"	CCONJ
+"tant"	ADV
+"
+"	SPACE
+"d'"	DET
+"autres"	ADJ
+"merveilles"	NOUN
+"arrachées"	VERB
+"à"	ADP
+"coups"	NOUN
+"de"	ADP
+"billets"	NOUN
+"de"	ADP
+"banque"	NOUN
+"aux"	ADP
+"plus"	ADV
+"
+"	SPACE
+"riches"	NOUN
+"habitués"	ADJ
+"des"	ADP
+"ventes"	NOUN
+"publiques"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"baron"	NOUN
+"Satan"	PROPN
+"a"	VERB
+"peur"	NOUN
+"."	PUNCT
+"Il"	PRON
+"a"	VERB
+"peur"	NOUN
+"non"	ADV
+"point"	ADJ
+"pour"	ADP
+"lui"	PRON
+","	PUNCT
+"mais"	CCONJ
+"pour"	ADP
+"les"	DET
+"
+"	SPACE
+"trésors"	DET
+"accumulés"	VERB
+"avec"	ADP
+"une"	DET
+"passion"	NOUN
+"si"	ADP
+"tenace"	NOUN
+"et"	CCONJ
+"la"	DET
+"perspicacité"	NOUN
+"d'"	ADP
+"un"	DET
+"
+"	SPACE
+"amateur"	NOUN
+"que"	SCONJ
+"les"	DET
+"plus"	ADV
+"madrés"	VERB
+"des"	ADP
+"marchands"	NOUN
+"ne"	ADV
+"peuvent"	VERB
+"se"	PRON
+"vanter"	VERB
+"d'"	ADP
+"avoir"	VERB
+"
+"	SPACE
+"induit"	NOUN
+"en"	ADP
+"erreur"	NOUN
+"."	PUNCT
+"Il"	PRON
+"les"	PRON
+"aime"	NOUN
+","	PUNCT
+"ses"	DET
+"bibelots"	NOUN
+"."	PUNCT
+"Il"	PRON
+"les"	DET
+"aime"	NOUN
+"âprement"	ADJ
+","	PUNCT
+"
+"	SPACE
+"comme"	ADP
+"un"	DET
+"avare"	NOUN
+";"	PUNCT
+"jalousement"	ADV
+","	PUNCT
+"comme"	ADP
+"un"	DET
+"amoureux"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Chaque"	DET
+"jour"	NOUN
+","	PUNCT
+"au"	ADP
+"coucher"	VERB
+"du"	ADP
+"soleil"	NOUN
+","	PUNCT
+"les"	DET
+"quatre"	NUM
+"portes"	NOUN
+"bardées"	ADJ
+"de"	ADP
+"fer"	NOUN
+"
+"	SPACE
+"qui"	PRON
+"commandent"	VERB
+"les"	DET
+"deux"	NUM
+"extrémités"	NOUN
+"du"	ADP
+"pont"	NOUN
+"et"	CCONJ
+"l'"	DET
+"entrée"	NOUN
+"de"	ADP
+"la"	DET
+"cour"	NOUN
+"
+"	SPACE
+"d'"	ADP
+"honneur"	NOUN
+","	PUNCT
+"sont"	AUX
+"fermées"	VERB
+"et"	CCONJ
+"verrouillées"	ADJ
+"."	PUNCT
+"Au"	ADP
+"moindre"	ADJ
+"choc"	NOUN
+","	PUNCT
+"des"	DET
+"
+"	SPACE
+"sonneries"	NOUN
+"électriques"	ADJ
+"vibreraient"	ADV
+"dans"	ADP
+"le"	DET
+"silence"	NOUN
+"."	PUNCT
+"Du"	ADP
+"côté"	NOUN
+"de"	ADP
+"la"	DET
+"
+"	SPACE
+"Seine"	PROPN
+","	PUNCT
+"rien"	PRON
+"à"	ADP
+"craindre"	VERB
+":"	PUNCT
+"le"	DET
+"roc"	DET
+"s'"	PRON
+"y"	PRON
+"dresse"	VERB
+"à"	ADP
+"pic"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Or"	CCONJ
+","	PUNCT
+"un"	DET
+"vendredi"	NOUN
+"de"	ADP
+"septembre"	NOUN
+","	PUNCT
+"le"	DET
+"facteur"	NOUN
+"se"	PRON
+"présenta"	VERB
+"comme"	ADP
+"d'"	ADP
+"ordinaire"	NOUN
+"
+"	SPACE
+"à"	ADP
+"la"	DET
+"tête-de-pont"	PROPN
+"."	PUNCT
+"Et"	CCONJ
+","	PUNCT
+"selon"	ADP
+"la"	DET
+"règle"	NOUN
+"quotidienne"	VERB
+","	PUNCT
+"ce"	PRON
+"fut"	AUX
+"le"	DET
+"baron"	NOUN
+"qui"	PRON
+"
+"	SPACE
+"entrebâilla"	VERB
+"le"	DET
+"lourd"	PROPN
+"battant"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"examina"	VERB
+"l'"	DET
+"homme"	NOUN
+"aussi"	ADV
+"minutieusement"	ADV
+"que"	SCONJ
+"s'"	SCONJ
+"il"	PRON
+"ne"	ADV
+"connaissait"	VERB
+"pas"	ADV
+"
+"	SPACE
+"déjà"	ADV
+","	PUNCT
+"depuis"	ADP
+"des"	DET
+"années"	NOUN
+","	PUNCT
+"cette"	DET
+"bonne"	ADJ
+"face"	NOUN
+"réjouie"	NOUN
+"et"	CCONJ
+"ces"	DET
+"yeux"	NOUN
+"narquois"	NOUN
+"
+"	SPACE
+"de"	ADP
+"paysan"	NOUN
+","	PUNCT
+"et"	CCONJ
+"l'"	DET
+"homme"	NOUN
+"lui"	PRON
+"dit"	VERB
+"en"	ADP
+"riant"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	AUX
+"toujours"	ADV
+"moi"	PRON
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+"."	PUNCT
+"Je"	PRON
+"ne"	ADV
+"suis"	AUX
+"pas"	ADV
+"un"	DET
+"autre"	ADJ
+"qui"	PRON
+"
+"	SPACE
+"aurait"	AUX
+"pris"	VERB
+"ma"	DET
+"blouse"	ADJ
+"et"	CCONJ
+"ma"	DET
+"casquette"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Sait"	PRON
+"-on"	PRON
+"jamais"	ADV
+"?"	PUNCT
+"murmura"	NOUN
+"Cahorn"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"facteur"	NOUN
+"lui"	PRON
+"remit"	VERB
+"une"	DET
+"pile"	NOUN
+"de"	ADP
+"journaux"	NOUN
+"."	PUNCT
+"Puis"	CCONJ
+"il"	PRON
+"ajouta"	ADJ
+":"	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"maintenant"	ADV
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+","	PUNCT
+"il"	PRON
+"y"	PRON
+"a"	VERB
+"du"	ADP
+"nouveau"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Du"	NOUN
+"nouveau"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Une"	NOUN
+"lettre"	NOUN
+"..."	PUNCT
+"et"	CCONJ
+"recommandée"	VERB
+","	PUNCT
+"encore"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Isolé"	PROPN
+","	PUNCT
+"sans"	ADP
+"ami"	NOUN
+"ni"	CCONJ
+"personne"	NOUN
+"qui"	PRON
+"s'"	PRON
+"intéressât"	VERB
+"à"	ADP
+"lui"	PRON
+","	PUNCT
+"jamais"	ADV
+"le"	DET
+"baron"	NOUN
+"ne"	ADV
+"
+"	SPACE
+"recevait"	VERB
+"de"	ADP
+"lettre"	NOUN
+","	PUNCT
+"et"	CCONJ
+"tout"	ADV
+"de"	ADP
+"suite"	NOUN
+"cela"	PRON
+"lui"	PRON
+"parut"	VERB
+"un"	DET
+"événement"	NOUN
+"de"	ADP
+"
+"	SPACE
+"mauvais"	NOUN
+"augure"	VERB
+"dont"	PRON
+"il"	PRON
+"y"	PRON
+"avait"	VERB
+"lieu"	NOUN
+"de"	ADP
+"s'"	PRON
+"inquiéter"	VERB
+"."	PUNCT
+"Quel"	ADJ
+"était"	AUX
+"ce"	PRON
+"
+"	SPACE
+"mystérieux"	ADJ
+"correspondant"	VERB
+"qui"	PRON
+"venait"	VERB
+"le"	PRON
+"relancer"	VERB
+"dans"	ADP
+"sa"	DET
+"retraite"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"faut"	VERB
+"signer"	VERB
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"signa"	VERB
+"en"	ADP
+"maugréant"	ADV
+"."	PUNCT
+"Puis"	CCONJ
+"il"	PRON
+"prit"	VERB
+"la"	DET
+"lettre"	NOUN
+","	PUNCT
+"attendit"	VERB
+"que"	SCONJ
+"le"	DET
+"facteur"	NOUN
+"
+"	SPACE
+"eût"	ADV
+"disparu"	VERB
+"au"	ADP
+"tournant"	NOUN
+"de"	ADP
+"la"	DET
+"route"	NOUN
+","	PUNCT
+"et"	CCONJ
+"après"	ADP
+"avoir"	AUX
+"fait"	VERB
+"quelques"	DET
+"pas"	ADV
+"
+"	SPACE
+"de"	ADP
+"long"	ADJ
+"en"	ADP
+"large"	NOUN
+","	PUNCT
+"il"	PRON
+"s'"	PRON
+"appuya"	VERB
+"contre"	ADP
+"le"	DET
+"parapet"	NOUN
+"du"	ADP
+"pont"	NOUN
+"et"	CCONJ
+"déchira"	VERB
+"
+"	SPACE
+"l'"	DET
+"enveloppe"	NOUN
+"."	PUNCT
+"Elle"	PRON
+"portait"	VERB
+"une"	DET
+"feuille"	NOUN
+"de"	ADP
+"papier"	NOUN
+"quadrillé"	VERB
+"avec"	ADP
+"cet"	DET
+"
+"	SPACE
+"en"	NOUN
+"-"	NOUN
+"tête"	NOUN
+"manuscrit"	ADJ
+":"	PUNCT
+"Prison"	NOUN
+"de"	ADP
+"la"	DET
+"Santé"	PROPN
+","	PUNCT
+"Paris"	PROPN
+"."	PUNCT
+"Il"	PRON
+"regarda"	VERB
+"la"	DET
+"signature"	NOUN
+":"	PUNCT
+"
+"	SPACE
+"_"	NOUN
+"Arsène"	PROPN
+"Lupin_."	PROPN
+"Stupéfait"	PROPN
+","	PUNCT
+"il"	PRON
+"lut"	PRON
+":"	PUNCT
+"
+
+
+
+   "	SPACE
+"«"	VERB
+"Monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+","	PUNCT
+"
+
+"	SPACE
+"«"	PROPN
+"Il"	PRON
+"y"	PRON
+"a"	VERB
+","	PUNCT
+"dans"	ADP
+"la"	DET
+"galerie"	NOUN
+"qui"	PRON
+"réunit"	VERB
+"vos"	DET
+"deux"	NUM
+"salons"	NOUN
+","	PUNCT
+"un"	DET
+"tableau"	NOUN
+"de"	ADP
+"
+"	SPACE
+"Philippe"	PROPN
+"de"	ADP
+"Champaigne"	NOUN
+"d'"	ADP
+"excellente"	ADJ
+"facture"	NOUN
+"et"	CCONJ
+"qui"	PRON
+"me"	PRON
+"plaît"	VERB
+"
+"	SPACE
+"infiniment"	ADJ
+"."	PUNCT
+"Vos"	DET
+"Rubens"	NOUN
+"sont"	AUX
+"aussi"	ADV
+"de"	ADP
+"mon"	DET
+"goût"	NOUN
+","	PUNCT
+"ainsi"	ADV
+"que"	SCONJ
+"votre"	DET
+"plus"	ADV
+"
+"	SPACE
+"petit"	ADJ
+"Watteau"	PROPN
+"."	PUNCT
+"Dans"	ADP
+"le"	DET
+"salon"	NOUN
+"de"	ADP
+"droite"	NOUN
+","	PUNCT
+"je"	PRON
+"note"	VERB
+"la"	DET
+"crédence"	NOUN
+"Louis"	PROPN
+"
+"	SPACE
+"XIII"	ADJ
+","	PUNCT
+"les"	DET
+"tapisseries"	NOUN
+"de"	ADP
+"Beauvais"	PROPN
+","	PUNCT
+"le"	DET
+"guéridon"	NOUN
+"Empire"	NOUN
+"signé"	VERB
+"Jacob"	PROPN
+"et"	CCONJ
+"
+"	SPACE
+"le"	DET
+"bahut"	NOUN
+"Renaissance"	NOUN
+"."	PUNCT
+"Dans"	ADP
+"celui"	PRON
+"de"	ADP
+"gauche"	NOUN
+","	PUNCT
+"toute"	ADJ
+"la"	DET
+"vitrine"	NOUN
+"des"	ADP
+"
+"	SPACE
+"bijoux"	NOUN
+"et"	CCONJ
+"des"	ADP
+"miniatures"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"«"	VERB
+"Pour"	ADP
+"cette"	DET
+"fois"	NOUN
+","	PUNCT
+"je"	PRON
+"me"	PRON
+"contenterai"	VERB
+"de"	ADP
+"ces"	DET
+"objets"	NOUN
+"qui"	PRON
+"seront"	AUX
+","	PUNCT
+"je"	PRON
+"
+"	SPACE
+"crois"	VERB
+","	PUNCT
+"d'"	ADP
+"un"	DET
+"écoulement"	NOUN
+"facile"	ADJ
+"."	PUNCT
+"Je"	PRON
+"vous"	PRON
+"prie"	VERB
+"donc"	ADV
+"de"	ADP
+"les"	PRON
+"faire"	AUX
+"emballer"	VERB
+"
+"	SPACE
+"convenablement"	NOUN
+"et"	CCONJ
+"de"	ADP
+"les"	DET
+"expédier"	NOUN
+"à"	ADP
+"mon"	DET
+"nom"	NOUN
+"("	PUNCT
+"port"	NOUN
+"payé"	VERB
+")"	PUNCT
+","	PUNCT
+"en"	ADP
+"gare"	NOUN
+"des"	DET
+"
+"	SPACE
+"Batignolles"	PROPN
+","	PUNCT
+"avant"	ADP
+"huit"	NUM
+"jours"	NOUN
+"..."	PUNCT
+"faute"	NOUN
+"de"	ADP
+"quoi"	PRON
+","	PUNCT
+"je"	PRON
+"ferai"	VERB
+"procéder"	VERB
+"
+"	SPACE
+"moi"	PRON
+"-"	NOUN
+"même"	ADV
+"à"	ADP
+"leur"	DET
+"déménagement"	NOUN
+"dans"	ADP
+"la"	DET
+"nuit"	NOUN
+"du"	ADP
+"mercredi"	NOUN
+"27"	NUM
+"au"	ADP
+"jeudi"	NOUN
+"28"	NUM
+"
+"	SPACE
+"septembre"	NOUN
+"."	PUNCT
+"Et"	CCONJ
+","	PUNCT
+"comme"	ADP
+"de"	ADP
+"juste"	ADV
+","	PUNCT
+"je"	PRON
+"ne"	ADV
+"me"	PRON
+"contenterai"	VERB
+"pas"	ADV
+"des"	DET
+"objets"	NOUN
+"
+"	SPACE
+"sus-indiqués"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"«"	VERB
+"Veuillez"	VERB
+"excuser"	VERB
+"le"	DET
+"petit"	ADJ
+"dérangement"	ADJ
+"que"	SCONJ
+"je"	PRON
+"vous"	PRON
+"cause"	NOUN
+","	PUNCT
+"et"	CCONJ
+"accepter"	VERB
+"
+"	SPACE
+"l'"	DET
+"expression"	NOUN
+"de"	ADP
+"mes"	DET
+"sentiments"	NOUN
+"de"	ADP
+"respectueuse"	ADJ
+"considération"	NOUN
+"."	PUNCT
+"
+
+      "	SPACE
+"«"	NOUN
+"ARSÈNE"	PROPN
+"LUPIN"	PROPN
+"."	PUNCT
+"»"	PUNCT
+"
+
+"	SPACE
+"«"	NUM
+"P.-S.--Surtout"	ADV
+"ne"	ADV
+"pas"	ADV
+"m'"	PRON
+"envoyer"	VERB
+"le"	DET
+"plus"	ADV
+"grand"	ADJ
+"des"	ADP
+"Watteau"	PROPN
+"."	PUNCT
+"Quoique"	PRON
+"
+"	SPACE
+"vous"	PRON
+"l'"	PRON
+"ayez"	AUX
+"payé"	VERB
+"trente"	NUM
+"mille"	NUM
+"francs"	NOUN
+"à"	ADP
+"l'"	DET
+"Hôtel"	NOUN
+"des"	ADP
+"Ventes"	PROPN
+","	PUNCT
+"ce"	PRON
+"n'"	ADV
+"est"	AUX
+"
+"	SPACE
+"qu'"	SCONJ
+"une"	DET
+"copie"	NOUN
+","	PUNCT
+"l'"	DET
+"original"	NOUN
+"ayant"	AUX
+"été"	AUX
+"brûlé"	VERB
+","	PUNCT
+"sous"	ADP
+"le"	DET
+"Directoire"	NOUN
+","	PUNCT
+"par"	ADP
+"
+"	SPACE
+"Barras"	PROPN
+","	PUNCT
+"un"	DET
+"soir"	NOUN
+"d'"	ADP
+"orgie"	NOUN
+"."	PUNCT
+"Consulter"	VERB
+"les"	DET
+"_"	NOUN
+"Mémoires"	PROPN
+"_"	NOUN
+"inédits"	NOUN
+"de"	ADP
+"Garat"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"«"	PROPN
+"Je"	PRON
+"ne"	ADV
+"tiens"	VERB
+"pas"	ADV
+"non"	ADV
+"plus"	ADV
+"à"	ADP
+"la"	DET
+"châtelaine"	NOUN
+"Louis"	PROPN
+"XV"	ADJ
+"dont"	PRON
+"l'"	DET
+"authenticité"	NOUN
+"
+"	SPACE
+"me"	PRON
+"semble"	VERB
+"douteuse"	PROPN
+"."	PUNCT
+"»"	PUNCT
+"
+
+
+
+"	SPACE
+"Cette"	DET
+"lettre"	DET
+"bouleversa"	NOUN
+"le"	DET
+"baron"	NOUN
+"Cahorn"	PROPN
+"."	PUNCT
+"Signée"	NOUN
+"de"	ADP
+"tout"	DET
+"autre"	ADJ
+","	PUNCT
+"elle"	PRON
+"
+"	SPACE
+"l'"	DET
+"eût"	ADV
+"déjà"	ADV
+"considérablement"	ADV
+"alarmé"	VERB
+","	PUNCT
+"mais"	CCONJ
+"signée"	VERB
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"Lecteur"	NOUN
+"assidu"	VERB
+"des"	ADP
+"journaux"	NOUN
+","	PUNCT
+"au"	ADP
+"courant"	NOUN
+"de"	ADP
+"tout"	ADJ
+"ce"	PRON
+"qui"	PRON
+"se"	PRON
+"passait"	VERB
+"dans"	ADP
+"
+"	SPACE
+"le"	DET
+"monde"	NOUN
+"en"	ADP
+"fait"	NOUN
+"de"	ADP
+"vol"	NOUN
+"et"	CCONJ
+"de"	ADP
+"crime"	NOUN
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"ignorait"	VERB
+"rien"	PRON
+"des"	ADP
+"exploits"	NOUN
+"
+"	SPACE
+"de"	ADP
+"l'"	DET
+"infernal"	NOUN
+"cambrioleur"	ADJ
+"."	PUNCT
+"Certes"	ADV
+","	PUNCT
+"il"	PRON
+"savait"	VERB
+"que"	SCONJ
+"Lupin"	PROPN
+","	PUNCT
+"arrêté"	VERB
+"en"	ADP
+"
+"	SPACE
+"Amérique"	PROPN
+"par"	ADP
+"son"	DET
+"ennemi"	NOUN
+"Ganimard"	PROPN
+","	PUNCT
+"était"	AUX
+"bel"	VERB
+"et"	CCONJ
+"bien"	ADV
+"incarcéré"	VERB
+","	PUNCT
+"que"	SCONJ
+"
+"	SPACE
+"l'"	PRON
+"on"	PRON
+"instruisait"	VERB
+"son"	DET
+"procès"	NOUN
+"--"	PROPN
+"avec"	ADP
+"quelle"	DET
+"peine!--"	NOUN
+"
+
+"	SPACE
+"Mais"	CCONJ
+"il"	PRON
+"savait"	VERB
+"aussi"	ADV
+"que"	SCONJ
+"l'"	PRON
+"on"	PRON
+"pouvait"	VERB
+"s'"	PRON
+"attendre"	VERB
+"à"	ADP
+"tout"	PRON
+"de"	ADP
+"sa"	DET
+"part"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"D'"	ADP
+"ailleurs"	ADV
+","	PUNCT
+"cette"	DET
+"connaissance"	NOUN
+"exacte"	ADJ
+"du"	ADP
+"château"	NOUN
+","	PUNCT
+"de"	ADP
+"la"	DET
+"disposition"	NOUN
+"
+"	SPACE
+"des"	ADP
+"tableaux"	NOUN
+"et"	CCONJ
+"des"	DET
+"meubles"	NOUN
+","	PUNCT
+"était"	AUX
+"un"	DET
+"indice"	NOUN
+"des"	ADP
+"plus"	ADV
+"redoutables"	NOUN
+"."	PUNCT
+"Qui"	PRON
+"
+"	SPACE
+"l'"	PRON
+"avait"	AUX
+"renseigné"	VERB
+"sur"	ADP
+"des"	DET
+"choses"	NOUN
+"que"	PRON
+"nul"	NOUN
+"n'"	ADV
+"avait"	AUX
+"vues"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"baron"	NOUN
+"leva"	VERB
+"les"	DET
+"yeux"	NOUN
+"et"	CCONJ
+"contempla"	NOUN
+"la"	DET
+"silhouette"	NOUN
+"farouche"	ADJ
+"du"	ADP
+"
+"	SPACE
+"Malaquis"	PROPN
+","	PUNCT
+"son"	DET
+"piédestal"	NOUN
+"abrupt"	ADJ
+","	PUNCT
+"l'"	DET
+"eau"	NOUN
+"profonde"	NOUN
+"qui"	PRON
+"l'"	PRON
+"entoure"	NOUN
+","	PUNCT
+"et"	CCONJ
+"
+"	SPACE
+"haussa"	PROPN
+"les"	DET
+"épaules"	NOUN
+"."	PUNCT
+"Non"	ADV
+","	PUNCT
+"décidément"	ADV
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"y"	PRON
+"avait"	AUX
+"point"	VERB
+"de"	ADP
+"danger"	VERB
+"."	PUNCT
+"
+"	SPACE
+"Personne"	NOUN
+"au"	ADP
+"monde"	NOUN
+"ne"	ADV
+"pouvait"	VERB
+"pénétrer"	VERB
+"jusqu'"	ADP
+"au"	ADP
+"sanctuaire"	NOUN
+"inviolable"	ADJ
+"
+"	SPACE
+"de"	ADP
+"ses"	DET
+"collections"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Personne"	PROPN
+","	PUNCT
+"soit"	CCONJ
+","	PUNCT
+"mais"	CCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"?"	PUNCT
+"Pour"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"est"	AUX
+"-ce"	PRON
+"qu'"	SCONJ
+"il"	PRON
+"
+"	SPACE
+"existe"	VERB
+"des"	DET
+"portes"	NOUN
+","	PUNCT
+"des"	DET
+"ponts"	NOUN
+"-"	NOUN
+"levis"	VERB
+","	PUNCT
+"des"	DET
+"murailles"	NOUN
+"?"	PUNCT
+"À"	ADP
+"quoi"	PRON
+"servent"	VERB
+"les"	DET
+"
+"	SPACE
+"obstacles"	NOUN
+"les"	DET
+"mieux"	ADV
+"imaginés"	VERB
+","	PUNCT
+"les"	DET
+"précautions"	NOUN
+"les"	DET
+"plus"	ADV
+"habiles"	ADJ
+","	PUNCT
+"si"	SCONJ
+"
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"a"	AUX
+"décidé"	VERB
+"d'"	ADP
+"atteindre"	VERB
+"tel"	ADJ
+"but"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"soir"	NOUN
+"même"	ADV
+","	PUNCT
+"il"	PRON
+"écrivit"	VERB
+"au"	ADP
+"procureur"	NOUN
+"de"	ADP
+"la"	DET
+"République"	NOUN
+"à"	ADP
+"Rouen"	PROPN
+"."	PUNCT
+"Il"	PRON
+"
+"	SPACE
+"envoyait"	VERB
+"la"	DET
+"lettre"	NOUN
+"de"	ADP
+"menaces"	NOUN
+"et"	CCONJ
+"réclamait"	VERB
+"aide"	NOUN
+"et"	CCONJ
+"protection"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"La"	DET
+"réponse"	NOUN
+"ne"	ADV
+"tarda"	VERB
+"point"	NOUN
+":"	PUNCT
+"le"	DET
+"nommé"	NOUN
+"Arsène"	PROPN
+"Lupin"	PROPN
+"étant"	AUX
+"actuellement"	ADV
+"
+"	SPACE
+"détenu"	VERB
+"à"	ADP
+"la"	DET
+"Santé"	PROPN
+","	PUNCT
+"surveillé"	VERB
+"de"	ADP
+"près"	ADV
+","	PUNCT
+"et"	CCONJ
+"dans"	ADP
+"l'"	DET
+"impossibilité"	NOUN
+"
+"	SPACE
+"d'"	ADP
+"écrire"	ADJ
+","	PUNCT
+"la"	DET
+"lettre"	NOUN
+"ne"	ADV
+"pouvait"	VERB
+"être"	AUX
+"que"	SCONJ
+"l'"	DET
+"oeuvre"	NOUN
+"d'"	ADP
+"un"	DET
+"mystificateur"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Tout"	ADJ
+"le"	DET
+"démontrait"	VERB
+","	PUNCT
+"la"	DET
+"logique"	NOUN
+"et"	CCONJ
+"le"	DET
+"bon"	ADJ
+"sens"	NOUN
+","	PUNCT
+"comme"	ADP
+"la"	DET
+"réalité"	NOUN
+"des"	ADP
+"
+"	SPACE
+"faits"	NOUN
+"."	PUNCT
+"Toutefois"	ADV
+","	PUNCT
+"et"	CCONJ
+"par"	ADP
+"excès"	NOUN
+"de"	ADP
+"prudence"	NOUN
+","	PUNCT
+"on"	PRON
+"avait"	AUX
+"commis"	VERB
+"un"	DET
+"expert"	NOUN
+"
+"	SPACE
+"à"	ADP
+"l'"	DET
+"examen"	NOUN
+"de"	ADP
+"l'"	DET
+"écriture"	NOUN
+","	PUNCT
+"et"	CCONJ
+","	PUNCT
+"l'"	DET
+"expert"	NOUN
+"déclarait"	VERB
+"que"	SCONJ
+","	PUNCT
+"malgré"	ADP
+"certaines"	PRON
+"
+"	SPACE
+"analogies"	NOUN
+","	PUNCT
+"cette"	DET
+"écriture"	NOUN
+"n'"	ADV
+"était"	AUX
+"pas"	ADV
+"celle"	PRON
+"du"	ADP
+"détenu"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"«"	VERB
+"Malgré"	ADP
+"certaines"	DET
+"analogies"	NOUN
+"»"	PUNCT
+"le"	DET
+"baron"	NOUN
+"ne"	ADV
+"retint"	VERB
+"que"	SCONJ
+"ces"	DET
+"trois"	NUM
+"mots"	NOUN
+"
+"	SPACE
+"effarants"	NOUN
+","	PUNCT
+"où"	PRON
+"il"	PRON
+"voyait"	VERB
+"l'"	DET
+"aveu"	NOUN
+"d'"	ADP
+"un"	DET
+"doute"	NOUN
+"qui"	PRON
+","	PUNCT
+"à"	ADP
+"lui"	PRON
+"seul"	ADJ
+","	PUNCT
+"aurait"	AUX
+"dû"	VERB
+"
+"	SPACE
+"suffire"	VERB
+"pour"	ADP
+"que"	SCONJ
+"la"	DET
+"justice"	NOUN
+"intervînt"	ADJ
+"."	PUNCT
+"Ses"	DET
+"craintes"	ADJ
+"s'"	PRON
+"exaspérèrent"	VERB
+"."	PUNCT
+"Il"	PRON
+"
+"	SPACE
+"ne"	ADV
+"cessait"	VERB
+"de"	ADP
+"relire"	VERB
+"la"	DET
+"lettre"	NOUN
+"."	PUNCT
+"«"	PUNCT
+"Je"	PRON
+"ferai"	VERB
+"procéder"	VERB
+"moi"	PRON
+"-"	NOUN
+"même"	ADV
+"au"	ADP
+"
+"	SPACE
+"déménagement"	NOUN
+"."	PUNCT
+"»"	PUNCT
+"Et"	CCONJ
+"cette"	DET
+"date"	NOUN
+"précise"	VERB
+":"	PUNCT
+"la"	DET
+"nuit"	NOUN
+"du"	ADP
+"mercredi"	NOUN
+"27"	NUM
+"au"	ADP
+"jeudi"	NOUN
+"
+"	SPACE
+"28"	NUM
+"septembre"	NOUN
+"!"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"Soupçonneux"	PROPN
+"et"	CCONJ
+"taciturne"	ADJ
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"avait"	AUX
+"pas"	ADV
+"osé"	VERB
+"se"	PRON
+"confier"	VERB
+"à"	ADP
+"ses"	DET
+"
+"	SPACE
+"domestiques"	ADJ
+","	PUNCT
+"dont"	PRON
+"le"	DET
+"dévouement"	NOUN
+"ne"	ADV
+"lui"	PRON
+"paraissait"	VERB
+"pas"	ADV
+"à"	ADP
+"l'"	DET
+"abri"	NOUN
+"de"	ADP
+"
+"	SPACE
+"toute"	DET
+"épreuve"	NOUN
+"."	PUNCT
+"Cependant"	ADV
+","	PUNCT
+"pour"	ADP
+"la"	DET
+"première"	ADJ
+"fois"	NOUN
+"depuis"	ADP
+"des"	DET
+"années"	NOUN
+","	PUNCT
+"il"	PRON
+"
+"	SPACE
+"éprouvait"	VERB
+"le"	DET
+"besoin"	NOUN
+"de"	ADP
+"parler"	VERB
+","	PUNCT
+"de"	ADP
+"prendre"	VERB
+"conseil"	NOUN
+"."	PUNCT
+"Abandonné"	VERB
+"par"	ADP
+"la"	DET
+"
+"	SPACE
+"justice"	NOUN
+"de"	ADP
+"son"	DET
+"pays"	NOUN
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"espérait"	VERB
+"plus"	ADV
+"se"	PRON
+"défendre"	VERB
+"avec"	ADP
+"ses"	DET
+"propres"	ADJ
+"
+"	SPACE
+"ressources"	NOUN
+","	PUNCT
+"et"	CCONJ
+"il"	PRON
+"fut"	AUX
+"sur"	ADP
+"le"	DET
+"point"	NOUN
+"d'"	ADP
+"aller"	VERB
+"jusqu'"	ADP
+"à"	ADP
+"Paris"	PROPN
+"et"	CCONJ
+"d'"	ADP
+"implorer"	VERB
+"
+"	SPACE
+"l'"	DET
+"assistance"	NOUN
+"de"	ADP
+"quelque"	DET
+"ancien"	ADJ
+"policier"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Deux"	NUM
+"jours"	NOUN
+"s'"	PRON
+"écoulèrent"	VERB
+"."	PUNCT
+"Le"	DET
+"troisième"	ADJ
+","	PUNCT
+"en"	ADP
+"lisant"	VERB
+"ses"	DET
+"journaux"	NOUN
+","	PUNCT
+"il"	PRON
+"
+"	SPACE
+"tressaillit"	NOUN
+"de"	ADP
+"joie"	PROPN
+"."	PUNCT
+"Le"	DET
+"_"	NOUN
+"Réveil"	NOUN
+"de"	ADP
+"Caudebec"	PROPN
+"_"	ADJ
+"publiait"	VERB
+"cet"	DET
+"entrefilet"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"«"	X
+"Nous"	PRON
+"avons"	VERB
+"le"	DET
+"plaisir"	NOUN
+"de"	ADP
+"posséder"	VERB
+"dans"	ADP
+"nos"	DET
+"murs"	NOUN
+","	PUNCT
+"voilà"	VERB
+"bientôt"	ADV
+"trois"	PRON
+"
+"	SPACE
+"semaines"	NOUN
+","	PUNCT
+"l'"	DET
+"inspecteur"	NOUN
+"principal"	ADJ
+"Ganimard"	PROPN
+","	PUNCT
+"un"	PRON
+"des"	ADP
+"vétérans"	NOUN
+"du"	ADP
+"service"	NOUN
+"
+"	SPACE
+"de"	ADP
+"la"	DET
+"Sûreté"	PROPN
+"."	PUNCT
+"M."	NOUN
+"Ganimard"	PROPN
+","	PUNCT
+"à"	ADP
+"qui"	PRON
+"l'"	DET
+"arrestation"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"sa"	DET
+"
+"	SPACE
+"dernière"	ADJ
+"prouesse"	NOUN
+","	PUNCT
+"a"	AUX
+"valu"	VERB
+"une"	DET
+"réputation"	NOUN
+"européenne"	ADJ
+","	PUNCT
+"se"	PRON
+"repose"	VERB
+"de"	ADP
+"ses"	DET
+"
+"	SPACE
+"longues"	ADJ
+"fatigues"	NOUN
+"en"	ADP
+"taquinant"	VERB
+"le"	DET
+"goujon"	NOUN
+"et"	CCONJ
+"l'"	DET
+"ablette"	NOUN
+"."	PUNCT
+"»"	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"!"	PUNCT
+"voilà"	VERB
+"bien"	ADV
+"l'"	DET
+"auxiliaire"	NOUN
+"que"	SCONJ
+"cherchait"	VERB
+"le"	DET
+"baron"	NOUN
+"Cahorn"	PROPN
+"!"	PUNCT
+"Qui"	PRON
+"
+"	SPACE
+"mieux"	ADV
+"que"	SCONJ
+"le"	DET
+"retors"	NOUN
+"et"	CCONJ
+"patient"	NOUN
+"Ganimard"	PROPN
+"saurait"	VERB
+"déjouer"	VERB
+"les"	DET
+"projets"	NOUN
+"de"	ADP
+"
+"	SPACE
+"Lupin"	PROPN
+"?"	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"baron"	NOUN
+"n'"	ADV
+"hésita"	VERB
+"pas"	ADV
+"."	PUNCT
+"Six"	NUM
+"kilomètres"	NOUN
+"séparent"	VERB
+"le"	DET
+"château"	NOUN
+"de"	ADP
+"la"	DET
+"petite"	ADJ
+"
+"	SPACE
+"ville"	NOUN
+"de"	ADP
+"Caudebec"	PROPN
+"."	PUNCT
+"Il"	PRON
+"les"	DET
+"franchit"	NOUN
+"d'"	ADP
+"un"	DET
+"pas"	ADV
+"allègre"	ADJ
+","	PUNCT
+"en"	ADP
+"homme"	NOUN
+"que"	PRON
+"
+"	SPACE
+"surexcite"	VERB
+"l'"	DET
+"espoir"	NOUN
+"du"	ADP
+"salut"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"Après"	ADP
+"plusieurs"	DET
+"tentatives"	NOUN
+"infructueuses"	ADJ
+"pour"	ADP
+"connaître"	VERB
+"l'"	DET
+"adresse"	NOUN
+"de"	ADP
+"
+"	SPACE
+"l'"	DET
+"inspecteur"	NOUN
+"principal"	ADJ
+","	PUNCT
+"il"	PRON
+"se"	PRON
+"dirigea"	VERB
+"vers"	ADP
+"les"	DET
+"bureaux"	NOUN
+"du"	ADP
+"_"	NOUN
+"Réveil"	PROPN
+"_"	ADJ
+","	PUNCT
+"
+"	SPACE
+"situés"	VERB
+"au"	ADP
+"milieu"	NOUN
+"du"	ADP
+"quai"	PROPN
+"."	PUNCT
+"Il"	PRON
+"y"	PRON
+"trouva"	VERB
+"le"	DET
+"rédacteur"	NOUN
+"de"	ADP
+"l'"	DET
+"entrefilet"	NOUN
+"
+"	SPACE
+"qui"	PRON
+","	PUNCT
+"s'"	PRON
+"approchant"	VERB
+"de"	ADP
+"la"	DET
+"fenêtre"	NOUN
+","	PUNCT
+"s'"	PRON
+"écria"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Ganimard"	PROPN
+"?"	PUNCT
+"mais"	CCONJ
+"vous"	PRON
+"êtes"	AUX
+"sûr"	ADJ
+"de"	ADP
+"le"	PRON
+"rencontrer"	VERB
+"le"	DET
+"long"	NOUN
+"du"	ADP
+"quai"	PROPN
+","	PUNCT
+"la"	DET
+"
+"	SPACE
+"ligne"	NOUN
+"à"	ADP
+"la"	DET
+"main"	NOUN
+"."	PUNCT
+"C'"	PRON
+"est"	AUX
+"là"	ADV
+"que"	SCONJ
+"nous"	PRON
+"avons"	AUX
+"lié"	VERB
+"connaissance"	NOUN
+","	PUNCT
+"et"	CCONJ
+"que"	SCONJ
+"j'"	PRON
+"ai"	VERB
+"
+"	SPACE
+"lu"	PROPN
+"par"	ADP
+"hasard"	PROPN
+"son"	DET
+"nom"	NOUN
+"gravé"	ADJ
+"sur"	ADP
+"sa"	DET
+"canne"	NOUN
+"à"	ADP
+"pêche"	NOUN
+"."	PUNCT
+"Tenez"	PROPN
+","	PUNCT
+"le"	DET
+"petit"	ADJ
+"
+"	SPACE
+"vieux"	ADJ
+"que"	SCONJ
+"l'"	PRON
+"on"	PRON
+"aperçoit"	VERB
+"là"	ADV
+"-"	NOUN
+"bas"	ADJ
+","	PUNCT
+"sous"	ADP
+"les"	DET
+"arbres"	NOUN
+"de"	ADP
+"la"	DET
+"promenade"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--En"	VERB
+"redingote"	NOUN
+"et"	CCONJ
+"en"	ADP
+"chapeau"	NOUN
+"de"	ADP
+"paille"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Justement"	NOUN
+"!"	PUNCT
+"Ah"	NOUN
+"!"	PUNCT
+"un"	DET
+"drôle"	NOUN
+"de"	ADP
+"type"	NOUN
+","	PUNCT
+"pas"	ADV
+"causeur"	NOUN
+"et"	CCONJ
+"plutôt"	ADV
+"bourru"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Cinq"	NUM
+"minutes"	NOUN
+"après"	ADV
+","	PUNCT
+"le"	DET
+"baron"	NOUN
+"abordait"	VERB
+"le"	DET
+"célèbre"	ADJ
+"Ganimard"	PROPN
+","	PUNCT
+"se"	PRON
+"
+"	SPACE
+"présentait"	VERB
+"et"	CCONJ
+"tâchait"	VERB
+"d'"	ADP
+"entrer"	VERB
+"en"	ADP
+"conversation"	NOUN
+"."	PUNCT
+"N'"	ADP
+"y"	PRON
+"parvenant"	VERB
+"point"	NOUN
+","	PUNCT
+"
+"	SPACE
+"il"	PRON
+"aborda"	VERB
+"franchement"	ADV
+"la"	DET
+"question"	NOUN
+"et"	CCONJ
+"exposa"	VERB
+"son"	DET
+"cas"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"L'"	DET
+"autre"	ADJ
+"écouta"	NOUN
+","	PUNCT
+"immobile"	NOUN
+","	PUNCT
+"sans"	ADP
+"perdre"	VERB
+"de"	ADP
+"vue"	NOUN
+"le"	DET
+"poisson"	NOUN
+"qu'"	PRON
+"il"	PRON
+"
+"	SPACE
+"guettait"	VERB
+","	PUNCT
+"puis"	CCONJ
+"il"	PRON
+"tourna"	VERB
+"la"	DET
+"tête"	NOUN
+"vers"	ADP
+"lui"	PRON
+","	PUNCT
+"le"	DET
+"toisa"	NOUN
+"des"	ADP
+"pieds"	NOUN
+"à"	ADP
+"la"	DET
+"
+"	SPACE
+"tête"	NOUN
+"d'"	ADP
+"un"	DET
+"air"	NOUN
+"de"	ADP
+"profonde"	NOUN
+"pitié"	ADJ
+","	PUNCT
+"et"	CCONJ
+"prononça"	ADJ
+":"	PUNCT
+"
+
+"	SPACE
+"--Monsieur"	PRON
+","	PUNCT
+"ce"	PRON
+"n'"	ADV
+"est"	AUX
+"guère"	ADV
+"l'"	DET
+"habitude"	NOUN
+"de"	ADP
+"prévenir"	VERB
+"les"	DET
+"gens"	NOUN
+"que"	PRON
+"l'"	PRON
+"on"	PRON
+"
+"	SPACE
+"veut"	VERB
+"dépouiller"	VERB
+"."	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"en"	ADP
+"particulier"	ADJ
+","	PUNCT
+"ne"	ADV
+"commet"	VERB
+"pas"	ADV
+"de"	DET
+"
+"	SPACE
+"pareilles"	ADJ
+"bourdes"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Cependant"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"--Monsieur"	NOUN
+","	PUNCT
+"si"	SCONJ
+"j'"	PRON
+"avais"	VERB
+"le"	DET
+"moindre"	ADJ
+"doute"	NOUN
+","	PUNCT
+"croyez"	NOUN
+"bien"	ADV
+"que"	SCONJ
+"le"	DET
+"plaisir"	NOUN
+"
+"	SPACE
+"de"	ADP
+"fourrer"	VERB
+"encore"	ADV
+"dedans"	ADP
+"ce"	DET
+"cher"	ADJ
+"Lupin"	PROPN
+"l'"	DET
+"emporterait"	NOUN
+"sur"	ADP
+"toute"	DET
+"autre"	ADJ
+"
+"	SPACE
+"considération"	NOUN
+"."	PUNCT
+"Par"	ADP
+"malheur"	NOUN
+","	PUNCT
+"ce"	DET
+"jeune"	ADJ
+"homme"	NOUN
+"est"	AUX
+"sous"	ADP
+"les"	DET
+"verrous"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--S'"	ADJ
+"il"	PRON
+"s'"	PRON
+"échappe"	VERB
+"?"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"--On"	PRON
+"ne"	ADV
+"s'"	PRON
+"échappe"	VERB
+"pas"	ADV
+"de"	ADP
+"la"	DET
+"Santé"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	PRON
+","	PUNCT
+"lui"	PRON
+"..."	PUNCT
+"
+
+"	SPACE
+"--Lui"	PROPN
+","	PUNCT
+"pas"	ADV
+"plus"	ADV
+"qu'"	SCONJ
+"un"	DET
+"autre"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Cependant"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"--Eh"	NOUN
+"bien"	ADV
+","	PUNCT
+"s'"	SCONJ
+"il"	PRON
+"s'"	PRON
+"échappe"	VERB
+","	PUNCT
+"tant"	ADV
+"mieux"	ADV
+","	PUNCT
+"je"	PRON
+"le"	PRON
+"repincerai"	ADJ
+"."	PUNCT
+"En"	ADP
+"
+"	SPACE
+"attendant"	NOUN
+","	PUNCT
+"dormez"	PROPN
+"sur"	ADP
+"vos"	DET
+"deux"	NUM
+"oreilles"	NOUN
+","	PUNCT
+"et"	CCONJ
+"n'"	ADV
+"effarouchez"	VERB
+"pas"	ADV
+"
+"	SPACE
+"davantage"	ADV
+"cette"	DET
+"ablette"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"La"	DET
+"conversation"	NOUN
+"était"	AUX
+"finie"	VERB
+"."	PUNCT
+"Le"	DET
+"baron"	NOUN
+"retourna"	ADJ
+"chez"	ADP
+"lui"	PRON
+","	PUNCT
+"un"	DET
+"peu"	ADV
+"
+"	SPACE
+"rassuré"	VERB
+"par"	ADP
+"l'"	DET
+"insouciance"	NOUN
+"de"	ADP
+"Ganimard"	PROPN
+"."	PUNCT
+"Il"	PRON
+"vérifia"	VERB
+"les"	DET
+"serrures"	NOUN
+","	PUNCT
+"
+"	SPACE
+"espionna"	VERB
+"les"	DET
+"domestiques"	NOUN
+","	PUNCT
+"et"	CCONJ
+"quarante"	NUM
+"-"	NUM
+"huit"	NUM
+"heures"	NOUN
+"encore"	ADV
+"se"	PRON
+"passèrent"	ADV
+"
+"	SPACE
+"pendant"	ADP
+"lesquelles"	PRON
+"il"	PRON
+"arriva"	VERB
+"presque"	ADV
+"à"	ADP
+"se"	PRON
+"persuader"	VERB
+"que"	SCONJ
+","	PUNCT
+"somme"	NOUN
+"toute"	ADJ
+","	PUNCT
+"
+"	SPACE
+"ses"	DET
+"craintes"	NOUN
+"étaient"	AUX
+"chimériques"	VERB
+"."	PUNCT
+"Non"	ADV
+","	PUNCT
+"décidément"	ADV
+","	PUNCT
+"comme"	SCONJ
+"l'"	PRON
+"avait"	AUX
+"dit"	VERB
+"
+"	SPACE
+"Ganimard"	PROPN
+","	PUNCT
+"on"	PRON
+"ne"	ADV
+"prévient"	VERB
+"pas"	ADV
+"les"	DET
+"gens"	NOUN
+"que"	PRON
+"l'"	PRON
+"on"	PRON
+"veut"	VERB
+"dépouiller"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"La"	DET
+"date"	NOUN
+"approchait"	VERB
+"."	PUNCT
+"Le"	DET
+"matin"	NOUN
+"du"	ADP
+"mardi"	NOUN
+","	PUNCT
+"veille"	NOUN
+"du"	ADP
+"27"	NUM
+","	PUNCT
+"rien"	PRON
+"de"	ADP
+"
+"	SPACE
+"particulier"	ADJ
+"."	PUNCT
+"Mais"	CCONJ
+"à"	ADP
+"trois"	NUM
+"heures"	NOUN
+","	PUNCT
+"un"	DET
+"gamin"	NOUN
+"sonna"	ADJ
+"."	PUNCT
+"Il"	PRON
+"apportait"	VERB
+"une"	DET
+"
+"	SPACE
+"dépêche"	NOUN
+"."	PUNCT
+"
+
+
+
+"	SPACE
+"«"	PUNCT
+"Aucun"	PROPN
+"colis"	NUM
+"en"	ADP
+"gare"	NOUN
+"Batignolles"	PROPN
+"."	PUNCT
+"Préparez"	VERB
+"tout"	ADV
+"pour"	ADP
+"demain"	ADV
+"soir"	NOUN
+"."	PUNCT
+"
+
+      "	SPACE
+"«"	ADJ
+"ARSÈNE"	PROPN
+"."	PUNCT
+"»"	PUNCT
+"
+
+
+
+"	SPACE
+"De"	ADP
+"nouveau"	ADJ
+","	PUNCT
+"ce"	PRON
+"fut"	AUX
+"l'"	DET
+"affolement"	NOUN
+","	PUNCT
+"à"	ADP
+"tel"	ADJ
+"point"	NOUN
+"qu'"	PRON
+"il"	PRON
+"se"	PRON
+"demanda"	VERB
+"s'"	SCONJ
+"il"	PRON
+"ne"	ADV
+"
+"	SPACE
+"céderait"	VERB
+"pas"	ADV
+"aux"	ADP
+"exigences"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"courut"	VERB
+"à"	ADP
+"Caudebec"	PROPN
+"."	PUNCT
+"Ganimard"	PROPN
+"pêchait"	VERB
+"à"	ADP
+"la"	DET
+"même"	ADJ
+"place"	NOUN
+","	PUNCT
+"assis"	VERB
+"sur"	ADP
+"un"	DET
+"
+"	SPACE
+"pliant"	NOUN
+"."	PUNCT
+"Sans"	ADP
+"un"	DET
+"mot"	NOUN
+","	PUNCT
+"il"	PRON
+"lui"	PRON
+"tendit"	VERB
+"le"	DET
+"télégramme"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"après"	ADP
+"?"	PUNCT
+"fit"	DET
+"l'"	DET
+"inspecteur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Après"	NOUN
+"?"	PUNCT
+"mais"	CCONJ
+"c'"	PRON
+"est"	VERB
+"pour"	ADP
+"demain"	ADV
+"!"	PUNCT
+"
+
+"	SPACE
+"--Quoi"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Le"	ADP
+"cambriolage"	NOUN
+"!"	PUNCT
+"le"	DET
+"pillage"	NOUN
+"de"	ADP
+"mes"	DET
+"collections"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"déposa"	VERB
+"sa"	DET
+"ligne"	NOUN
+","	PUNCT
+"se"	PRON
+"tourna"	VERB
+"vers"	ADP
+"lui"	PRON
+","	PUNCT
+"et"	CCONJ
+","	PUNCT
+"les"	DET
+"deux"	NUM
+"bras"	NOUN
+"
+"	SPACE
+"croisés"	VERB
+"sur"	ADP
+"sa"	DET
+"poitrine"	NOUN
+","	PUNCT
+"s'"	PRON
+"écria"	VERB
+"d'"	ADP
+"un"	DET
+"ton"	NOUN
+"d'"	ADP
+"impatience"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"ça"	PRON
+","	PUNCT
+"est"	AUX
+"-ce"	PRON
+"que"	SCONJ
+"vous"	PRON
+"vous"	PRON
+"imaginez"	VERB
+"que"	SCONJ
+"je"	PRON
+"vais"	VERB
+"m'"	PRON
+"occuper"	VERB
+"d'"	ADP
+"une"	DET
+"
+"	SPACE
+"histoire"	NOUN
+"aussi"	ADV
+"stupide"	ADJ
+"!"	PUNCT
+"
+
+"	SPACE
+"--Quelle"	X
+"indemnité"	NOUN
+"demandez"	VERB
+"-vous"	NOUN
+"pour"	ADP
+"passer"	VERB
+"au"	ADP
+"château"	NOUN
+"la"	DET
+"nuit"	NOUN
+"du"	ADP
+"27"	NUM
+"
+"	SPACE
+"au"	ADP
+"28"	NUM
+"septembre"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Pas"	PROPN
+"un"	DET
+"sou"	PROPN
+","	PUNCT
+"fichez"	ADV
+"-moi"	PRON
+"la"	DET
+"paix"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Fixez"	PUNCT
+"votre"	DET
+"prix"	NOUN
+","	PUNCT
+"je"	PRON
+"suis"	AUX
+"riche"	NOUN
+","	PUNCT
+"extrêmement"	ADV
+"riche"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"La"	DET
+"brutalité"	NOUN
+"de"	ADP
+"l'"	DET
+"offre"	NOUN
+"déconcerta"	ADJ
+"Ganimard"	PROPN
+"qui"	PRON
+"reprit"	VERB
+","	PUNCT
+"plus"	ADV
+"calme"	PROPN
+":"	PUNCT
+"
+
+"	SPACE
+"--Je"	ADJ
+"suis"	AUX
+"ici"	ADV
+"en"	ADP
+"congé"	NOUN
+"et"	CCONJ
+"je"	PRON
+"n'"	ADV
+"ai"	VERB
+"pas"	ADV
+"le"	DET
+"droit"	NOUN
+"de"	ADP
+"me"	PRON
+"mêler"	VERB
+"..."	PUNCT
+"
+
+"	SPACE
+"--Personne"	PRON
+"ne"	ADV
+"le"	PRON
+"saura"	ADJ
+"."	PUNCT
+"Je"	PRON
+"m'"	PRON
+"engage"	VERB
+","	PUNCT
+"quoi"	PRON
+"qu'"	PRON
+"il"	PRON
+"arrive"	VERB
+","	PUNCT
+"à"	ADP
+"garder"	VERB
+"le"	DET
+"
+"	SPACE
+"silence"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Oh"	NOUN
+"!"	PUNCT
+"il"	PRON
+"n'"	ADV
+"arrivera"	VERB
+"rien"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Eh"	INTJ
+"bien"	ADV
+","	PUNCT
+"voyons"	NOUN
+","	PUNCT
+"trois"	NUM
+"mille"	DET
+"francs"	NOUN
+","	PUNCT
+"est"	AUX
+"-ce"	PRON
+"assez"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"L'"	DET
+"inspecteur"	NOUN
+"huma"	VERB
+"une"	DET
+"prise"	NOUN
+"de"	ADP
+"tabac"	NOUN
+","	PUNCT
+"réfléchit"	NOUN
+","	PUNCT
+"et"	CCONJ
+"laissa"	ADJ
+"tomber"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Soit"	PROPN
+"."	PUNCT
+"Seulement"	ADV
+","	PUNCT
+"je"	PRON
+"dois"	VERB
+"vous"	PRON
+"déclarer"	VERB
+"loyalement"	ADV
+"que"	SCONJ
+"c'"	PRON
+"est"	AUX
+"de"	ADP
+"
+"	SPACE
+"l'"	DET
+"argent"	NOUN
+"jeté"	VERB
+"par"	ADP
+"la"	DET
+"fenêtre"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ça"	PROPN
+"m'"	PRON
+"est"	AUX
+"égal"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--En"	VERB
+"ce"	DET
+"cas"	NOUN
+"..."	PUNCT
+"Et"	CCONJ
+"puis"	CCONJ
+","	PUNCT
+"après"	ADP
+"tout"	ADV
+","	PUNCT
+"est"	AUX
+"-ce"	PRON
+"qu'"	PRON
+"on"	PRON
+"sait"	VERB
+"avec"	ADP
+"ce"	DET
+"
+"	SPACE
+"diable"	NOUN
+"de"	ADP
+"Lupin"	PROPN
+"!"	PUNCT
+"Il"	PRON
+"doit"	VERB
+"avoir"	VERB
+"à"	ADP
+"ses"	DET
+"ordres"	NOUN
+"toute"	ADJ
+"une"	DET
+"bande"	ADJ
+"..."	PUNCT
+"
+"	SPACE
+"Êtes"	ADJ
+"-vous"	PRON
+"sûr"	ADJ
+"de"	ADP
+"vos"	DET
+"domestiques"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Ma"	NOUN
+"foi"	VERB
+"..."	PUNCT
+"
+
+"	SPACE
+"--Alors"	PRON
+","	PUNCT
+"ne"	ADV
+"comptons"	VERB
+"pas"	ADV
+"sur"	ADP
+"eux"	PRON
+"."	PUNCT
+"Je"	PRON
+"vais"	VERB
+"prévenir"	VERB
+"par"	ADP
+"dépêche"	NOUN
+"deux"	NUM
+"
+"	SPACE
+"gaillards"	NOUN
+"de"	ADP
+"mes"	DET
+"amis"	NOUN
+"qui"	PRON
+"nous"	PRON
+"donneront"	VERB
+"plus"	ADV
+"de"	ADP
+"sécurité"	NOUN
+"..."	PUNCT
+"Et"	CCONJ
+"
+"	SPACE
+"maintenant"	ADV
+","	PUNCT
+"filez"	VERB
+","	PUNCT
+"qu'"	SCONJ
+"on"	PRON
+"ne"	ADV
+"nous"	PRON
+"voie"	VERB
+"pas"	ADV
+"ensemble"	NOUN
+"."	PUNCT
+"À"	ADP
+"demain"	ADV
+","	PUNCT
+"vers"	ADP
+"les"	DET
+"
+"	SPACE
+"neuf"	ADP
+"heures"	NOUN
+"."	PUNCT
+"
+
+
+
+   "	SPACE
+"*"	ADJ
+"  "	SPACE
+"*"	ADJ
+"  "	SPACE
+"*"	ADJ
+"
+
+
+
+"	SPACE
+"Le"	DET
+"lendemain"	NOUN
+","	PUNCT
+"date"	NOUN
+"fixée"	NOUN
+"par"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"le"	DET
+"baron"	NOUN
+"Cahorn"	PROPN
+"décrocha"	ADP
+"sa"	DET
+"
+"	SPACE
+"panoplie"	VERB
+","	PUNCT
+"fourbit"	VERB
+"ses"	DET
+"armes"	NOUN
+","	PUNCT
+"et"	CCONJ
+"se"	PRON
+"promena"	VERB
+"aux"	ADP
+"alentours"	NOUN
+"de"	ADP
+"Malaquis"	PROPN
+"."	PUNCT
+"
+"	SPACE
+"Rien"	PRON
+"d'"	ADP
+"équivoque"	NOUN
+"ne"	ADV
+"le"	PRON
+"frappa"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"soir"	NOUN
+","	PUNCT
+"à"	ADP
+"huit"	NUM
+"heures"	NOUN
+"et"	CCONJ
+"demie"	NOUN
+","	PUNCT
+"il"	PRON
+"congédia"	VERB
+"ses"	DET
+"domestiques"	NOUN
+"."	PUNCT
+"Ils"	PRON
+"
+"	SPACE
+"habitaient"	VERB
+"une"	DET
+"aile"	NOUN
+"en"	ADP
+"façade"	NOUN
+"sur"	ADP
+"la"	DET
+"route"	NOUN
+","	PUNCT
+"mais"	CCONJ
+"un"	DET
+"peu"	ADV
+"en"	ADP
+"retrait"	NOUN
+","	PUNCT
+"et"	CCONJ
+"
+"	SPACE
+"tout"	ADV
+"au"	ADP
+"bout"	NOUN
+"du"	ADP
+"château"	NOUN
+"."	PUNCT
+"Une"	DET
+"fois"	NOUN
+"seul"	ADJ
+","	PUNCT
+"il"	PRON
+"ouvrit"	VERB
+"doucement"	ADV
+"les"	DET
+"quatre"	NUM
+"
+"	SPACE
+"portes"	NOUN
+"."	PUNCT
+"Après"	ADP
+"un"	DET
+"moment"	NOUN
+","	PUNCT
+"il"	PRON
+"entendit"	VERB
+"des"	DET
+"pas"	NOUN
+"qui"	PRON
+"s'"	PRON
+"approchaient"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"présenta"	VERB
+"ses"	DET
+"deux"	NUM
+"auxiliaires"	NOUN
+","	PUNCT
+"grands"	ADJ
+"gars"	NOUN
+"solides"	ADJ
+","	PUNCT
+"au"	ADP
+"cou"	NOUN
+"de"	ADP
+"
+"	SPACE
+"taureau"	NOUN
+"et"	CCONJ
+"aux"	ADP
+"mains"	NOUN
+"puissantes"	NOUN
+","	PUNCT
+"puis"	CCONJ
+"demanda"	VERB
+"certaines"	DET
+"explications"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"S'"	PRON
+"étant"	AUX
+"rendu"	VERB
+"compte"	NOUN
+"de"	ADP
+"la"	DET
+"disposition"	NOUN
+"des"	ADP
+"lieux"	NOUN
+","	PUNCT
+"il"	PRON
+"ferma"	X
+"
+"	SPACE
+"soigneusement"	ADV
+"et"	CCONJ
+"barricada"	VERB
+"toutes"	ADJ
+"les"	DET
+"issues"	NOUN
+"par"	ADP
+"où"	PRON
+"l'"	PRON
+"on"	PRON
+"pouvait"	VERB
+"
+"	SPACE
+"pénétrer"	VERB
+"dans"	ADP
+"les"	DET
+"salles"	NOUN
+"menacées"	ADJ
+"."	PUNCT
+"Il"	PRON
+"inspecta"	VERB
+"les"	DET
+"murs"	NOUN
+","	PUNCT
+"souleva"	NOUN
+"les"	DET
+"
+"	SPACE
+"tapisseries"	NOUN
+","	PUNCT
+"puis"	CCONJ
+"enfin"	ADV
+"il"	PRON
+"installa"	VERB
+"ses"	DET
+"agents"	NOUN
+"dans"	ADP
+"la"	DET
+"galerie"	NOUN
+"
+"	SPACE
+"centrale"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Pas"	PROPN
+"de"	ADP
+"bêtises"	NOUN
+","	PUNCT
+"hein"	NOUN
+"?"	PUNCT
+"On"	PRON
+"n'"	ADV
+"est"	AUX
+"pas"	ADV
+"ici"	ADV
+"pour"	ADP
+"dormir"	NOUN
+"."	PUNCT
+"À"	ADP
+"la"	DET
+"moindre"	ADJ
+"
+"	SPACE
+"alerte"	NOUN
+","	PUNCT
+"ouvrez"	VERB
+"les"	DET
+"fenêtres"	NOUN
+"de"	ADP
+"la"	DET
+"cour"	NOUN
+"et"	CCONJ
+"appelez"	VERB
+"-moi"	PRON
+"."	PUNCT
+"Attention"	NOUN
+"aussi"	ADV
+"
+"	SPACE
+"du"	ADP
+"côté"	NOUN
+"de"	ADP
+"l'"	DET
+"eau"	NOUN
+"."	PUNCT
+"Dix"	NUM
+"mètres"	NOUN
+"de"	ADP
+"falaise"	NOUN
+"droite"	NOUN
+","	PUNCT
+"des"	DET
+"diables"	NOUN
+"de"	ADP
+"leur"	DET
+"
+"	SPACE
+"calibre"	NOUN
+","	PUNCT
+"ça"	PRON
+"ne"	ADV
+"les"	DET
+"effraye"	NOUN
+"pas"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"les"	DET
+"enferma"	PROPN
+","	PUNCT
+"emporta"	VERB
+"les"	DET
+"clefs"	NOUN
+","	PUNCT
+"et"	CCONJ
+"dit"	VERB
+"au"	ADP
+"baron"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"maintenant"	ADV
+","	PUNCT
+"à"	ADP
+"notre"	DET
+"poste"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"avait"	AUX
+"choisi"	VERB
+","	PUNCT
+"pour"	ADP
+"y"	PRON
+"passer"	VERB
+"la"	DET
+"nuit"	NOUN
+","	PUNCT
+"une"	DET
+"petite"	ADJ
+"pièce"	NOUN
+"pratiquée"	ADJ
+"
+"	SPACE
+"dans"	ADP
+"l'"	DET
+"épaisseur"	NOUN
+"des"	ADP
+"murailles"	NOUN
+"d'"	ADP
+"enceinte"	NOUN
+","	PUNCT
+"entre"	ADP
+"les"	DET
+"deux"	NUM
+"portes"	NOUN
+"
+"	SPACE
+"principales"	ADJ
+","	PUNCT
+"et"	CCONJ
+"qui"	PRON
+"était"	AUX
+","	PUNCT
+"jadis"	PROPN
+","	PUNCT
+"le"	DET
+"réduit"	NOUN
+"du"	ADP
+"veilleur"	NOUN
+"."	PUNCT
+"Un"	DET
+"judas"	NOUN
+"
+"	SPACE
+"s'"	PRON
+"ouvrait"	VERB
+"sur"	ADP
+"le"	DET
+"pont"	NOUN
+","	PUNCT
+"un"	DET
+"autre"	ADJ
+"sur"	ADP
+"la"	DET
+"cour"	NOUN
+"."	PUNCT
+"Dans"	ADP
+"un"	DET
+"coin"	NOUN
+"on"	PRON
+"
+"	SPACE
+"apercevait"	VERB
+"comme"	ADP
+"l'"	DET
+"orifice"	NOUN
+"d'"	ADP
+"un"	DET
+"puits"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"m'"	PRON
+"avez"	AUX
+"bien"	ADV
+"dit"	VERB
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+","	PUNCT
+"que"	SCONJ
+"ce"	DET
+"puits"	NOUN
+"était"	AUX
+"
+"	SPACE
+"l'"	DET
+"unique"	ADJ
+"entrée"	NOUN
+"des"	ADP
+"souterrains"	NOUN
+","	PUNCT
+"et"	CCONJ
+"que"	SCONJ
+","	PUNCT
+"de"	ADP
+"mémoire"	NOUN
+"d'"	ADP
+"homme"	NOUN
+","	PUNCT
+"elle"	PRON
+"est"	AUX
+"
+"	SPACE
+"bouchée"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Donc"	X
+","	PUNCT
+"à"	ADP
+"moins"	ADV
+"qu'"	SCONJ
+"il"	PRON
+"n'"	ADV
+"existe"	VERB
+"une"	DET
+"autre"	ADJ
+"issue"	NOUN
+"ignorée"	ADJ
+"de"	ADP
+"tous"	ADJ
+","	PUNCT
+"sauf"	ADP
+"
+"	SPACE
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"ce"	PRON
+"qui"	PRON
+"semble"	VERB
+"un"	DET
+"peu"	ADV
+"problématique"	ADJ
+","	PUNCT
+"nous"	PRON
+"sommes"	AUX
+"
+"	SPACE
+"tranquilles"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"aligna"	VERB
+"trois"	NUM
+"chaises"	NOUN
+","	PUNCT
+"s'"	PRON
+"étendit"	VERB
+"confortablement"	ADV
+","	PUNCT
+"alluma"	VERB
+"sa"	DET
+"pipe"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"soupira"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Vraiment"	ADV
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+","	PUNCT
+"il"	PRON
+"faut"	VERB
+"que"	SCONJ
+"j'"	PRON
+"aie"	VERB
+"rudement"	ADV
+"envie"	VERB
+"
+"	SPACE
+"d'"	ADP
+"ajouter"	VERB
+"un"	DET
+"étage"	NOUN
+"à"	ADP
+"la"	DET
+"maisonnette"	NOUN
+"où"	PRON
+"je"	PRON
+"dois"	VERB
+"finir"	VERB
+"mes"	DET
+"jours"	NOUN
+","	PUNCT
+"pour"	ADP
+"
+"	SPACE
+"accepter"	VERB
+"une"	DET
+"besogne"	NOUN
+"aussi"	ADV
+"élémentaire"	ADJ
+"."	PUNCT
+"Je"	PRON
+"raconterai"	VERB
+"l'"	DET
+"histoire"	NOUN
+"à"	ADP
+"
+"	SPACE
+"l'"	DET
+"ami"	NOUN
+"Lupin"	PROPN
+","	PUNCT
+"il"	PRON
+"se"	PRON
+"tiendra"	VERB
+"les"	DET
+"côtes"	NOUN
+"de"	ADP
+"rire"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"baron"	NOUN
+"ne"	ADV
+"riait"	VERB
+"pas"	ADV
+"."	PUNCT
+"L'"	DET
+"oreille"	NOUN
+"aux"	ADP
+"écoutes"	NOUN
+","	PUNCT
+"il"	PRON
+"interrogeait"	VERB
+"le"	DET
+"
+"	SPACE
+"silence"	NOUN
+"avec"	ADP
+"une"	DET
+"inquiétude"	NOUN
+"croissante"	ADJ
+"."	PUNCT
+"De"	ADP
+"temps"	NOUN
+"en"	ADP
+"temps"	NOUN
+"il"	PRON
+"se"	PRON
+"
+"	SPACE
+"penchait"	VERB
+"sur"	ADP
+"le"	DET
+"puits"	NOUN
+"et"	CCONJ
+"plongeait"	VERB
+"dans"	ADP
+"le"	DET
+"trou"	NOUN
+"béant"	VERB
+"un"	DET
+"oeil"	NOUN
+"anxieux"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Onze"	NUM
+"heures"	NOUN
+","	PUNCT
+"minuit"	NOUN
+","	PUNCT
+"une"	DET
+"heure"	NOUN
+"sonnèrent"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Soudain"	PROPN
+","	PUNCT
+"il"	PRON
+"saisit"	VERB
+"le"	DET
+"bras"	NOUN
+"de"	ADP
+"Ganimard"	PROPN
+"qui"	PRON
+"se"	PRON
+"réveilla"	VERB
+"en"	ADP
+"sursaut"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"entendez"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Qu'"	PRON
+"est"	AUX
+"-ce"	PRON
+"que"	SCONJ
+"c'"	PRON
+"est"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	AUX
+"moi"	PRON
+"qui"	PRON
+"ronfle"	VERB
+"!"	PUNCT
+"
+
+"	SPACE
+"--Mais"	NOUN
+"non"	ADV
+","	PUNCT
+"écoutez"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"parfaitement"	ADV
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"la"	DET
+"corne"	NOUN
+"d'"	ADP
+"une"	DET
+"automobile"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Eh"	NOUN
+"bien"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--Eh"	INTJ
+"bien"	ADV
+","	PUNCT
+"il"	PRON
+"est"	AUX
+"peu"	ADV
+"probable"	ADJ
+"que"	SCONJ
+"Lupin"	PROPN
+"se"	PRON
+"serve"	VERB
+"d'"	ADP
+"une"	DET
+"automobile"	NOUN
+"
+"	SPACE
+"comme"	ADP
+"d'"	ADP
+"un"	DET
+"bélier"	NOUN
+"pour"	ADP
+"démolir"	VERB
+"votre"	DET
+"château"	NOUN
+"."	PUNCT
+"Aussi"	ADV
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"
+"	SPACE
+"baron"	NOUN
+","	PUNCT
+"à"	ADP
+"votre"	DET
+"place"	NOUN
+","	PUNCT
+"je"	PRON
+"dormirais"	VERB
+"..."	PUNCT
+"comme"	SCONJ
+"je"	PRON
+"vais"	VERB
+"avoir"	VERB
+"l'"	DET
+"honneur"	NOUN
+"
+"	SPACE
+"de"	ADP
+"le"	PRON
+"faire"	VERB
+"à"	ADP
+"nouveau"	ADJ
+"."	PUNCT
+"Bonsoir"	PROPN
+"."	PUNCT
+"
+
+
+
+"	SPACE
+"Ce"	PRON
+"fut"	AUX
+"la"	DET
+"seule"	ADJ
+"alerte"	NOUN
+"."	PUNCT
+"Ganimard"	PROPN
+"put"	VERB
+"reprendre"	VERB
+"son"	DET
+"somme"	NOUN
+"interrompu"	PROPN
+","	PUNCT
+"
+"	SPACE
+"et"	CCONJ
+"le"	DET
+"baron"	NOUN
+"n'"	ADV
+"entendit"	VERB
+"plus"	ADV
+"que"	SCONJ
+"son"	DET
+"ronflement"	NOUN
+"sonore"	ADJ
+"et"	CCONJ
+"régulier"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Au"	ADP
+"petit"	ADJ
+"jour"	NOUN
+","	PUNCT
+"ils"	PRON
+"sortirent"	VERB
+"de"	ADP
+"leur"	DET
+"cellule"	NOUN
+"."	PUNCT
+"Une"	DET
+"grande"	ADJ
+"paix"	NOUN
+"sereine"	ADJ
+","	PUNCT
+"
+"	SPACE
+"la"	DET
+"paix"	NOUN
+"du"	ADP
+"matin"	NOUN
+"au"	ADP
+"bord"	NOUN
+"de"	ADP
+"l'"	DET
+"eau"	NOUN
+"fraîche"	ADJ
+","	PUNCT
+"enveloppait"	VERB
+"le"	DET
+"château"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Cahorn"	PROPN
+"radieux"	ADJ
+"de"	ADP
+"joie"	NOUN
+","	PUNCT
+"Ganimard"	PROPN
+"toujours"	ADV
+"paisible"	ADJ
+","	PUNCT
+"ils"	PRON
+"montèrent"	VERB
+"
+"	SPACE
+"l'"	DET
+"escalier"	NOUN
+"."	PUNCT
+"Aucun"	DET
+"bruit"	NOUN
+"."	PUNCT
+"Rien"	PRON
+"de"	ADP
+"suspect"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Que"	PRON
+"vous"	PRON
+"avais"	ADJ
+"-je"	PRON
+"dit"	VERB
+","	PUNCT
+"monsieur"	NOUN
+"le"	DET
+"baron"	NOUN
+"?"	PUNCT
+"Au"	ADP
+"fond"	NOUN
+","	PUNCT
+"je"	PRON
+"n'"	ADV
+"aurais"	VERB
+"pas"	ADV
+"
+"	SPACE
+"dû"	VERB
+"accepter"	VERB
+"..."	PUNCT
+"Je"	PRON
+"suis"	AUX
+"honteux"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"prit"	VERB
+"les"	DET
+"clefs"	NOUN
+"et"	CCONJ
+"entra"	VERB
+"dans"	ADP
+"la"	DET
+"galerie"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Sur"	ADP
+"deux"	NUM
+"chaises"	NOUN
+","	PUNCT
+"courbés"	PROPN
+","	PUNCT
+"les"	DET
+"bras"	NOUN
+"ballants"	ADJ
+","	PUNCT
+"les"	DET
+"deux"	NUM
+"agents"	NOUN
+"
+"	SPACE
+"dormaient"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Tonnerre"	PROPN
+"de"	ADP
+"nom"	NOUN
+"d'"	ADP
+"un"	DET
+"chien"	NOUN
+"!"	PUNCT
+"grogna"	ADJ
+"l'"	DET
+"inspecteur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Au"	ADP
+"même"	ADJ
+"instant"	NOUN
+","	PUNCT
+"le"	DET
+"baron"	NOUN
+"poussait"	VERB
+"un"	DET
+"cri"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Les"	X
+"tableaux"	NOUN
+"!"	PUNCT
+"..."	PUNCT
+"la"	DET
+"crédence"	NOUN
+"!"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"balbutiait"	VERB
+","	PUNCT
+"suffoquait"	VERB
+","	PUNCT
+"la"	DET
+"main"	NOUN
+"tendue"	VERB
+"vers"	ADP
+"les"	DET
+"places"	NOUN
+"vides"	ADJ
+","	PUNCT
+"vers"	ADP
+"
+"	SPACE
+"les"	DET
+"murs"	NOUN
+"dénudés"	VERB
+"où"	PRON
+"pointaient"	NOUN
+"les"	DET
+"clous"	NOUN
+","	PUNCT
+"où"	PRON
+"pendaient"	VERB
+"les"	DET
+"cordes"	NOUN
+"
+"	SPACE
+"inutiles"	NOUN
+"."	PUNCT
+"Le"	DET
+"Watteau"	NOUN
+","	PUNCT
+"disparu"	NOUN
+"!"	PUNCT
+"les"	DET
+"Rubens"	NOUN
+","	PUNCT
+"enlevés"	VERB
+"!"	PUNCT
+"les"	DET
+"tapisseries"	NOUN
+","	PUNCT
+"
+"	SPACE
+"décrochées"	NOUN
+"!"	PUNCT
+"les"	DET
+"vitrines"	NOUN
+","	PUNCT
+"vidées"	VERB
+"de"	ADP
+"leurs"	DET
+"bijoux"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"mes"	DET
+"candélabres"	NOUN
+"Louis"	PROPN
+"XVI"	PROPN
+"!"	PUNCT
+"..."	PUNCT
+"et"	CCONJ
+"le"	DET
+"chandelier"	NOUN
+"du"	ADP
+"Régent"	PROPN
+"!"	PUNCT
+"..."	PUNCT
+"
+"	SPACE
+"et"	CCONJ
+"ma"	DET
+"Vierge"	NOUN
+"du"	ADP
+"douzième"	NOUN
+"!"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"courait"	VERB
+"d'"	ADP
+"un"	DET
+"endroit"	NOUN
+"à"	ADP
+"l'"	DET
+"autre"	PRON
+","	PUNCT
+"effaré"	VERB
+","	PUNCT
+"désespéré"	VERB
+"."	PUNCT
+"Il"	PRON
+"rappelait"	VERB
+"ses"	DET
+"
+"	SPACE
+"prix"	NOUN
+"d'"	ADP
+"achat"	NOUN
+","	PUNCT
+"additionnait"	VERB
+"les"	DET
+"pertes"	NOUN
+"subies"	VERB
+","	PUNCT
+"accumulait"	VERB
+"des"	DET
+"chiffres"	NOUN
+","	PUNCT
+"
+"	SPACE
+"tout"	ADV
+"cela"	PRON
+"pêle-mêle"	NOUN
+","	PUNCT
+"en"	ADP
+"mots"	NOUN
+"indistincts"	ADJ
+","	PUNCT
+"en"	ADP
+"phrases"	ADJ
+"inachevées"	NOUN
+"."	PUNCT
+"Il"	PRON
+"
+"	SPACE
+"trépignait"	VERB
+","	PUNCT
+"il"	PRON
+"se"	PRON
+"convulsait"	VERB
+","	PUNCT
+"fou"	NOUN
+"de"	ADP
+"rage"	NOUN
+"et"	CCONJ
+"de"	ADP
+"douleur"	NOUN
+"."	PUNCT
+"On"	PRON
+"aurait"	AUX
+"dit"	VERB
+"
+"	SPACE
+"un"	DET
+"homme"	NOUN
+"ruiné"	ADJ
+"qui"	PRON
+"n'"	ADV
+"a"	VERB
+"plus"	ADV
+"qu'"	SCONJ
+"à"	ADP
+"se"	PRON
+"brûler"	VERB
+"la"	DET
+"cervelle"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Si"	SCONJ
+"quelque"	DET
+"chose"	NOUN
+"eût"	ADJ
+"pu"	VERB
+"le"	PRON
+"consoler"	VERB
+","	PUNCT
+"c'"	PRON
+"eût"	ADV
+"été"	AUX
+"de"	ADP
+"voir"	VERB
+"la"	DET
+"stupeur"	NOUN
+"de"	ADP
+"
+"	SPACE
+"Ganimard"	PROPN
+"."	PUNCT
+"Contrairement"	PROPN
+"au"	ADP
+"baron"	NOUN
+","	PUNCT
+"l'"	DET
+"inspecteur"	NOUN
+"ne"	ADV
+"bougeait"	VERB
+"pas"	ADV
+"lui"	PRON
+"."	PUNCT
+"Il"	PRON
+"
+"	SPACE
+"semblait"	NOUN
+"pétrifié"	VERB
+","	PUNCT
+"et"	CCONJ
+"d'"	ADP
+"un"	DET
+"oeil"	NOUN
+"vague"	NOUN
+"il"	PRON
+"examinait"	VERB
+"les"	DET
+"choses"	NOUN
+"."	PUNCT
+"Les"	DET
+"
+"	SPACE
+"fenêtres"	NOUN
+"?"	PUNCT
+"fermées"	NOUN
+"."	PUNCT
+"Les"	DET
+"serrures"	NOUN
+"des"	ADP
+"portes"	NOUN
+"?"	PUNCT
+"intactes"	NOUN
+"."	PUNCT
+"Pas"	ADV
+"de"	ADP
+"brèche"	NOUN
+"au"	ADP
+"
+"	SPACE
+"plafond"	NOUN
+"."	PUNCT
+"Pas"	ADV
+"de"	ADP
+"trou"	NOUN
+"au"	ADP
+"plancher"	NOUN
+"."	PUNCT
+"L'"	DET
+"ordre"	NOUN
+"était"	AUX
+"parfait"	VERB
+"."	PUNCT
+"Tout"	ADJ
+"cela"	PRON
+"
+"	SPACE
+"avait"	AUX
+"dû"	VERB
+"s'"	PRON
+"effectuer"	VERB
+"méthodiquement"	NOUN
+","	PUNCT
+"d'"	ADP
+"après"	ADP
+"un"	DET
+"plan"	NOUN
+"inexorable"	ADJ
+"et"	CCONJ
+"
+"	SPACE
+"logique"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Arsène"	NOUN
+"Lupin"	PROPN
+"..."	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"murmura"	VERB
+"-t"	PRON
+"-il"	PRON
+","	PUNCT
+"effondré"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"Soudain"	PROPN
+","	PUNCT
+"il"	PRON
+"bondit"	VERB
+"sur"	ADP
+"les"	DET
+"deux"	NUM
+"agents"	NOUN
+","	PUNCT
+"comme"	ADP
+"si"	SCONJ
+"la"	DET
+"colère"	NOUN
+"enfin"	ADV
+"le"	DET
+"
+"	SPACE
+"secouait"	VERB
+","	PUNCT
+"et"	CCONJ
+"il"	PRON
+"les"	PRON
+"bouscula"	NOUN
+"furieusement"	ADV
+"et"	CCONJ
+"les"	DET
+"injuria"	NOUN
+"."	PUNCT
+"Ils"	PRON
+"ne"	ADV
+"se"	PRON
+"
+"	SPACE
+"réveillèrent"	NOUN
+"point"	ADJ
+"!"	PUNCT
+"
+
+"	SPACE
+"--Diable"	ADJ
+","	PUNCT
+"fit"	PROPN
+"-il"	PRON
+","	PUNCT
+"est"	AUX
+"-ce"	PRON
+"que"	ADV
+"par"	ADP
+"hasard"	NOUN
+"?"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"se"	PRON
+"pencha"	VERB
+"sur"	ADP
+"eux"	PRON
+"et"	CCONJ
+","	PUNCT
+"tour"	NOUN
+"à"	ADP
+"tour"	NOUN
+","	PUNCT
+"les"	DET
+"observa"	NOUN
+"avec"	ADP
+"attention"	NOUN
+":"	PUNCT
+"ils"	PRON
+"
+"	SPACE
+"dormaient"	NOUN
+","	PUNCT
+"mais"	CCONJ
+"d'"	ADP
+"un"	DET
+"sommeil"	NOUN
+"qui"	PRON
+"n'"	ADV
+"était"	AUX
+"pas"	ADV
+"naturel"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"dit"	VERB
+"au"	ADP
+"baron"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--On"	X
+"les"	DET
+"a"	AUX
+"endormis"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	NOUN
+"qui"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Eh"	NOUN
+"lui"	PRON
+","	PUNCT
+"parbleu"	VERB
+"!"	PUNCT
+"..."	PUNCT
+"ou"	CCONJ
+"sa"	DET
+"bande"	NOUN
+","	PUNCT
+"mais"	CCONJ
+"dirigée"	VERB
+"par"	ADP
+"lui"	PRON
+"."	PUNCT
+"C'"	PRON
+"est"	AUX
+"un"	DET
+"
+"	SPACE
+"coup"	NOUN
+"de"	ADP
+"sa"	DET
+"façon"	NOUN
+"."	PUNCT
+"La"	DET
+"griffe"	NOUN
+"y"	PRON
+"est"	VERB
+"bien"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--En"	VERB
+"ce"	DET
+"cas"	NOUN
+","	PUNCT
+"je"	PRON
+"suis"	AUX
+"perdu"	VERB
+","	PUNCT
+"rien"	PRON
+"à"	ADP
+"faire"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Rien"	PRON
+"à"	ADP
+"faire"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	PRON
+"c'"	PRON
+"est"	AUX
+"abominable"	ADJ
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"monstrueux"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Déposez"	DET
+"une"	DET
+"plainte"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--À"	NUM
+"quoi"	PRON
+"bon"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Dame"	NOUN
+"!"	PUNCT
+"essayez"	VERB
+"toujours"	ADV
+"..."	PUNCT
+"la"	DET
+"justice"	NOUN
+"a"	VERB
+"des"	DET
+"ressources"	NOUN
+"..."	PUNCT
+"
+
+"	SPACE
+"--La"	X
+"justice"	X
+"!"	PUNCT
+"mais"	CCONJ
+"vous"	PRON
+"voyez"	VERB
+"bien"	ADV
+"par"	ADP
+"vous"	PRON
+"-"	NOUN
+"même"	ADV
+"..."	PUNCT
+"Tenez"	PROPN
+","	PUNCT
+"en"	ADP
+"ce"	DET
+"
+"	SPACE
+"moment"	NOUN
+","	PUNCT
+"où"	PRON
+"vous"	PRON
+"pourriez"	VERB
+"chercher"	VERB
+"un"	DET
+"indice"	NOUN
+","	PUNCT
+"découvrir"	VERB
+"quelque"	DET
+"chose"	NOUN
+","	PUNCT
+"
+"	SPACE
+"vous"	PRON
+"ne"	ADV
+"bougez"	VERB
+"même"	ADV
+"pas"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Découvrir"	PRON
+"quelque"	DET
+"chose"	NOUN
+"avec"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"!"	PUNCT
+"Mais"	CCONJ
+","	PUNCT
+"mon"	DET
+"cher"	ADJ
+"monsieur"	NOUN
+","	PUNCT
+"
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"ne"	ADV
+"laisse"	VERB
+"jamais"	ADV
+"rien"	PRON
+"derrière"	ADP
+"lui"	PRON
+"!"	PUNCT
+"Il"	PRON
+"n'"	ADV
+"y"	PRON
+"a"	VERB
+"pas"	ADV
+"de"	DET
+"
+"	SPACE
+"hasard"	PROPN
+"avec"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"!"	PUNCT
+"J'"	PRON
+"en"	PRON
+"suis"	AUX
+"à"	ADP
+"me"	PRON
+"demander"	VERB
+"si"	SCONJ
+"ce"	PRON
+"n'"	ADV
+"est"	AUX
+"pas"	ADV
+"
+"	SPACE
+"volontairement"	ADV
+"qu'"	SCONJ
+"il"	PRON
+"s'"	PRON
+"est"	AUX
+"fait"	AUX
+"arrêter"	VERB
+"par"	ADP
+"moi"	PRON
+","	PUNCT
+"en"	ADP
+"Amérique"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Alors"	PRON
+","	PUNCT
+"je"	PRON
+"dois"	VERB
+"renoncer"	VERB
+"à"	ADP
+"mes"	DET
+"tableaux"	NOUN
+","	PUNCT
+"à"	ADP
+"tout"	PRON
+"!"	PUNCT
+"Mais"	CCONJ
+"ce"	PRON
+"sont"	AUX
+"les"	DET
+"
+"	SPACE
+"perles"	NOUN
+"de"	ADP
+"ma"	DET
+"collection"	NOUN
+"qu'"	SCONJ
+"il"	PRON
+"m'"	PRON
+"a"	AUX
+"dérobées"	VERB
+"."	PUNCT
+"Je"	PRON
+"donnerais"	VERB
+"une"	DET
+"fortune"	NOUN
+"
+"	SPACE
+"pour"	ADP
+"les"	DET
+"retrouver"	VERB
+"."	PUNCT
+"Si"	SCONJ
+"on"	PRON
+"ne"	ADV
+"peut"	VERB
+"rien"	PRON
+"contre"	ADP
+"lui"	PRON
+","	PUNCT
+"qu'"	SCONJ
+"il"	PRON
+"dise"	ADJ
+"son"	DET
+"
+"	SPACE
+"prix"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"le"	PRON
+"regarda"	NOUN
+"fixement"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Ça"	X
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"une"	DET
+"parole"	NOUN
+"sensée"	ADJ
+"."	PUNCT
+"Vous"	PRON
+"ne"	ADV
+"la"	PRON
+"retirez"	VERB
+"pas"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--Non"	ADJ
+","	PUNCT
+"non"	ADV
+","	PUNCT
+"non"	ADV
+"."	PUNCT
+"Mais"	CCONJ
+"pourquoi"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--Une"	NOUN
+"idée"	ADJ
+"que"	PRON
+"j'"	PRON
+"ai"	AUX
+"."	PUNCT
+"
+
+"	SPACE
+"--Quelle"	NOUN
+"idée"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Nous"	DET
+"en"	ADP
+"parlerons"	NOUN
+"si"	SCONJ
+"l'"	DET
+"enquête"	NOUN
+"n'"	ADV
+"aboutit"	VERB
+"pas"	ADV
+"..."	PUNCT
+"Seulement"	ADV
+","	PUNCT
+"pas"	ADV
+"
+"	SPACE
+"un"	DET
+"mot"	NOUN
+"de"	ADP
+"moi"	PRON
+","	PUNCT
+"si"	SCONJ
+"vous"	PRON
+"voulez"	VERB
+"que"	SCONJ
+"je"	PRON
+"réussisse"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"ajouta"	ADJ
+"entre"	ADP
+"ses"	DET
+"dents"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"puis"	CCONJ
+","	PUNCT
+"vrai"	ADJ
+","	PUNCT
+"je"	PRON
+"n'"	ADV
+"ai"	VERB
+"pas"	ADV
+"de"	DET
+"quoi"	PRON
+"me"	PRON
+"vanter"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Les"	DET
+"deux"	NUM
+"agents"	NOUN
+"reprenaient"	ADJ
+"peu"	ADV
+"à"	ADP
+"peu"	ADV
+"connaissance"	NOUN
+"avec"	ADP
+"cet"	DET
+"air"	NOUN
+"hébété"	PROPN
+"
+"	SPACE
+"de"	ADP
+"ceux"	PRON
+"qui"	PRON
+"sortent"	VERB
+"du"	ADP
+"sommeil"	NOUN
+"hypnotique"	ADJ
+"."	PUNCT
+"Ils"	PRON
+"ouvraient"	VERB
+"des"	DET
+"yeux"	NOUN
+"
+"	SPACE
+"étonnés"	VERB
+","	PUNCT
+"ils"	PRON
+"cherchaient"	VERB
+"à"	ADP
+"comprendre"	VERB
+"."	PUNCT
+"Quand"	SCONJ
+"Ganimard"	PROPN
+"les"	DET
+"interrogea"	NOUN
+","	PUNCT
+"
+"	SPACE
+"ils"	PRON
+"ne"	ADV
+"se"	PRON
+"souvenaient"	VERB
+"de"	ADP
+"rien"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Cependant"	VERB
+","	PUNCT
+"vous"	PRON
+"avez"	AUX
+"dû"	VERB
+"voir"	VERB
+"quelqu'"	ADV
+"un"	DET
+"?"	PUNCT
+"
+
+"	SPACE
+"--Non"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Rappelez"	PROPN
+"-vous"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Non"	ADJ
+","	PUNCT
+"non"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"vous"	PRON
+"n'"	ADV
+"avez"	VERB
+"pas"	ADV
+"bu"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"Ils"	PRON
+"réfléchirent"	VERB
+","	PUNCT
+"et"	CCONJ
+"l'"	DET
+"un"	PRON
+"d'"	ADP
+"eux"	PRON
+"répondit"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Si"	NOUN
+","	PUNCT
+"moi"	PRON
+","	PUNCT
+"j'"	PRON
+"ai"	AUX
+"bu"	PRON
+"un"	DET
+"peu"	ADV
+"d'"	ADP
+"eau"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--De"	X
+"l'"	DET
+"eau"	NOUN
+"de"	ADP
+"cette"	DET
+"carafe"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Moi"	NOUN
+"aussi"	ADV
+","	PUNCT
+"déclara"	VERB
+"le"	DET
+"second"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"la"	DET
+"sentit"	NOUN
+","	PUNCT
+"la"	DET
+"goûta"	NOUN
+"."	PUNCT
+"Elle"	PRON
+"n'"	ADV
+"avait"	VERB
+"aucun"	DET
+"goût"	NOUN
+"spécial"	ADJ
+","	PUNCT
+"aucune"	PRON
+"
+"	SPACE
+"odeur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Allons"	NOUN
+","	PUNCT
+"fit"	PROPN
+"-il"	PRON
+","	PUNCT
+"nous"	PRON
+"perdons"	VERB
+"notre"	DET
+"temps"	NOUN
+"."	PUNCT
+"Ce"	PRON
+"n'"	ADV
+"est"	AUX
+"pas"	ADV
+"en"	ADP
+"cinq"	NUM
+"
+"	SPACE
+"minutes"	NOUN
+"que"	SCONJ
+"l'"	PRON
+"on"	PRON
+"résoud"	VERB
+"les"	DET
+"problèmes"	NOUN
+"posés"	VERB
+"par"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"Mais"	CCONJ
+","	PUNCT
+"
+"	SPACE
+"morbleu"	ADJ
+"!"	PUNCT
+"je"	PRON
+"jure"	VERB
+"bien"	ADV
+"que"	SCONJ
+"je"	PRON
+"le"	PRON
+"repincerai"	ADJ
+"."	PUNCT
+"Il"	PRON
+"gagne"	VERB
+"la"	DET
+"seconde"	ADJ
+"
+"	SPACE
+"manche"	ADJ
+"."	PUNCT
+"À"	ADP
+"moi"	PRON
+"la"	DET
+"belle"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"jour"	NOUN
+"même"	ADV
+","	PUNCT
+"une"	DET
+"plainte"	NOUN
+"en"	ADP
+"vol"	NOUN
+"qualifié"	VERB
+"était"	AUX
+"déposée"	VERB
+"par"	ADP
+"le"	DET
+"baron"	NOUN
+"
+"	SPACE
+"de"	ADP
+"Cahorn"	PROPN
+"contre"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"détenu"	VERB
+"à"	ADP
+"la"	DET
+"Santé"	PROPN
+"!"	PUNCT
+"
+
+
+
+   "	SPACE
+"*"	ADJ
+"  "	SPACE
+"*"	ADJ
+"  "	SPACE
+"*"	ADJ
+"
+
+
+
+"	SPACE
+"Cette"	DET
+"plainte"	NOUN
+","	PUNCT
+"le"	DET
+"baron"	NOUN
+"la"	DET
+"regretta"	NOUN
+"souvent"	ADV
+"quand"	SCONJ
+"il"	PRON
+"vit"	VERB
+"le"	DET
+"Malaquis"	NOUN
+"
+"	SPACE
+"livré"	ADJ
+"aux"	ADP
+"gendarmes"	NOUN
+","	PUNCT
+"au"	ADP
+"procureur"	NOUN
+","	PUNCT
+"au"	ADP
+"juge"	NOUN
+"d'"	ADP
+"instruction"	NOUN
+","	PUNCT
+"aux"	ADP
+"
+"	SPACE
+"journalistes"	ADJ
+","	PUNCT
+"à"	ADP
+"tous"	ADJ
+"les"	DET
+"curieux"	NOUN
+"qui"	PRON
+"s'"	PRON
+"insinuent"	VERB
+"partout"	ADV
+"où"	SCONJ
+"ils"	PRON
+"ne"	ADV
+"
+"	SPACE
+"devraient"	VERB
+"pas"	ADV
+"être"	AUX
+"."	PUNCT
+"
+
+"	SPACE
+"L'"	DET
+"affaire"	NOUN
+"passionnait"	VERB
+"déjà"	ADV
+"l'"	DET
+"opinion"	NOUN
+"."	PUNCT
+"Elle"	PRON
+"se"	PRON
+"produisait"	VERB
+"dans"	ADP
+"des"	DET
+"
+"	SPACE
+"conditions"	NOUN
+"si"	SCONJ
+"particulières"	ADJ
+","	PUNCT
+"le"	DET
+"nom"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"excitait"	VERB
+"à"	ADP
+"tel"	ADJ
+"
+"	SPACE
+"point"	NOUN
+"les"	DET
+"imaginations"	NOUN
+","	PUNCT
+"que"	SCONJ
+"les"	DET
+"histoires"	NOUN
+"les"	DET
+"plus"	ADV
+"fantaisistes"	ADJ
+"
+"	SPACE
+"remplissaient"	VERB
+"les"	DET
+"colonnes"	NOUN
+"des"	ADP
+"journaux"	NOUN
+"et"	CCONJ
+"trouvaient"	VERB
+"créance"	NOUN
+"auprès"	ADV
+"
+"	SPACE
+"du"	ADP
+"public"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Mais"	CCONJ
+"la"	DET
+"lettre"	NOUN
+"initiale"	ADJ
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"que"	PRON
+"publia"	ADJ
+"l'_Écho"	PROPN
+"de"	ADP
+"France"	PROPN
+"_"	ADJ
+"
+"	SPACE
+"("	PUNCT
+"et"	CCONJ
+"nul"	NOUN
+"ne"	ADV
+"sut"	VERB
+"jamais"	ADV
+"qui"	PRON
+"en"	PRON
+"avait"	AUX
+"communiqué"	VERB
+"le"	DET
+"texte"	NOUN
+")"	PUNCT
+","	PUNCT
+"cette"	DET
+"lettre"	NOUN
+"
+"	SPACE
+"où"	PRON
+"le"	DET
+"baron"	NOUN
+"Cahorn"	PROPN
+"était"	AUX
+"effrontément"	ADV
+"prévenu"	VERB
+"de"	ADP
+"ce"	PRON
+"qui"	PRON
+"le"	PRON
+"menaçait"	NOUN
+","	PUNCT
+"
+"	SPACE
+"causa"	NOUN
+"une"	DET
+"émotion"	NOUN
+"considérable"	ADJ
+"."	PUNCT
+"Aussitôt"	ADV
+"des"	DET
+"explications"	NOUN
+"fabuleuses"	ADJ
+"
+"	SPACE
+"furent"	AUX
+"proposées"	VERB
+"."	PUNCT
+"On"	PRON
+"rappela"	VERB
+"l'"	DET
+"existence"	NOUN
+"des"	ADP
+"fameux"	NOUN
+"souterrains"	ADJ
+"."	PUNCT
+"Et"	CCONJ
+"le"	DET
+"
+"	SPACE
+"parquet"	NOUN
+"influencé"	ADJ
+"poussa"	VERB
+"ses"	DET
+"recherches"	NOUN
+"dans"	ADP
+"ce"	DET
+"sens"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"On"	PRON
+"fouilla"	VERB
+"le"	DET
+"château"	NOUN
+"du"	ADP
+"haut"	ADJ
+"en"	ADP
+"bas"	NOUN
+"."	PUNCT
+"On"	PRON
+"questionna"	VERB
+"chacune"	PRON
+"des"	ADP
+"
+"	SPACE
+"pierres"	NOUN
+"."	PUNCT
+"On"	PRON
+"étudia"	VERB
+"les"	DET
+"boiseries"	NOUN
+"et"	CCONJ
+"les"	DET
+"cheminées"	NOUN
+","	PUNCT
+"les"	DET
+"cadres"	NOUN
+"des"	ADP
+"
+"	SPACE
+"glaces"	NOUN
+"et"	CCONJ
+"les"	DET
+"poutres"	NOUN
+"des"	ADP
+"plafonds"	NOUN
+"."	PUNCT
+"À"	ADP
+"la"	DET
+"lueur"	NOUN
+"des"	ADP
+"torches"	NOUN
+","	PUNCT
+"on"	PRON
+"examina"	VERB
+"
+"	SPACE
+"les"	DET
+"caves"	NOUN
+"immenses"	ADJ
+"où"	PRON
+"les"	DET
+"seigneurs"	NOUN
+"du"	ADP
+"Malaquis"	NOUN
+"entassaient"	ADV
+"jadis"	NOUN
+"
+"	SPACE
+"leurs"	DET
+"munitions"	NOUN
+"et"	CCONJ
+"leurs"	DET
+"provisions"	NOUN
+"."	PUNCT
+"On"	PRON
+"sonda"	VERB
+"les"	DET
+"entrailles"	NOUN
+"du"	ADP
+"
+"	SPACE
+"rocher"	PROPN
+"."	PUNCT
+"Ce"	PRON
+"fut"	AUX
+"vainement"	ADV
+"."	PUNCT
+"On"	PRON
+"ne"	ADV
+"découvrit"	VERB
+"pas"	ADV
+"le"	DET
+"moindre"	NOUN
+"vestige"	NOUN
+"de"	ADP
+"
+"	SPACE
+"souterrain"	NOUN
+"."	PUNCT
+"Il"	PRON
+"n'"	ADV
+"existait"	VERB
+"point"	VERB
+"de"	ADP
+"passage"	NOUN
+"secret"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Soit"	CCONJ
+","	PUNCT
+"répondait"	VERB
+"-on"	PRON
+"de"	ADP
+"tous"	ADJ
+"côtés"	NOUN
+","	PUNCT
+"mais"	CCONJ
+"des"	ADP
+"meubles"	NOUN
+"et"	CCONJ
+"des"	ADP
+"tableaux"	NOUN
+"ne"	ADV
+"
+"	SPACE
+"s'"	PRON
+"évanouissent"	ADV
+"pas"	ADV
+"comme"	ADP
+"des"	DET
+"fantômes"	NOUN
+"."	PUNCT
+"Cela"	PRON
+"s'"	PRON
+"en"	PRON
+"va"	VERB
+"par"	ADP
+"des"	DET
+"portes"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"par"	ADP
+"des"	DET
+"fenêtres"	NOUN
+","	PUNCT
+"et"	CCONJ
+"les"	DET
+"gens"	NOUN
+"qui"	PRON
+"s'"	PRON
+"en"	PRON
+"emparent"	ADV
+","	PUNCT
+"s'"	PRON
+"introduisent"	VERB
+"et"	CCONJ
+"
+"	SPACE
+"s'"	PRON
+"en"	PRON
+"vont"	VERB
+"également"	ADV
+"par"	ADP
+"des"	DET
+"portes"	NOUN
+"et"	CCONJ
+"des"	ADP
+"fenêtres"	NOUN
+"."	PUNCT
+"Quels"	ADJ
+"sont"	AUX
+"ces"	DET
+"
+"	SPACE
+"gens"	NOUN
+"?"	PUNCT
+"Comment"	ADV
+"se"	PRON
+"sont"	AUX
+"-ils"	PRON
+"introduits"	NOUN
+"?"	PUNCT
+"Et"	CCONJ
+"comment"	ADV
+"s'"	PRON
+"en"	PRON
+"sont"	AUX
+"-ils"	PRON
+"allés"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"Le"	DET
+"parquet"	NOUN
+"de"	ADP
+"Rouen"	PROPN
+","	PUNCT
+"convaincu"	VERB
+"de"	ADP
+"son"	DET
+"impuissance"	NOUN
+","	PUNCT
+"sollicita"	SCONJ
+"le"	DET
+"
+"	SPACE
+"secours"	NOUN
+"d'"	ADP
+"agents"	NOUN
+"parisiens"	ADJ
+"."	PUNCT
+"M."	NOUN
+"Dudouis"	PROPN
+","	PUNCT
+"le"	DET
+"chef"	NOUN
+"de"	ADP
+"la"	DET
+"Sûreté"	PROPN
+","	PUNCT
+"envoya"	ADV
+"
+"	SPACE
+"ses"	DET
+"meilleurs"	NOUN
+"limiers"	ADJ
+"de"	ADP
+"la"	DET
+"brigade"	NOUN
+"de"	ADP
+"fer"	NOUN
+"."	PUNCT
+"Lui"	PRON
+"-"	NOUN
+"même"	ADV
+"fit"	VERB
+"un"	DET
+"séjour"	NOUN
+"de"	ADP
+"
+"	SPACE
+"quarante"	NUM
+"-"	NUM
+"huit"	NUM
+"heures"	NOUN
+"au"	ADP
+"Malaquis"	PROPN
+"."	PUNCT
+"Il"	PRON
+"ne"	ADV
+"réussit"	VERB
+"pas"	ADV
+"davantage"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"C'"	PRON
+"est"	AUX
+"alors"	ADV
+"qu'"	SCONJ
+"il"	PRON
+"manda"	VERB
+"l'"	DET
+"inspecteur"	NOUN
+"principal"	ADJ
+"Ganimard"	PROPN
+"dont"	PRON
+"il"	PRON
+"avait"	AUX
+"
+"	SPACE
+"eu"	VERB
+"si"	ADV
+"souvent"	ADV
+"l'"	DET
+"occasion"	NOUN
+"d'"	ADP
+"apprécier"	VERB
+"les"	DET
+"services"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"écouta"	ADJ
+"silencieusement"	ADV
+"les"	DET
+"instructions"	NOUN
+"de"	ADP
+"son"	DET
+"supérieur"	NOUN
+","	PUNCT
+"
+"	SPACE
+"puis"	CCONJ
+","	PUNCT
+"hochant"	VERB
+"la"	DET
+"tête"	NOUN
+","	PUNCT
+"il"	PRON
+"prononça"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Je"	X
+"crois"	VERB
+"que"	SCONJ
+"l'"	PRON
+"on"	PRON
+"fait"	AUX
+"fausse"	NOUN
+"route"	ADJ
+"en"	ADP
+"s'"	PRON
+"obstinant"	VERB
+"à"	ADP
+"fouiller"	VERB
+"le"	DET
+"
+"	SPACE
+"château"	NOUN
+"."	PUNCT
+"La"	DET
+"solution"	NOUN
+"est"	AUX
+"ailleurs"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"où"	PRON
+"donc"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--Auprès"	PRON
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Auprès"	PRON
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"!"	PUNCT
+"Supposer"	VERB
+"cela"	PRON
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"admettre"	VERB
+"son"	DET
+"
+"	SPACE
+"intervention"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	NOUN
+"l'"	DET
+"admets"	NOUN
+"."	PUNCT
+"Bien"	ADV
+"plus"	ADV
+","	PUNCT
+"je"	PRON
+"la"	DET
+"considère"	NOUN
+"comme"	ADP
+"certaine"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Voyons"	NOUN
+","	PUNCT
+"Ganimard"	PROPN
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"absurde"	VERB
+"."	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"est"	AUX
+"en"	ADP
+"prison"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Arsène"	NOUN
+"Lupin"	PROPN
+"est"	AUX
+"en"	ADP
+"prison"	NOUN
+","	PUNCT
+"soit"	CCONJ
+"."	PUNCT
+"Il"	PRON
+"est"	AUX
+"surveillé"	VERB
+","	PUNCT
+"je"	PRON
+"vous"	PRON
+"
+"	SPACE
+"l'"	DET
+"accorde"	NOUN
+"."	PUNCT
+"Mais"	CCONJ
+"il"	PRON
+"aurait"	AUX
+"les"	DET
+"fers"	NOUN
+"aux"	ADP
+"pieds"	NOUN
+","	PUNCT
+"des"	DET
+"cordes"	NOUN
+"aux"	ADP
+"poignets"	NOUN
+"
+"	SPACE
+"et"	CCONJ
+"un"	DET
+"bâillon"	NOUN
+"sur"	ADP
+"la"	DET
+"bouche"	NOUN
+","	PUNCT
+"que"	SCONJ
+"je"	PRON
+"ne"	ADV
+"changerais"	VERB
+"pas"	ADV
+"d'"	DET
+"avis"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"pourquoi"	ADV
+"cette"	DET
+"obstination"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Parce"	NOUN
+"que"	SCONJ
+","	PUNCT
+"seul"	ADJ
+","	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"est"	AUX
+"de"	ADP
+"taille"	NOUN
+"à"	ADP
+"combiner"	VERB
+"une"	DET
+"machine"	NOUN
+"
+"	SPACE
+"de"	ADP
+"cette"	DET
+"envergure"	NOUN
+","	PUNCT
+"et"	CCONJ
+"de"	ADP
+"la"	PRON
+"combiner"	VERB
+"de"	ADP
+"telle"	ADJ
+"façon"	NOUN
+"qu'"	SCONJ
+"elle"	PRON
+"réussisse"	NOUN
+"..."	PUNCT
+"
+"	SPACE
+"comme"	ADP
+"elle"	PRON
+"a"	AUX
+"réussi"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Des"	X
+"mots"	NOUN
+","	PUNCT
+"Ganimard"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Qui"	PRON
+"sont"	AUX
+"des"	DET
+"réalités"	NOUN
+"."	PUNCT
+"Mais"	CCONJ
+"voilà"	VERB
+","	PUNCT
+"qu'"	SCONJ
+"on"	PRON
+"ne"	ADV
+"cherche"	VERB
+"pas"	ADV
+"de"	DET
+"
+"	SPACE
+"souterrain"	NOUN
+","	PUNCT
+"de"	ADP
+"pierres"	NOUN
+"tournant"	VERB
+"sur"	ADP
+"un"	DET
+"pivot"	NOUN
+","	PUNCT
+"et"	CCONJ
+"autres"	ADJ
+"balivernes"	NOUN
+"de"	ADP
+"
+"	SPACE
+"ce"	DET
+"calibre"	NOUN
+"."	PUNCT
+"Notre"	DET
+"individu"	NOUN
+"n'"	ADV
+"emploie"	VERB
+"pas"	ADV
+"des"	DET
+"procédés"	NOUN
+"aussi"	ADV
+"vieux"	ADJ
+"jeu"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Il"	PRON
+"est"	AUX
+"d'"	ADP
+"aujourd'hui"	ADV
+","	PUNCT
+"ou"	CCONJ
+"plutôt"	ADV
+"de"	ADP
+"demain"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"vous"	PRON
+"concluez"	VERB
+"?"	PUNCT
+"
+
+"	SPACE
+"--Je"	ADJ
+"conclus"	DET
+"en"	ADP
+"vous"	PRON
+"demandant"	VERB
+"nettement"	ADV
+"l'"	DET
+"autorisation"	NOUN
+"de"	ADP
+"passer"	VERB
+"une"	DET
+"
+"	SPACE
+"heure"	NOUN
+"avec"	ADP
+"lui"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Dans"	NOUN
+"sa"	DET
+"cellule"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+"."	PUNCT
+"Au"	ADP
+"retour"	NOUN
+"d'"	ADP
+"Amérique"	PROPN
+"nous"	PRON
+"avons"	AUX
+"entretenu"	VERB
+","	PUNCT
+"pendant"	ADP
+"la"	DET
+"
+"	SPACE
+"traversée"	VERB
+","	PUNCT
+"d'"	ADP
+"excellents"	NOUN
+"rapports"	ADJ
+","	PUNCT
+"et"	CCONJ
+"j'"	PRON
+"ose"	VERB
+"dire"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"a"	VERB
+"quelque"	ADV
+"
+"	SPACE
+"sympathie"	NOUN
+"pour"	ADP
+"celui"	PRON
+"qui"	PRON
+"a"	AUX
+"su"	VERB
+"l'"	DET
+"arrêter"	VERB
+"."	PUNCT
+"S'"	SCONJ
+"il"	PRON
+"peut"	VERB
+"me"	PRON
+"renseigner"	VERB
+"sans"	ADP
+"
+"	SPACE
+"se"	PRON
+"compromettre"	VERB
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"hésitera"	VERB
+"pas"	ADV
+"à"	ADP
+"m'"	PRON
+"éviter"	VERB
+"un"	DET
+"voyage"	NOUN
+"inutile"	ADJ
+"."	PUNCT
+"
+
+
+
+"	SPACE
+"Il"	PRON
+"était"	AUX
+"un"	DET
+"peu"	ADV
+"plus"	ADV
+"de"	ADP
+"midi"	NOUN
+"lorsque"	SCONJ
+"Ganimard"	PROPN
+"fut"	AUX
+"introduit"	VERB
+"dans"	ADP
+"la"	DET
+"
+"	SPACE
+"cellule"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"Celui"	PROPN
+"-"	PRON
+"ci"	NOUN
+","	PUNCT
+"étendu"	VERB
+"sur"	ADP
+"son"	DET
+"lit"	NOUN
+","	PUNCT
+"leva"	VERB
+"la"	DET
+"tête"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"poussa"	VERB
+"un"	DET
+"cri"	NOUN
+"de"	ADP
+"joie"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"ça"	PRON
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"une"	DET
+"vraie"	NOUN
+"surprise"	ADJ
+"."	PUNCT
+"Ce"	DET
+"cher"	ADJ
+"Ganimard"	PROPN
+","	PUNCT
+"ici"	ADV
+"!"	PUNCT
+"
+
+"	SPACE
+"--Lui"	NOUN
+"-"	NOUN
+"même"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	PRON
+"désirais"	ADJ
+"bien"	ADV
+"des"	DET
+"choses"	NOUN
+"dans"	ADP
+"la"	DET
+"retraite"	NOUN
+"que"	PRON
+"j'"	PRON
+"ai"	AUX
+"choisie"	VERB
+"..."	PUNCT
+"
+"	SPACE
+"mais"	CCONJ
+"aucune"	DET
+"plus"	ADV
+"passionnément"	VERB
+"que"	SCONJ
+"de"	ADP
+"vous"	PRON
+"y"	PRON
+"recevoir"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Trop"	NUM
+"aimable"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	NOUN
+"non"	ADV
+","	PUNCT
+"mais"	CCONJ
+"non"	ADV
+","	PUNCT
+"je"	PRON
+"professe"	VERB
+"pour"	ADP
+"vous"	PRON
+"la"	DET
+"plus"	ADV
+"vive"	ADJ
+"estime"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--J'"	NOUN
+"en"	PRON
+"suis"	AUX
+"fier"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	NOUN
+"l'"	PRON
+"ai"	AUX
+"toujours"	ADV
+"prétendu"	ADJ
+":"	PUNCT
+"Ganimard"	PROPN
+"est"	AUX
+"notre"	DET
+"meilleur"	ADJ
+"détective"	ADJ
+"."	PUNCT
+"
+"	SPACE
+"Il"	PRON
+"vaut"	VERB
+"presque,--vous"	ADV
+"voyez"	VERB
+"comme"	SCONJ
+"je"	PRON
+"suis"	AUX
+"franc!--il"	ADV
+"vaut"	VERB
+"presque"	ADV
+"
+"	SPACE
+"Sherlock"	PROPN
+"Holmès"	PROPN
+"."	PUNCT
+"Mais"	CCONJ
+","	PUNCT
+"en"	ADP
+"vérité"	NOUN
+","	PUNCT
+"je"	PRON
+"suis"	AUX
+"désolé"	VERB
+"de"	ADP
+"n'"	ADV
+"avoir"	VERB
+"à"	ADP
+"vous"	PRON
+"
+"	SPACE
+"offrir"	VERB
+"que"	SCONJ
+"cet"	DET
+"escabeau"	NOUN
+"."	PUNCT
+"Et"	CCONJ
+"pas"	ADV
+"un"	DET
+"rafraîchissement"	NOUN
+"!"	PUNCT
+"pas"	ADV
+"un"	DET
+"verre"	NOUN
+"de"	ADP
+"
+"	SPACE
+"bière"	NOUN
+"!"	PUNCT
+"Excusez"	PROPN
+"-moi"	PRON
+","	PUNCT
+"je"	PRON
+"suis"	AUX
+"là"	ADV
+"de"	ADP
+"passage"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"s'"	PRON
+"assit"	VERB
+"en"	ADP
+"souriant"	VERB
+","	PUNCT
+"et"	CCONJ
+"le"	DET
+"prisonnier"	NOUN
+"reprit"	ADJ
+","	PUNCT
+"heureux"	ADJ
+"de"	ADP
+"
+"	SPACE
+"parler"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Mon"	PROPN
+"Dieu"	PROPN
+","	PUNCT
+"que"	SCONJ
+"je"	PRON
+"suis"	AUX
+"content"	ADV
+"de"	ADP
+"reposer"	VERB
+"mes"	DET
+"yeux"	NOUN
+"sur"	ADP
+"la"	DET
+"figure"	NOUN
+"
+"	SPACE
+"d'"	ADP
+"un"	DET
+"honnête"	NOUN
+"homme"	ADJ
+"!"	PUNCT
+"J'"	PRON
+"en"	PRON
+"ai"	AUX
+"assez"	ADV
+"de"	ADP
+"toutes"	ADJ
+"ces"	DET
+"faces"	NOUN
+"d'"	ADP
+"espions"	NOUN
+"et"	CCONJ
+"de"	ADP
+"
+"	SPACE
+"mouchards"	NOUN
+"qui"	PRON
+"passent"	VERB
+"dix"	NUM
+"fois"	NOUN
+"par"	ADP
+"jour"	NOUN
+"la"	DET
+"revue"	NOUN
+"de"	ADP
+"mes"	DET
+"poches"	NOUN
+"et"	CCONJ
+"de"	ADP
+"
+"	SPACE
+"ma"	DET
+"modeste"	ADJ
+"cellule"	NOUN
+","	PUNCT
+"pour"	ADP
+"s'"	PRON
+"assurer"	VERB
+"que"	SCONJ
+"je"	PRON
+"ne"	ADV
+"prépare"	VERB
+"pas"	ADV
+"une"	DET
+"évasion"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Fichtre"	NOUN
+","	PUNCT
+"ce"	PRON
+"que"	PRON
+"le"	DET
+"gouvernement"	NOUN
+"tient"	VERB
+"à"	ADP
+"moi"	PRON
+"!"	PUNCT
+"..."	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"a"	AUX
+"raison"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Mais"	NOUN
+"non"	ADV
+"!"	PUNCT
+"je"	PRON
+"serais"	VERB
+"si"	SCONJ
+"heureux"	PRON
+"qu'"	PRON
+"on"	PRON
+"me"	PRON
+"laissât"	VERB
+"vivre"	VERB
+"dans"	ADP
+"mon"	DET
+"
+"	SPACE
+"petit"	ADJ
+"coin"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Avec"	NUM
+"les"	DET
+"rentes"	NOUN
+"des"	ADP
+"autres"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--N'"	PRON
+"est"	AUX
+"-ce"	PRON
+"pas"	ADV
+"?"	PUNCT
+"Ce"	PRON
+"serait"	AUX
+"si"	SCONJ
+"simple"	ADJ
+"!"	PUNCT
+"Mais"	CCONJ
+"je"	PRON
+"bavarde"	VERB
+","	PUNCT
+"je"	PRON
+"dis"	ADP
+"des"	DET
+"
+"	SPACE
+"bêtises"	ADJ
+","	PUNCT
+"et"	CCONJ
+"vous"	PRON
+"êtes"	AUX
+"peut-être"	ADV
+"pressé"	ADJ
+"."	PUNCT
+"Allons"	NOUN
+"au"	ADP
+"fait"	NOUN
+","	PUNCT
+"Ganimard"	PROPN
+"!"	PUNCT
+"
+"	SPACE
+"Qu'"	PRON
+"est"	AUX
+"-ce"	PRON
+"qui"	PRON
+"me"	PRON
+"vaut"	VERB
+"l'"	DET
+"honneur"	NOUN
+"d'"	ADP
+"une"	DET
+"visite"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--L'"	ADJ
+"affaire"	NOUN
+"Cahorn"	PROPN
+","	PUNCT
+"déclara"	VERB
+"Ganimard"	PROPN
+","	PUNCT
+"sans"	ADP
+"détour"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Halte"	PROPN
+"-là"	NOUN
+"!"	PUNCT
+"une"	DET
+"seconde"	ADJ
+"..."	PUNCT
+"C'"	PRON
+"est"	VERB
+"que"	SCONJ
+"j'"	PRON
+"en"	PRON
+"ai"	AUX
+"tant"	ADV
+"d'"	ADP
+"affaires"	NOUN
+"!"	PUNCT
+"Que"	SCONJ
+"
+"	SPACE
+"je"	PRON
+"trouve"	VERB
+"d'"	ADP
+"abord"	ADV
+"dans"	ADP
+"mon"	DET
+"cerveau"	NOUN
+"le"	DET
+"dossier"	NOUN
+"de"	ADP
+"l'"	DET
+"affaire"	NOUN
+"Cahorn"	PROPN
+"..."	PUNCT
+"
+"	SPACE
+"Ah"	NOUN
+"!"	PUNCT
+"voilà"	VERB
+","	PUNCT
+"j'"	PRON
+"y"	PRON
+"suis"	ADV
+"."	PUNCT
+"Affaire"	NOUN
+"Cahorn"	PROPN
+","	PUNCT
+"château"	NOUN
+"du"	ADP
+"Malaquis"	PROPN
+","	PUNCT
+"
+"	SPACE
+"Seine"	PROPN
+"-"	PROPN
+"Inférieure"	PROPN
+"..."	PUNCT
+"Deux"	NUM
+"Rubens"	NOUN
+","	PUNCT
+"un"	DET
+"Watteau"	NOUN
+","	PUNCT
+"et"	CCONJ
+"quelques"	DET
+"menus"	NOUN
+"
+"	SPACE
+"objets"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Menus"	VERB
+"!"	PUNCT
+"
+
+"	SPACE
+"--Oh"	ADJ
+"!"	PUNCT
+"ma"	DET
+"foi"	NOUN
+","	PUNCT
+"tout"	ADV
+"cela"	PRON
+"est"	AUX
+"de"	ADP
+"médiocre"	ADJ
+"importance"	NOUN
+"."	PUNCT
+"Il"	PRON
+"y"	PRON
+"a"	AUX
+"mieux"	ADV
+"!"	PUNCT
+"
+"	SPACE
+"Mais"	CCONJ
+"il"	PRON
+"suffit"	VERB
+"que"	SCONJ
+"l'"	DET
+"affaire"	NOUN
+"vous"	PRON
+"intéresse"	VERB
+"..."	PUNCT
+"Parlez"	VERB
+"donc"	ADV
+","	PUNCT
+"
+"	SPACE
+"Ganimard"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Dois"	PRON
+"-je"	PRON
+"vous"	PRON
+"expliquer"	VERB
+"où"	PRON
+"nous"	PRON
+"en"	PRON
+"sommes"	NOUN
+"de"	ADP
+"l'"	DET
+"instruction"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Inutile"	ADJ
+"."	PUNCT
+"J'"	PRON
+"ai"	VERB
+"lu"	PROPN
+"les"	DET
+"journaux"	NOUN
+"de"	ADP
+"ce"	DET
+"matin"	NOUN
+"."	PUNCT
+"Je"	PRON
+"me"	PRON
+"permettrai"	VERB
+"même"	ADV
+"de"	ADP
+"
+"	SPACE
+"vous"	PRON
+"dire"	VERB
+"que"	SCONJ
+"vous"	PRON
+"n'"	ADV
+"avancez"	VERB
+"pas"	ADV
+"vite"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--C'"	PRON
+"est"	AUX
+"précisément"	ADV
+"la"	DET
+"raison"	NOUN
+"pour"	ADP
+"laquelle"	PRON
+"je"	PRON
+"m'"	PRON
+"adresse"	VERB
+"à"	ADP
+"votre"	DET
+"
+"	SPACE
+"obligeance"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Entièrement"	ADV
+"à"	ADP
+"vos"	DET
+"ordres"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Tout"	PRON
+"d'"	ADP
+"abord"	ADV
+"ceci"	PRON
+":"	PUNCT
+"l'"	DET
+"affaire"	NOUN
+"a"	AUX
+"bien"	ADV
+"été"	AUX
+"conduite"	VERB
+"par"	ADP
+"vous"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Depuis"	PRON
+"A"	NOUN
+"jusqu'"	ADP
+"à"	ADP
+"Z."	PRON
+"
+
+"	SPACE
+"--La"	X
+"lettre"	NOUN
+"d'"	ADP
+"avis"	NOUN
+"?"	PUNCT
+"le"	DET
+"télégramme"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Sont"	NUM
+"de"	ADP
+"votre"	DET
+"serviteur"	NOUN
+"."	PUNCT
+"Je"	PRON
+"dois"	VERB
+"même"	ADV
+"en"	ADP
+"avoir"	VERB
+"quelque"	DET
+"part"	NOUN
+"les"	DET
+"
+"	SPACE
+"récépissés"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"ouvrit"	VERB
+"le"	DET
+"tiroir"	NOUN
+"d'"	ADP
+"une"	DET
+"petite"	ADJ
+"table"	NOUN
+"en"	ADP
+"bois"	NOUN
+"blanc"	ADJ
+"qui"	PRON
+"composait"	VERB
+"
+"	SPACE
+"avec"	ADP
+"le"	DET
+"lit"	NOUN
+"et"	CCONJ
+"l'"	DET
+"escabeau"	NOUN
+"tout"	ADJ
+"le"	DET
+"mobilier"	NOUN
+"de"	ADP
+"sa"	DET
+"cellule"	NOUN
+","	PUNCT
+"y"	PRON
+"prit"	VERB
+"deux"	NUM
+"
+"	SPACE
+"chiffons"	NOUN
+"de"	ADP
+"papier"	NOUN
+"et"	CCONJ
+"les"	DET
+"tendit"	NOUN
+"à"	ADP
+"Ganimard"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"ça"	PRON
+"mais"	CCONJ
+","	PUNCT
+"s'"	PRON
+"écria"	NOUN
+"celui-ci"	PRON
+","	PUNCT
+"je"	PRON
+"vous"	PRON
+"croyais"	VERB
+"gardé"	VERB
+"à"	ADP
+"vue"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"fouillé"	VERB
+"pour"	ADP
+"un"	DET
+"oui"	NOUN
+"ou"	CCONJ
+"pour"	ADP
+"un"	DET
+"non"	NOUN
+"."	PUNCT
+"Or"	CCONJ
+"vous"	PRON
+"lisez"	VERB
+"les"	DET
+"journaux"	NOUN
+","	PUNCT
+"vous"	PRON
+"
+"	SPACE
+"collectionnez"	ADJ
+"les"	DET
+"reçus"	NOUN
+"de"	ADP
+"la"	DET
+"poste"	NOUN
+"..."	PUNCT
+"
+
+"	SPACE
+"--Bah"	PROPN
+"!"	PUNCT
+"ces"	DET
+"gens"	NOUN
+"-là"	PRON
+"sont"	AUX
+"si"	SCONJ
+"bêtes"	ADJ
+"!"	PUNCT
+"Ils"	PRON
+"décousent"	VERB
+"la"	DET
+"doublure"	NOUN
+"de"	ADP
+"ma"	DET
+"
+"	SPACE
+"veste"	NOUN
+","	PUNCT
+"ils"	PRON
+"explorent"	VERB
+"les"	DET
+"semelles"	NOUN
+"de"	ADP
+"mes"	DET
+"bottines"	NOUN
+","	PUNCT
+"ils"	PRON
+"auscultent"	VERB
+"les"	DET
+"
+"	SPACE
+"murs"	NOUN
+"de"	ADP
+"cette"	DET
+"pièce"	NOUN
+","	PUNCT
+"mais"	CCONJ
+"pas"	ADV
+"un"	PRON
+"n'"	ADV
+"aurait"	VERB
+"l'"	DET
+"idée"	NOUN
+"qu'"	SCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+"soit"	AUX
+"
+"	SPACE
+"assez"	ADV
+"niais"	ADV
+"pour"	ADP
+"choisir"	VERB
+"une"	DET
+"cachette"	NOUN
+"aussi"	ADV
+"facile"	NOUN
+"."	PUNCT
+"C'"	PRON
+"est"	AUX
+"bien"	ADV
+"
+"	SPACE
+"là"	ADV
+"-"	NOUN
+"dessus"	NOUN
+"que"	SCONJ
+"j'"	PRON
+"ai"	AUX
+"compté"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+","	PUNCT
+"amusé"	ADV
+","	PUNCT
+"s'"	PRON
+"exclama"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Quel"	PUNCT
+"drôle"	NOUN
+"de"	ADP
+"garçon"	NOUN
+"vous"	PRON
+"faites"	ADJ
+"!"	PUNCT
+"Vous"	PRON
+"me"	PRON
+"déconcertez"	VERB
+"."	PUNCT
+"Allons"	NOUN
+","	PUNCT
+"
+"	SPACE
+"racontez"	NOUN
+"-moi"	PRON
+"l'"	DET
+"aventure"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Oh"	ADJ
+"!"	PUNCT
+"oh"	PRON
+"!"	PUNCT
+"comme"	SCONJ
+"vous"	PRON
+"y"	PRON
+"allez"	VERB
+"!"	PUNCT
+"Vous"	PRON
+"initier"	VERB
+"à"	ADP
+"tous"	ADJ
+"mes"	DET
+"secrets"	NOUN
+"..."	PUNCT
+"
+"	SPACE
+"vous"	PRON
+"dévoiler"	VERB
+"mes"	DET
+"petits"	ADJ
+"trucs"	ADJ
+"..."	PUNCT
+"C'"	PRON
+"est"	AUX
+"bien"	ADV
+"grave"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Ai"	X
+"-je"	PRON
+"eu"	VERB
+"tort"	NOUN
+"de"	ADP
+"compter"	VERB
+"sur"	ADP
+"votre"	DET
+"complaisance"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Non"	PROPN
+","	PUNCT
+"Ganimard"	PROPN
+","	PUNCT
+"et"	CCONJ
+"puisque"	SCONJ
+"vous"	PRON
+"insistez"	VERB
+"..."	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	X
+"arpenta"	VERB
+"deux"	NUM
+"ou"	CCONJ
+"trois"	NUM
+"fois"	NOUN
+"sa"	DET
+"chambre"	NOUN
+","	PUNCT
+"puis"	CCONJ
+"s'"	PRON
+"arrêtant"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Que"	PRON
+"pensez"	VERB
+"-vous"	PRON
+"de"	ADP
+"ma"	DET
+"lettre"	NOUN
+"au"	ADP
+"baron"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Je"	X
+"pense"	VERB
+"que"	SCONJ
+"vous"	PRON
+"avez"	AUX
+"voulu"	VERB
+"vous"	PRON
+"divertir"	VERB
+","	PUNCT
+"épater"	VERB
+"un"	DET
+"peu"	ADV
+"la"	DET
+"
+"	SPACE
+"galerie"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"voilà"	VERB
+","	PUNCT
+"épater"	VERB
+"la"	DET
+"galerie"	NOUN
+"!"	PUNCT
+"Eh"	INTJ
+"bien"	ADV
+","	PUNCT
+"je"	PRON
+"vous"	PRON
+"assure"	VERB
+","	PUNCT
+"Ganimard"	PROPN
+","	PUNCT
+"
+"	SPACE
+"que"	SCONJ
+"je"	PRON
+"vous"	PRON
+"croyais"	VERB
+"plus"	ADV
+"fort"	ADV
+"."	PUNCT
+"Est"	NOUN
+"-ce"	PRON
+"que"	SCONJ
+"je"	PRON
+"m'"	PRON
+"attarde"	VERB
+"à"	ADP
+"ces"	DET
+"
+"	SPACE
+"puérilités"	NOUN
+","	PUNCT
+"moi"	PRON
+","	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"!"	PUNCT
+"Est"	VERB
+"-ce"	PRON
+"que"	SCONJ
+"j'"	PRON
+"aurais"	AUX
+"écrit"	VERB
+"cette"	DET
+"lettre"	NOUN
+"
+"	SPACE
+"si"	SCONJ
+"j'"	PRON
+"avais"	ADJ
+"pu"	VERB
+"dévaliser"	VERB
+"le"	DET
+"baron"	NOUN
+"sans"	ADP
+"lui"	PRON
+"écrire"	ADJ
+"?"	PUNCT
+"Mais"	CCONJ
+"comprenez"	VERB
+"donc"	ADV
+","	PUNCT
+"
+"	SPACE
+"vous"	PRON
+"et"	CCONJ
+"les"	DET
+"autres"	ADJ
+","	PUNCT
+"que"	SCONJ
+"cette"	DET
+"lettre"	NOUN
+"est"	AUX
+"le"	DET
+"point"	NOUN
+"de"	ADP
+"départ"	NOUN
+"
+"	SPACE
+"indispensable"	ADJ
+","	PUNCT
+"le"	DET
+"ressort"	NOUN
+"qui"	PRON
+"a"	AUX
+"mis"	VERB
+"toute"	ADJ
+"la"	DET
+"machine"	NOUN
+"en"	ADP
+"branle"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Voyons"	NOUN
+","	PUNCT
+"procédons"	NOUN
+"par"	ADP
+"ordre"	NOUN
+","	PUNCT
+"et"	CCONJ
+"préparons"	NOUN
+"ensemble"	ADJ
+","	PUNCT
+"si"	SCONJ
+"vous"	PRON
+"voulez"	VERB
+","	PUNCT
+"le"	DET
+"
+"	SPACE
+"cambriolage"	NOUN
+"du"	ADP
+"Malaquis"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	X
+"vous"	PRON
+"écoute"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Donc"	X
+","	PUNCT
+"supposons"	NOUN
+"un"	DET
+"château"	NOUN
+"rigoureusement"	ADJ
+"fermé"	ADJ
+","	PUNCT
+"barricadé"	ADJ
+","	PUNCT
+"comme"	ADP
+"
+"	SPACE
+"l'"	PRON
+"était"	AUX
+"celui"	PRON
+"du"	ADP
+"baron"	NOUN
+"Cahorn"	PROPN
+"."	PUNCT
+"Vais"	NOUN
+"-je"	PROPN
+"abandonner"	VERB
+"la"	DET
+"partie"	NOUN
+"et"	CCONJ
+"
+"	SPACE
+"renoncer"	VERB
+"à"	ADP
+"des"	DET
+"trésors"	NOUN
+"que"	SCONJ
+"je"	PRON
+"convoite"	VERB
+","	PUNCT
+"sous"	ADP
+"prétexte"	NOUN
+"que"	SCONJ
+"le"	DET
+"château"	NOUN
+"
+"	SPACE
+"qui"	PRON
+"les"	PRON
+"contient"	VERB
+"est"	AUX
+"inaccessible"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Évidemment"	ADV
+"non"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Vais"	X
+"-je"	PRON
+"tenter"	VERB
+"l'"	DET
+"assaut"	NOUN
+"comme"	ADP
+"autrefois"	NOUN
+","	PUNCT
+"à"	ADP
+"la"	DET
+"tête"	NOUN
+"d'"	ADP
+"une"	DET
+"troupe"	NOUN
+"
+"	SPACE
+"d'"	ADP
+"aventuriers"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--Enfantin"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Vais"	X
+"-je"	PRON
+"m'"	PRON
+"y"	PRON
+"introduire"	ADJ
+"sournoisement"	ADV
+"?"	PUNCT
+"
+
+"	SPACE
+"--Impossible"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Reste"	PUNCT
+"un"	DET
+"moyen"	NOUN
+","	PUNCT
+"l'"	DET
+"unique"	ADJ
+"à"	ADP
+"mon"	DET
+"avis"	NOUN
+","	PUNCT
+"c'"	PRON
+"est"	AUX
+"de"	ADP
+"me"	PRON
+"faire"	AUX
+"inviter"	VERB
+"par"	ADP
+"
+"	SPACE
+"le"	DET
+"propriétaire"	NOUN
+"du"	ADP
+"dit"	NOUN
+"château"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Le"	NUM
+"moyen"	NOUN
+"est"	AUX
+"original"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"combien"	ADV
+"facile"	ADJ
+"!"	PUNCT
+"Supposons"	NOUN
+"qu'"	SCONJ
+"un"	DET
+"jour"	NOUN
+","	PUNCT
+"ledit"	VERB
+"propriétaire"	ADJ
+"reçoive"	ADJ
+"
+"	SPACE
+"une"	DET
+"lettre"	NOUN
+","	PUNCT
+"l'"	DET
+"avertissant"	VERB
+"de"	ADP
+"ce"	PRON
+"que"	PRON
+"trame"	NOUN
+"contre"	ADP
+"lui"	PRON
+"un"	DET
+"nommé"	NOUN
+"Arsène"	PROPN
+"
+"	SPACE
+"Lupin"	PROPN
+","	PUNCT
+"cambrioleur"	NOUN
+"réputé"	ADJ
+"."	PUNCT
+"Que"	PRON
+"fera"	VERB
+"-t"	PRON
+"-il"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"enverra"	VERB
+"la"	DET
+"lettre"	NOUN
+"au"	ADP
+"procureur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Qui"	PRON
+"se"	PRON
+"moquera"	VERB
+"de"	ADP
+"lui"	PRON
+","	PUNCT
+"_"	ADJ
+"puisque"	SCONJ
+"le"	DET
+"dit"	NOUN
+"Lupin"	PROPN
+"est"	AUX
+"actuellement"	ADV
+"sous"	ADP
+"
+"	SPACE
+"les"	DET
+"verrous_."	NOUN
+"Donc"	ADV
+","	PUNCT
+"affolement"	NOUN
+"du"	ADP
+"bonhomme"	NOUN
+","	PUNCT
+"lequel"	PRON
+"est"	AUX
+"tout"	ADV
+"prêt"	ADJ
+"à"	ADP
+"
+"	SPACE
+"demander"	VERB
+"secours"	ADJ
+"au"	ADP
+"premier"	ADJ
+"venu"	NOUN
+","	PUNCT
+"n'"	ADV
+"est"	AUX
+"-il"	PRON
+"pas"	ADV
+"vrai"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Cela"	PRON
+"est"	VERB
+"hors"	ADP
+"de"	ADP
+"doute"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"s'"	SCONJ
+"il"	PRON
+"lui"	PRON
+"arrive"	VERB
+"de"	ADP
+"lire"	VERB
+"dans"	ADP
+"une"	DET
+"feuille"	NOUN
+"de"	ADP
+"chou"	VERB
+"qu'"	SCONJ
+"un"	DET
+"policier"	NOUN
+"
+"	SPACE
+"célèbre"	ADJ
+"est"	AUX
+"en"	ADP
+"villégiature"	ADJ
+"dans"	ADP
+"la"	DET
+"localité"	NOUN
+"voisine"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"ira"	VERB
+"s'"	PRON
+"adresser"	VERB
+"à"	ADP
+"ce"	DET
+"policier"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"l'"	PRON
+"avez"	AUX
+"dit"	VERB
+"."	PUNCT
+"Mais"	CCONJ
+","	PUNCT
+"d'"	ADP
+"autre"	ADJ
+"part"	NOUN
+","	PUNCT
+"admettons"	NOUN
+"qu'"	SCONJ
+"en"	ADP
+"prévision"	NOUN
+"de"	ADP
+"
+"	SPACE
+"cette"	DET
+"démarche"	NOUN
+"inévitable"	ADJ
+","	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"ait"	AUX
+"prié"	VERB
+"l'"	DET
+"un"	PRON
+"de"	ADP
+"ses"	DET
+"amis"	NOUN
+"les"	DET
+"
+"	SPACE
+"plus"	ADV
+"habiles"	ADJ
+"de"	ADP
+"s'"	PRON
+"installer"	VERB
+"à"	ADP
+"Caudebec"	PROPN
+","	PUNCT
+"d'"	ADP
+"entrer"	VERB
+"en"	ADP
+"relations"	NOUN
+"avec"	ADP
+"un"	DET
+"
+"	SPACE
+"rédacteur"	NOUN
+"du"	ADP
+"_"	NOUN
+"Réveil"	PROPN
+"_"	ADJ
+","	PUNCT
+"_"	NOUN
+"journal"	ADJ
+"auquel"	ADJ
+"est"	AUX
+"abonné"	VERB
+"le"	DET
+"baron"	NOUN
+"_"	ADJ
+","	PUNCT
+"de"	ADP
+"
+"	SPACE
+"laisser"	VERB
+"entendre"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"est"	AUX
+"un"	DET
+"tel"	ADJ
+","	PUNCT
+"le"	DET
+"policier"	NOUN
+"célèbre"	ADJ
+","	PUNCT
+"
+"	SPACE
+"qu'"	PRON
+"adviendra"	NOUN
+"-t"	PRON
+"-il"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Que"	PRON
+"le"	DET
+"rédacteur"	NOUN
+"annoncera"	VERB
+"dans"	ADP
+"le"	DET
+"_"	NOUN
+"Réveil"	PROPN
+"_"	VERB
+"la"	DET
+"présence"	NOUN
+"à"	ADP
+"Caudebec"	PROPN
+"
+"	SPACE
+"du"	ADP
+"dit"	VERB
+"policier"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Parfait"	VERB
+","	PUNCT
+"et"	CCONJ
+"de"	ADP
+"deux"	NUM
+"choses"	NOUN
+"l'"	DET
+"une"	PRON
+":"	PUNCT
+"ou"	CCONJ
+"bien"	ADV
+"le"	DET
+"poisson"	PROPN
+"--"	NOUN
+"je"	PRON
+"veux"	VERB
+"dire"	VERB
+"
+"	SPACE
+"Cahorn"	PROPN
+"--"	PRON
+"ne"	ADV
+"mord"	VERB
+"pas"	ADV
+"à"	ADP
+"l'"	DET
+"hameçon"	NOUN
+","	PUNCT
+"et"	CCONJ
+"alors"	ADV
+"rien"	PRON
+"ne"	ADV
+"se"	PRON
+"passe"	VERB
+"."	PUNCT
+"Ou"	CCONJ
+"bien"	ADV
+","	PUNCT
+"
+"	SPACE
+"et"	CCONJ
+"c'"	PRON
+"est"	AUX
+"l'"	DET
+"hypothèse"	NOUN
+"la"	DET
+"plus"	ADV
+"vraisemblable"	ADJ
+","	PUNCT
+"il"	PRON
+"accourt"	VERB
+","	PUNCT
+"tout"	ADV
+"
+"	SPACE
+"frétillant"	VERB
+"."	PUNCT
+"Et"	CCONJ
+"voilà"	VERB
+"donc"	ADV
+"mon"	DET
+"Cahorn"	NOUN
+"implorant"	VERB
+"contre"	ADP
+"moi"	PRON
+"l'"	DET
+"assistance"	NOUN
+"
+"	SPACE
+"de"	ADP
+"l'"	DET
+"un"	PRON
+"de"	ADP
+"mes"	DET
+"amis"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"--De"	PROPN
+"plus"	ADV
+"en"	ADP
+"plus"	ADV
+"original"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Bien"	ADJ
+"entendu"	VERB
+","	PUNCT
+"le"	DET
+"pseudo-policier"	NOUN
+"refuse"	VERB
+"d'"	ADP
+"abord"	NOUN
+"son"	DET
+"concours"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Là"	ADV
+"-"	NOUN
+"dessus"	NOUN
+","	PUNCT
+"dépêche"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+"."	PUNCT
+"Épouvante"	NOUN
+"du"	ADP
+"baron"	NOUN
+"qui"	PRON
+"supplie"	VERB
+"de"	ADP
+"
+"	SPACE
+"nouveau"	ADJ
+"mon"	DET
+"ami"	NOUN
+","	PUNCT
+"et"	CCONJ
+"lui"	PRON
+"offre"	VERB
+"tant"	ADV
+"pour"	ADP
+"veiller"	VERB
+"à"	ADP
+"son"	DET
+"salut"	ADJ
+"."	PUNCT
+"Ledit"	PROPN
+"ami"	ADV
+"
+"	SPACE
+"accepte"	VERB
+","	PUNCT
+"amène"	NOUN
+"deux"	NUM
+"gaillards"	NOUN
+"de"	ADP
+"notre"	DET
+"bande"	NOUN
+","	PUNCT
+"qui"	PRON
+","	PUNCT
+"la"	DET
+"nuit"	NOUN
+","	PUNCT
+"pendant"	ADP
+"
+"	SPACE
+"que"	SCONJ
+"Cahorn"	PROPN
+"est"	AUX
+"gardé"	VERB
+"à"	ADP
+"vue"	NOUN
+"par"	ADP
+"son"	DET
+"protecteur"	NOUN
+","	PUNCT
+"déménagent"	ADV
+"par"	ADP
+"la"	DET
+"
+"	SPACE
+"fenêtre"	VERB
+"un"	DET
+"certain"	ADJ
+"nombre"	NOUN
+"d'"	ADP
+"objets"	NOUN
+"et"	CCONJ
+"les"	DET
+"laissent"	NOUN
+"glisser"	VERB
+","	PUNCT
+"à"	ADP
+"l'"	DET
+"aide"	NOUN
+"
+"	SPACE
+"de"	ADP
+"cordes"	NOUN
+","	PUNCT
+"dans"	ADP
+"une"	DET
+"bonne"	ADJ
+"petite"	ADJ
+"chaloupe"	NOUN
+"affrétée"	VERB
+"_"	ADJ
+"ad"	CCONJ
+"hoc_."	NOUN
+"C'"	PRON
+"est"	AUX
+"
+"	SPACE
+"simple"	ADJ
+"comme"	ADP
+"Lupin"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"c'"	PRON
+"est"	AUX
+"tout"	ADV
+"bêtement"	NOUN
+"merveilleux"	ADJ
+","	PUNCT
+"s'"	PRON
+"écria"	VERB
+"Ganimard"	PROPN
+","	PUNCT
+"et"	CCONJ
+"je"	PRON
+"ne"	ADV
+"
+"	SPACE
+"saurais"	VERB
+"trop"	ADV
+"louer"	VERB
+"la"	DET
+"hardiesse"	NOUN
+"de"	ADP
+"la"	DET
+"conception"	NOUN
+"et"	CCONJ
+"l'"	DET
+"ingéniosité"	NOUN
+"des"	ADP
+"
+"	SPACE
+"détails"	NOUN
+"."	PUNCT
+"Mais"	CCONJ
+"je"	PRON
+"ne"	ADV
+"vois"	VERB
+"guère"	ADV
+"de"	ADP
+"policier"	NOUN
+"assez"	ADV
+"illustre"	NOUN
+"pour"	ADP
+"que"	SCONJ
+"son"	DET
+"
+"	SPACE
+"nom"	NOUN
+"ait"	AUX
+"pu"	VERB
+"attirer"	VERB
+","	PUNCT
+"suggestionner"	VERB
+"le"	DET
+"baron"	NOUN
+"à"	ADP
+"ce"	DET
+"point"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"y"	PRON
+"en"	PRON
+"a"	VERB
+"un"	DET
+","	PUNCT
+"et"	CCONJ
+"il"	PRON
+"n'"	ADV
+"y"	PRON
+"en"	PRON
+"a"	VERB
+"qu'"	SCONJ
+"un"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Lequel"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Celui"	PROPN
+"du"	ADP
+"plus"	ADV
+"illustre"	NOUN
+","	PUNCT
+"de"	ADP
+"l'"	DET
+"ennemi"	NOUN
+"personnel"	ADJ
+"d'"	ADP
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"bref"	ADV
+","	PUNCT
+"
+"	SPACE
+"de"	ADP
+"l'"	DET
+"inspecteur"	NOUN
+"Ganimard"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Moi"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Vous"	NOUN
+"-"	ADV
+"même"	ADV
+","	PUNCT
+"Ganimard"	PROPN
+"."	PUNCT
+"Et"	CCONJ
+"voilà"	ADJ
+"ce"	PRON
+"qu'"	PRON
+"il"	PRON
+"y"	PRON
+"a"	VERB
+"de"	DET
+"délicieux"	ADJ
+":"	PUNCT
+"si"	SCONJ
+"vous"	PRON
+"
+"	SPACE
+"allez"	VERB
+"là"	ADV
+"-"	NOUN
+"bas"	ADJ
+"et"	CCONJ
+"que"	SCONJ
+"le"	DET
+"baron"	NOUN
+"se"	PRON
+"décide"	VERB
+"à"	ADP
+"causer"	VERB
+","	PUNCT
+"vous"	PRON
+"finirez"	VERB
+"par"	ADP
+"
+"	SPACE
+"découvrir"	VERB
+"que"	SCONJ
+"votre"	DET
+"devoir"	NOUN
+"est"	AUX
+"de"	ADP
+"vous"	PRON
+"arrêter"	VERB
+"vous"	PRON
+"-"	NOUN
+"même"	ADV
+","	PUNCT
+"comme"	SCONJ
+"vous"	PRON
+"
+"	SPACE
+"m'"	PRON
+"avez"	AUX
+"arrêté"	VERB
+"en"	ADP
+"Amérique"	PROPN
+"."	PUNCT
+"Hein"	PROPN
+"!"	PUNCT
+"la"	DET
+"revanche"	NOUN
+"est"	AUX
+"comique"	VERB
+":"	PUNCT
+"je"	PRON
+"fais"	VERB
+"
+"	SPACE
+"arrêter"	VERB
+"Ganimard"	PROPN
+"par"	ADP
+"Ganimard"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	X
+"riait"	VERB
+"de"	ADP
+"bon"	ADJ
+"coeur"	NOUN
+"."	PUNCT
+"L'"	DET
+"inspecteur"	NOUN
+","	PUNCT
+"assez"	ADV
+"vexé"	ADJ
+","	PUNCT
+"se"	PRON
+"mordait"	VERB
+"
+"	SPACE
+"les"	DET
+"lèvres"	NOUN
+"."	PUNCT
+"La"	DET
+"plaisanterie"	NOUN
+"ne"	ADV
+"lui"	PRON
+"semblait"	VERB
+"pas"	ADV
+"mériter"	VERB
+"de"	ADP
+"tels"	ADJ
+"accès"	NOUN
+"
+"	SPACE
+"de"	ADP
+"joie"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"L'"	DET
+"arrivée"	NOUN
+"d'"	ADP
+"un"	DET
+"gardien"	NOUN
+"lui"	PRON
+"donna"	VERB
+"le"	DET
+"loisir"	NOUN
+"de"	ADP
+"se"	PRON
+"remettre"	VERB
+"."	PUNCT
+"L'"	DET
+"homme"	NOUN
+"
+"	SPACE
+"apportait"	VERB
+"le"	DET
+"repas"	NOUN
+"qu'"	SCONJ
+"Arsène"	PROPN
+"Lupin"	PROPN
+","	PUNCT
+"par"	ADP
+"faveur"	NOUN
+"spéciale"	ADJ
+","	PUNCT
+"faisait"	VERB
+"venir"	VERB
+"
+"	SPACE
+"du"	ADP
+"restaurant"	NOUN
+"voisin"	ADJ
+"."	PUNCT
+"Ayant"	VERB
+"déposé"	VERB
+"le"	DET
+"plateau"	NOUN
+"sur"	ADP
+"la"	DET
+"table"	NOUN
+","	PUNCT
+"il"	PRON
+"se"	PRON
+"
+"	SPACE
+"retira"	VERB
+"."	PUNCT
+"Arsène"	PROPN
+"s'"	PRON
+"installa"	VERB
+","	PUNCT
+"rompit"	VERB
+"son"	DET
+"pain"	NOUN
+","	PUNCT
+"en"	ADP
+"mangea"	VERB
+"deux"	NUM
+"ou"	CCONJ
+"trois"	NUM
+"
+"	SPACE
+"bouchées"	VERB
+"et"	CCONJ
+"reprit"	VERB
+":"	PUNCT
+"
+
+"	SPACE
+"--Mais"	PRON
+","	PUNCT
+"soyez"	PROPN
+"tranquille"	NOUN
+","	PUNCT
+"mon"	DET
+"cher"	ADJ
+"Ganimard"	PROPN
+","	PUNCT
+"vous"	PRON
+"n'"	ADV
+"irez"	VERB
+"pas"	ADV
+"là"	ADV
+"-"	NOUN
+"bas"	ADJ
+"."	PUNCT
+"
+"	SPACE
+"Je"	PRON
+"vais"	VERB
+"vous"	PRON
+"révéler"	VERB
+"une"	DET
+"chose"	NOUN
+"qui"	PRON
+"vous"	PRON
+"stupéfiera"	VERB
+":"	PUNCT
+"l'"	DET
+"affaire"	NOUN
+"Cahorn"	PROPN
+"
+"	SPACE
+"est"	VERB
+"sur"	ADP
+"le"	DET
+"point"	NOUN
+"d'"	ADP
+"être"	AUX
+"classée"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Hein"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"--Sur"	NOUN
+"le"	DET
+"point"	NOUN
+"d'"	ADP
+"être"	AUX
+"classée"	VERB
+","	PUNCT
+"vous"	PRON
+"dis"	ADV
+"-je"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Allons"	NOUN
+"donc"	ADV
+","	PUNCT
+"je"	PRON
+"quitte"	VERB
+"à"	ADP
+"l'"	DET
+"instant"	NOUN
+"le"	DET
+"chef"	NOUN
+"de"	ADP
+"la"	DET
+"Sûreté"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"après"	ADP
+"?"	PUNCT
+"Est"	NOUN
+"-ce"	PRON
+"que"	SCONJ
+"M."	NOUN
+"Dudouis"	PROPN
+"en"	PRON
+"sait"	VERB
+"plus"	ADV
+"long"	ADJ
+"que"	SCONJ
+"moi"	PRON
+"sur"	ADP
+"ce"	DET
+"
+"	SPACE
+"qui"	PRON
+"me"	PRON
+"concerne"	VERB
+"?"	PUNCT
+"Vous"	PRON
+"apprendrez"	VERB
+"que"	SCONJ
+"Ganimard"	PROPN
+"--"	PROPN
+"excusez"	NOUN
+"-"	NOUN
+"moi"	PRON
+"--"	PRON
+"que"	PRON
+"le"	DET
+"
+"	SPACE
+"pseudo-Ganimard"	ADJ
+"est"	AUX
+"resté"	VERB
+"en"	ADP
+"fort"	ADV
+"bons"	ADJ
+"termes"	NOUN
+"avec"	ADP
+"le"	DET
+"baron"	NOUN
+"."	PUNCT
+"Celui"	PROPN
+"-"	PRON
+"ci"	NOUN
+","	PUNCT
+"
+"	SPACE
+"et"	CCONJ
+"c'"	PRON
+"est"	AUX
+"la"	DET
+"raison"	NOUN
+"principale"	ADJ
+"pour"	ADP
+"laquelle"	PRON
+"il"	PRON
+"n'"	ADV
+"a"	VERB
+"rien"	PRON
+"avoué"	VERB
+","	PUNCT
+"l'"	PRON
+"a"	AUX
+"
+"	SPACE
+"chargé"	VERB
+"de"	ADP
+"la"	DET
+"très"	ADV
+"délicate"	ADJ
+"mission"	NOUN
+"de"	ADP
+"négocier"	VERB
+"avec"	ADP
+"moi"	PRON
+"une"	DET
+"
+"	SPACE
+"transaction"	NOUN
+","	PUNCT
+"et"	CCONJ
+","	PUNCT
+"à"	ADP
+"l'"	DET
+"heure"	NOUN
+"présente"	ADJ
+","	PUNCT
+"moyennant"	VERB
+"une"	DET
+"certaine"	NOUN
+"somme"	ADJ
+","	PUNCT
+"il"	PRON
+"
+"	SPACE
+"est"	AUX
+"probable"	ADJ
+"que"	SCONJ
+"le"	DET
+"baron"	NOUN
+"est"	AUX
+"rentré"	VERB
+"en"	ADP
+"possession"	NOUN
+"de"	ADP
+"ses"	DET
+"chers"	ADJ
+"
+"	SPACE
+"bibelots"	NOUN
+"."	PUNCT
+"En"	ADP
+"retour"	NOUN
+"de"	ADP
+"quoi"	PRON
+","	PUNCT
+"il"	PRON
+"retirera"	VERB
+"sa"	DET
+"plainte"	NOUN
+"."	PUNCT
+"Donc"	ADV
+","	PUNCT
+"plus"	ADV
+"de"	ADP
+"
+"	SPACE
+"vol"	NOUN
+"."	PUNCT
+"Donc"	ADV
+"il"	PRON
+"faudra"	VERB
+"bien"	ADV
+"que"	SCONJ
+"le"	DET
+"parquet"	NOUN
+"abandonne"	ADJ
+"..."	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"considéra"	VERB
+"le"	DET
+"détenu"	NOUN
+"d'"	ADP
+"un"	DET
+"air"	NOUN
+"stupéfait"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"comment"	ADV
+"savez"	VERB
+"-vous"	PRON
+"tout"	ADV
+"cela"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Je"	NOUN
+"viens"	NOUN
+"de"	ADP
+"recevoir"	VERB
+"la"	DET
+"dépêche"	NOUN
+"que"	PRON
+"j'"	PRON
+"attendais"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"venez"	ADJ
+"de"	ADP
+"recevoir"	VERB
+"une"	DET
+"dépêche"	NOUN
+"?"	PUNCT
+"
+
+"	SPACE
+"--À"	NUM
+"l'"	DET
+"instant"	NOUN
+","	PUNCT
+"cher"	ADJ
+"ami"	NOUN
+"."	PUNCT
+"Par"	ADP
+"politesse"	NOUN
+","	PUNCT
+"je"	PRON
+"n'"	ADV
+"ai"	AUX
+"pas"	ADV
+"voulu"	VERB
+"la"	PRON
+"lire"	VERB
+"en"	ADP
+"
+"	SPACE
+"votre"	DET
+"présence"	NOUN
+"."	PUNCT
+"Mais"	CCONJ
+"si"	SCONJ
+"vous"	PRON
+"m'"	PRON
+"y"	PRON
+"autorisez"	ADV
+"..."	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"vous"	PRON
+"moquez"	VERB
+"de"	ADP
+"moi"	PRON
+","	PUNCT
+"Lupin"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Veuillez"	VERB
+","	PUNCT
+"mon"	DET
+"cher"	ADJ
+"ami"	NOUN
+","	PUNCT
+"décapiter"	VERB
+"doucement"	ADV
+"cet"	DET
+"oeuf"	VERB
+"à"	ADP
+"la"	DET
+"coque"	NOUN
+"."	PUNCT
+"
+"	SPACE
+"Vous"	PRON
+"constaterez"	VERB
+"par"	ADP
+"vous"	PRON
+"-"	NOUN
+"même"	ADV
+"que"	SCONJ
+"je"	PRON
+"ne"	ADV
+"me"	PRON
+"moque"	VERB
+"pas"	ADV
+"de"	DET
+"vous"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"Machinalement"	PROPN
+"Ganimard"	PROPN
+"obéit"	ADJ
+","	PUNCT
+"et"	CCONJ
+"cassa"	VERB
+"l'"	PRON
+"oeuf"	NOUN
+"avec"	ADP
+"la"	DET
+"lame"	NOUN
+"d'"	ADP
+"un"	DET
+"
+"	SPACE
+"couteau"	NOUN
+"."	PUNCT
+"Un"	DET
+"cri"	NOUN
+"de"	ADP
+"surprise"	NOUN
+"lui"	PRON
+"échappa"	VERB
+"."	PUNCT
+"La"	DET
+"coque"	NOUN
+","	PUNCT
+"vide"	ADJ
+","	PUNCT
+"contenait"	VERB
+"une"	DET
+"
+"	SPACE
+"feuille"	ADJ
+"de"	ADP
+"papier"	NOUN
+"bleu"	ADJ
+"."	PUNCT
+"Sur"	ADP
+"la"	DET
+"prière"	NOUN
+"d'"	ADP
+"Arsène"	PROPN
+","	PUNCT
+"il"	PRON
+"la"	DET
+"déplia"	NOUN
+"."	PUNCT
+"C'"	PRON
+"était"	AUX
+"
+"	SPACE
+"un"	DET
+"télégramme"	NOUN
+","	PUNCT
+"ou"	CCONJ
+"plutôt"	ADV
+"une"	DET
+"partie"	NOUN
+"de"	ADP
+"télégramme"	NOUN
+"auquel"	NOUN
+"on"	PRON
+"avait"	AUX
+"
+"	SPACE
+"arraché"	VERB
+"les"	DET
+"indications"	NOUN
+"de"	ADP
+"la"	DET
+"poste"	NOUN
+"."	PUNCT
+"Il"	PRON
+"lut"	X
+":"	PUNCT
+"
+
+"	SPACE
+"«"	NOUN
+"Accord"	NOUN
+"conclu"	VERB
+"."	PUNCT
+"Cent"	NUM
+"mille"	X
+"balles"	NOUN
+"livrées"	ADJ
+"."	PUNCT
+"Tout"	DET
+"va"	VERB
+"bien"	ADV
+"."	PUNCT
+"»"	PUNCT
+"
+
+"	SPACE
+"--Cent"	PRON
+"mille"	X
+"balles"	NOUN
+"?"	PUNCT
+"fit"	NOUN
+"-il"	PRON
+"."	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+","	PUNCT
+"cent"	NUM
+"mille"	NUM
+"francs"	NOUN
+"!"	PUNCT
+"C'"	PRON
+"est"	AUX
+"peu"	ADV
+","	PUNCT
+"mais"	CCONJ
+"enfin"	ADV
+"les"	DET
+"temps"	NOUN
+"sont"	AUX
+"
+"	SPACE
+"durs"	ADJ
+"..."	PUNCT
+"Et"	CCONJ
+"j'"	PRON
+"ai"	VERB
+"des"	DET
+"frais"	NOUN
+"généraux"	ADJ
+"si"	SCONJ
+"lourds"	NOUN
+"!"	PUNCT
+"Si"	SCONJ
+"vous"	PRON
+"connaissiez"	VERB
+"
+"	SPACE
+"mon"	DET
+"budget"	NOUN
+"..."	PUNCT
+"un"	DET
+"budget"	NOUN
+"de"	ADP
+"grande"	ADJ
+"ville"	NOUN
+"!"	PUNCT
+"
+
+"	SPACE
+"Ganimard"	PROPN
+"se"	PRON
+"leva"	VERB
+"."	PUNCT
+"Sa"	DET
+"mauvaise"	ADJ
+"humeur"	NOUN
+"s'"	PRON
+"était"	AUX
+"dissipée"	VERB
+"."	PUNCT
+"Il"	PRON
+"réfléchit"	VERB
+"
+"	SPACE
+"quelques"	DET
+"secondes"	NOUN
+","	PUNCT
+"embrassa"	VERB
+"d'"	ADP
+"un"	DET
+"coup"	NOUN
+"d'"	ADP
+"oeil"	NOUN
+"toute"	ADJ
+"l'"	DET
+"affaire"	NOUN
+","	PUNCT
+"pour"	ADP
+"
+"	SPACE
+"tâcher"	NOUN
+"d'"	ADP
+"en"	PRON
+"découvrir"	VERB
+"le"	DET
+"point"	NOUN
+"faible"	ADJ
+"."	PUNCT
+"Puis"	CCONJ
+"il"	PRON
+"prononça"	VERB
+"d'"	ADP
+"un"	DET
+"ton"	NOUN
+"où"	PRON
+"il"	PRON
+"
+"	SPACE
+"laissait"	VERB
+"franchement"	ADV
+"percer"	VERB
+"son"	DET
+"admiration"	NOUN
+"de"	ADP
+"connaisseur"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Par"	PRON
+"bonheur"	NOUN
+","	PUNCT
+"il"	PRON
+"n'"	ADV
+"en"	PRON
+"existe"	VERB
+"pas"	ADV
+"des"	DET
+"douzaines"	NOUN
+"comme"	ADP
+"vous"	PRON
+","	PUNCT
+"sans"	ADP
+"quoi"	PRON
+"
+"	SPACE
+"il"	PRON
+"n'"	ADV
+"y"	PRON
+"aurait"	VERB
+"plus"	ADV
+"qu'"	SCONJ
+"à"	ADP
+"fermer"	VERB
+"boutique"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"prit"	VERB
+"un"	DET
+"petit"	ADJ
+"air"	NOUN
+"modeste"	ADJ
+"et"	CCONJ
+"répondit"	NOUN
+":"	PUNCT
+"
+
+"	SPACE
+"--Bah"	PROPN
+"!"	PUNCT
+"il"	PRON
+"fallait"	VERB
+"bien"	ADV
+"se"	PRON
+"distraire"	VERB
+","	PUNCT
+"occuper"	VERB
+"ses"	DET
+"loisirs"	NOUN
+"..."	PUNCT
+"
+"	SPACE
+"d'"	ADP
+"autant"	ADV
+"que"	SCONJ
+"le"	DET
+"coup"	NOUN
+"ne"	ADV
+"pouvait"	VERB
+"réussir"	VERB
+"que"	SCONJ
+"si"	SCONJ
+"j'"	PRON
+"étais"	VERB
+"en"	ADP
+"prison"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Comment"	VERB
+"!"	PUNCT
+"s'"	PRON
+"exclama"	VERB
+"Ganimard"	PROPN
+","	PUNCT
+"votre"	DET
+"procès"	NOUN
+","	PUNCT
+"votre"	DET
+"défense"	NOUN
+","	PUNCT
+"
+"	SPACE
+"l'"	DET
+"instruction"	NOUN
+","	PUNCT
+"tout"	ADV
+"cela"	PRON
+"ne"	ADV
+"vous"	PRON
+"suffit"	VERB
+"donc"	ADV
+"pas"	ADV
+"pour"	ADP
+"vous"	PRON
+"distraire"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Non"	ADJ
+","	PUNCT
+"car"	CCONJ
+"j'"	PRON
+"ai"	AUX
+"résolu"	VERB
+"de"	ADP
+"ne"	ADV
+"pas"	ADV
+"assister"	VERB
+"à"	ADP
+"mon"	DET
+"procès"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Oh"	ADJ
+"!"	PUNCT
+"oh"	PRON
+"!"	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	PROPN
+"répéta"	VERB
+"posément"	ADV
+":"	PUNCT
+"
+
+"	SPACE
+"--Je"	NOUN
+"n'"	ADV
+"assisterai"	VERB
+"pas"	ADV
+"à"	ADP
+"mon"	DET
+"procès"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--En"	VERB
+"vérité"	ADJ
+"!"	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"ça"	PRON
+","	PUNCT
+"mon"	DET
+"cher"	ADJ
+","	PUNCT
+"vous"	PRON
+"imaginez"	VERB
+"-vous"	NOUN
+"que"	SCONJ
+"je"	PRON
+"vais"	VERB
+"pourrir"	VERB
+"sur"	ADP
+"la"	DET
+"
+"	SPACE
+"paille"	ADJ
+"humide"	ADJ
+"?"	PUNCT
+"Vous"	PRON
+"m'"	PRON
+"outragez"	NOUN
+"."	PUNCT
+"Arsène"	PROPN
+"Lupin"	PROPN
+"ne"	ADV
+"reste"	VERB
+"en"	ADP
+"prison"	NOUN
+"que"	SCONJ
+"le"	DET
+"
+"	SPACE
+"temps"	NOUN
+"qu'"	SCONJ
+"il"	PRON
+"lui"	PRON
+"plaît"	ADJ
+","	PUNCT
+"et"	CCONJ
+"pas"	ADV
+"une"	DET
+"minute"	NOUN
+"de"	ADP
+"plus"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Il"	NOUN
+"eût"	ADV
+"peut-être"	ADV
+"été"	AUX
+"plus"	ADV
+"prudent"	ADJ
+"de"	ADP
+"commencer"	VERB
+"par"	ADP
+"ne"	ADV
+"pas"	ADV
+"y"	PRON
+"entrer"	VERB
+","	PUNCT
+"
+"	SPACE
+"objecta"	NOUN
+"l'"	DET
+"inspecteur"	NOUN
+"d'"	ADP
+"un"	DET
+"ton"	NOUN
+"ironique"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Ah"	PRON
+"!"	PUNCT
+"monsieur"	NOUN
+"raille"	VERB
+"?"	PUNCT
+"monsieur"	NOUN
+"se"	PRON
+"souvient"	VERB
+"qu'"	SCONJ
+"il"	PRON
+"a"	AUX
+"eu"	VERB
+"l'"	DET
+"honneur"	NOUN
+"de"	ADP
+"
+"	SPACE
+"procéder"	VERB
+"à"	ADP
+"mon"	DET
+"arrestation"	NOUN
+"?"	PUNCT
+"Sachez"	ADV
+","	PUNCT
+"mon"	DET
+"respectable"	NOUN
+"ami"	NOUN
+","	PUNCT
+"que"	PRON
+"personne"	NOUN
+","	PUNCT
+"
+"	SPACE
+"pas"	ADV
+"plus"	ADV
+"vous"	PRON
+"qu'"	SCONJ
+"un"	DET
+"autre"	NOUN
+","	PUNCT
+"n'"	ADV
+"eût"	AUX
+"pu"	VERB
+"mettre"	VERB
+"la"	DET
+"main"	NOUN
+"sur"	ADP
+"moi"	PRON
+","	PUNCT
+"si"	SCONJ
+"un"	DET
+"
+"	SPACE
+"intérêt"	NOUN
+"beaucoup"	ADV
+"plus"	ADV
+"considérable"	ADJ
+"ne"	ADV
+"m'"	PRON
+"avait"	AUX
+"sollicité"	ADJ
+"à"	ADP
+"ce"	DET
+"moment"	NOUN
+"
+"	SPACE
+"critique"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Vous"	PRON
+"m'"	PRON
+"étonnez"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"--Une"	X
+"femme"	NOUN
+"me"	PRON
+"regardait"	VERB
+","	PUNCT
+"Ganimard"	PROPN
+","	PUNCT
+"et"	CCONJ
+"je"	PRON
+"l'"	PRON
+"aimais"	VERB
+"."	PUNCT
+"Comprenez"	PROPN
+"-vous"	PRON
+"
+"	SPACE
+"tout"	ADJ
+"ce"	PRON
+"qu'"	PRON
+"il"	PRON
+"y"	PRON
+"a"	VERB
+"dans"	ADP
+"ce"	DET
+"fait"	NOUN
+"d'"	ADP
+"être"	AUX
+"regardé"	VERB
+"par"	ADP
+"une"	DET
+"femme"	NOUN
+"que"	PRON
+"l'"	PRON
+"on"	PRON
+"
+"	SPACE
+"aime"	NOUN
+"?"	PUNCT
+"Le"	DET
+"reste"	NOUN
+"m'"	PRON
+"importait"	VERB
+"peu"	ADV
+","	PUNCT
+"je"	PRON
+"vous"	PRON
+"jure"	VERB
+"."	PUNCT
+"Et"	CCONJ
+"c'"	PRON
+"est"	VERB
+"pourquoi"	ADV
+"je"	PRON
+"
+"	SPACE
+"suis"	ADV
+"ici"	ADV
+"."	PUNCT
+"
+
+"	SPACE
+"--Depuis"	VERB
+"bien"	ADV
+"longtemps"	ADV
+","	PUNCT
+"permettez"	VERB
+"-moi"	PRON
+"de"	ADP
+"le"	PRON
+"remarquer"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Je"	PRON
+"voulais"	VERB
+"oublier"	VERB
+"d'"	ADP
+"abord"	NOUN
+"."	PUNCT
+"Ne"	ADV
+"riez"	VERB
+"pas"	ADV
+":"	PUNCT
+"l'"	DET
+"aventure"	NOUN
+"avait"	AUX
+"été"	AUX
+"
+"	SPACE
+"charmante"	ADJ
+","	PUNCT
+"et"	CCONJ
+"j'"	PRON
+"en"	PRON
+"ai"	AUX
+"gardé"	VERB
+"encore"	ADV
+"le"	DET
+"souvenir"	NOUN
+"attendri"	ADJ
+"..."	PUNCT
+"Et"	CCONJ
+"puis"	CCONJ
+","	PUNCT
+"
+"	SPACE
+"je"	PRON
+"suis"	AUX
+"quelque"	ADV
+"peu"	ADV
+"neurasthénique"	ADJ
+"!"	PUNCT
+"La"	DET
+"vie"	NOUN
+"est"	AUX
+"si"	ADV
+"fiévreuse"	ADJ
+"de"	ADP
+"nos"	DET
+"
+"	SPACE
+"jours"	NOUN
+"!"	PUNCT
+"Il"	PRON
+"faut"	VERB
+"savoir"	VERB
+","	PUNCT
+"à"	ADP
+"certains"	DET
+"moments"	NOUN
+","	PUNCT
+"faire"	VERB
+"ce"	PRON
+"que"	PRON
+"l'"	PRON
+"on"	PRON
+"appelle"	VERB
+"
+"	SPACE
+"une"	DET
+"cure"	NOUN
+"d'"	ADP
+"isolement"	NOUN
+"."	PUNCT
+"Cet"	DET
+"endroit"	NOUN
+"est"	AUX
+"souverain"	ADJ
+"pour"	ADP
+"les"	DET
+"régimes"	NOUN
+"de"	ADP
+"ce"	DET
+"
+"	SPACE
+"genre"	NOUN
+"."	PUNCT
+"On"	PRON
+"y"	PRON
+"pratique"	VERB
+"la"	DET
+"cure"	NOUN
+"de"	ADP
+"Santé"	NOUN
+"dans"	ADP
+"toute"	ADJ
+"sa"	DET
+"rigueur"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Arsène"	NOUN
+"Lupin"	PROPN
+","	PUNCT
+"observa"	VERB
+"Ganimard"	PROPN
+","	PUNCT
+"vous"	PRON
+"vous"	PRON
+"payez"	VERB
+"ma"	DET
+"tête"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ganimard"	PROPN
+","	PUNCT
+"affirma"	VERB
+"Lupin"	PROPN
+","	PUNCT
+"nous"	PRON
+"sommes"	AUX
+"aujourd'hui"	ADV
+"vendredi"	NOUN
+"."	PUNCT
+"Mercredi"	NOUN
+"
+"	SPACE
+"prochain"	ADJ
+","	PUNCT
+"j'"	PRON
+"irai"	VERB
+"fumer"	VERB
+"mon"	DET
+"cigare"	NOUN
+"chez"	ADP
+"vous"	PRON
+","	PUNCT
+"rue"	NOUN
+"Pergolèse"	PROPN
+","	PUNCT
+"à"	ADP
+"quatre"	NUM
+"
+"	SPACE
+"heures"	NOUN
+"de"	ADP
+"l'"	DET
+"après-midi"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Arsène"	NOUN
+"Lupin"	PROPN
+","	PUNCT
+"je"	PRON
+"vous"	PRON
+"attends"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"Ils"	PRON
+"se"	PRON
+"serrèrent"	VERB
+"la"	DET
+"main"	NOUN
+"comme"	ADP
+"deux"	NUM
+"bons"	ADJ
+"amis"	NOUN
+"qui"	PRON
+"s'"	PRON
+"estiment"	VERB
+"à"	ADP
+"leur"	DET
+"
+"	SPACE
+"juste"	ADV
+"valeur"	NOUN
+","	PUNCT
+"et"	CCONJ
+"le"	DET
+"vieux"	ADJ
+"policier"	NOUN
+"se"	PRON
+"dirigea"	VERB
+"vers"	ADP
+"la"	DET
+"porte"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ganimard"	PROPN
+"!"	PUNCT
+"
+
+"	SPACE
+"Celui"	PROPN
+"-"	PRON
+"ci"	PRON
+"se"	PRON
+"retourna"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Qu'"	PRON
+"y"	PRON
+"a"	AUX
+"-t"	PRON
+"-il"	PRON
+"?"	PUNCT
+"
+
+"	SPACE
+"--Ganimard"	PROPN
+","	PUNCT
+"vous"	PRON
+"oubliez"	VERB
+"votre"	DET
+"montre"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--Ma"	ADJ
+"montre"	ADJ
+"?"	PUNCT
+"
+
+"	SPACE
+"--Oui"	ADJ
+","	PUNCT
+"elle"	PRON
+"s'"	PRON
+"est"	AUX
+"égarée"	VERB
+"dans"	ADP
+"ma"	DET
+"poche"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"la"	DET
+"rendit"	VERB
+"en"	ADP
+"s'"	PRON
+"excusant"	VERB
+"."	PUNCT
+"
+
+"	SPACE
+"--Pardonne"	ADJ
+"-moi"	PRON
+"..."	PUNCT
+"une"	DET
+"mauvaise"	ADJ
+"habitude"	NOUN
+"..."	PUNCT
+"Mais"	CCONJ
+"ce"	PRON
+"n'"	ADV
+"est"	AUX
+"pas"	ADV
+"
+"	SPACE
+"une"	DET
+"raison"	NOUN
+"parce"	SCONJ
+"qu'"	SCONJ
+"ils"	PRON
+"m'"	PRON
+"ont"	AUX
+"pris"	VERB
+"la"	DET
+"mienne"	NOUN
+"pour"	ADP
+"que"	SCONJ
+"je"	PRON
+"vous"	PRON
+"prive"	VERB
+"de"	ADP
+"
+"	SPACE
+"la"	DET
+"vôtre"	NOUN
+"."	PUNCT
+"D'"	ADP
+"autant"	ADV
+"que"	SCONJ
+"j'"	PRON
+"ai"	VERB
+"là"	ADV
+"un"	DET
+"chronomètre"	NOUN
+"dont"	PRON
+"je"	PRON
+"n'"	ADV
+"ai"	VERB
+"pas"	ADV
+"à"	ADP
+"me"	PRON
+"
+"	SPACE
+"plaindre"	VERB
+","	PUNCT
+"et"	CCONJ
+"qui"	PRON
+"satisfait"	VERB
+"pleinement"	ADV
+"à"	ADP
+"mes"	DET
+"besoins"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"Il"	PRON
+"sortit"	VERB
+"du"	ADP
+"tiroir"	VERB
+"une"	DET
+"large"	NOUN
+"montre"	ADJ
+"en"	ADP
+"or"	NOUN
+","	PUNCT
+"épaisse"	NOUN
+"et"	CCONJ
+"confortable"	ADJ
+","	PUNCT
+"
+"	SPACE
+"ornée"	VERB
+"d'"	ADP
+"une"	DET
+"lourde"	NOUN
+"chaîne"	ADJ
+"."	PUNCT
+"
+
+"	SPACE
+"--Et"	NOUN
+"celle-ci"	NOUN
+","	PUNCT
+"de"	ADP
+"quelle"	DET
+"poche"	NOUN
+"vient"	VERB
+"-elle"	PRON
+"?"	PUNCT
+"demanda"	NOUN
+"Ganimard"	PROPN
+"."	PUNCT
+"
+
+"	SPACE
+"Arsène"	PROPN
+"Lupin"	X
+"examina"	VERB
+"négligemment"	ADV
+"les"	DET
+"initiales"	NOUN
+"."	PUNCT
+"
+
+"	SPACE
+"--J."	NUM
+"B"	NOUN
+"..."	PUNCT
+"Qui"	PRON
+"diable"	VERB
+"cela"	PRON
+"peut"	VERB
+"-il"	PRON
+"bien"	ADV
+"être"	AUX
+"?"	PUNCT
+"..."	PUNCT
+"Ah"	NOUN
+"!"	PUNCT
+"oui"	NOUN
+","	PUNCT
+"je"	PRON
+"me"	PRON
+"
+"	SPACE
+"souviens"	NOUN
+","	PUNCT
+"Jules"	PROPN
+"Bouvier"	PROPN
+","	PUNCT
+"mon"	DET
+"juge"	NOUN
+"d'"	ADP
+"instruction"	NOUN
+","	PUNCT
+"un"	DET
+"homme"	NOUN
+"charmant"	ADJ
+"..."	PUNCT
